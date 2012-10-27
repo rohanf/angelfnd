@@ -1,0 +1,9 @@
+mysql_db=angelfnd_wordpress
+mysql_user=angelfnd_wordprs
+mysql_pswd=M!1!t@ryR0@d
+
+Wordpress URL http://<site>/wordpress/wp-admin
+Wordpress Username admin 
+Wordpress Password M!1!t@ryR0@d
+
+define('DB_HOST', '127.0.0.1'); //and NOT localhost

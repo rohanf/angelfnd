@@ -1,0 +1,381 @@
+.container {
+clear: both;
+height: 150px;
+min-width: 960px;
+}
+
+.left-container, .middle-container, .right-container {
+height: 100%;
+vertical-align: top;
+}
+
+.middle-container {
+margin-left: 250px;
+margin-right: 250px;
+min-width: 460px;
+}
+
+.left-container, .right-container {
+width: 250px;
+}
+
+.left-container {
+float: left;
+}
+
+.right-container {
+float: right;
+}
+
+
+
+
+
+/*********************** BEGIN VIDEOS DIV ***********************/
+#headerDiv, #contentDiv
+{
+	float: left;
+	width: 510px;
+	height: 40px;
+	position:relative;
+}
+
+#titleText
+{
+	float: left;
+	font-size: 1.2em;
+	font-weight: bold;
+	margin: 0px 0px 0px 0px;
+	position:absolute;
+	top:10%;
+}
+
+#headerDiv
+{
+	background-color: #FFFFFF;
+	color: #9EB6FF;
+	margin: 0px 0px 0px 0px;
+}
+
+#contentDiv
+{
+	background-color: #FFFFFF;
+}
+
+#myContent
+{
+	margin: 10px 0px 0px 0px;
+}
+
+#headerDiv a
+{
+	float: right;
+	margin: 0px 0px 0px 0px;
+}
+/*********************** END VIDEOS DIV ***********************/
+
+
+/******************* START IMAGE BORDER DIV *******************/
+img.selected-padded {
+	border: 6px solid #ff0;
+	padding: 3px;
+	background-color: transparent;
+}
+
+img.selected {
+	border: 6px solid #ff0;
+	padding: 0px;
+	background-color: transparent;
+}
+/******************** END IMAGE BORDER DIV ********************/
+
+
+html
+{
+	overflow: scroll;
+}
+
+a:link
+{
+	color: rgb(0,114,188); 
+	text-decoration: none;
+}
+
+a:visited
+{
+	color: rgb(0,114,188); 
+	text-decoration: none;
+} 
+
+a:active 
+{
+	color: rgb(0,114,188); 
+	text-decoration: underline;
+}
+
+a:hover
+{
+	color: rgb(196,21,28);
+	text-decoration: none;
+}
+
+img
+{
+	border-style: none;
+}
+
+body
+{
+	font-family:  Arial;
+	font-size: 12px;
+	color: rgb(0,0,0);
+	bckground-color:rgb(200,200,200);	
+	background-image:url('images/bg.gif');
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.divOuter
+{
+	display: inline;
+        text-align: center;
+}
+
+.divInner1, .divInner2, .divInner3, .divInner4
+{
+        border: 1px solid transparent;
+        float: right;
+//      width: 200px;
+        height: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+}
+
+table
+{
+	font-family:  Arial;
+	font-size: 12px;
+	color: rgb(0,0,0);
+	bckground-color:rgb(255,255,255);
+}
+
+td
+{
+	text-align: left;
+//	vertical-align: top;
+}
+
+.th
+{
+	background-color:#9a1808;
+	font-family: Arial, Verdana;
+	font-size: 13px;
+	font-weight: bold;
+	color: rgb(255,255,255);
+}
+
+.tch
+{
+	background-color:rgb(200,200,200);
+	font-family: Arial, Verdana;
+	font-size: 12px;
+	font-weight: bold;
+	color: rgb(0,0,0);
+}
+
+.tc
+{
+	background-color:rgb(225,225,225);
+	font-family:  Arial, Verdana;
+	font-style: normal;
+	font-size: 12px;
+	color: rgb(0,0,0);
+}
+
+.hd
+{
+	text-align: left;
+	font-family: Arial;
+	font-size: 13px;
+	font-weight: bold;
+	color: rgb(0,0,0);
+	margin: 0px 0px 0px 0px;
+}
+
+a.mo
+{
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	color: rgb(255,153,51);
+	text-decoration: none;
+}
+
+a.llt
+{
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: normal;
+	color: rgb(255,255,255);
+	text-decoration: none;
+}
+
+a:hover.llt
+{
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	color: rgb(255,153,51);
+	text-decoration: none;
+}
+
+a.unl
+{
+	font-family: Arial;
+	font-size: 11px;
+	font-weight: bold;
+	color: rgb(255,153,51);
+	text-decoration: none;
+}
+
+p
+{
+	align: justify;
+	line-height: 150%;
+}
+
+.who
+{
+	margin-bottom: 0px;
+	line-height: 100%;
+	float: left;
+	font-family: Arial;
+	font-size  : 15px;
+	font-weight: bold;
+}
+
+.timestamp
+{
+	margin-bottom: 0px;
+	line-height: 200%;
+	font-family: Arial;
+	font-size: 9px;
+	font-weight: bold;
+	//color: rgb(255,153,51);
+}
+
+.commenzz
+{
+	margin-top: -10px;
+	line-height: 100%;
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	color: rgb(112,112,112);
+	//color: rgb(255,153,51);
+
+}
+
+h1
+{
+	font-family: Arial;
+	font-size  : 14pt;
+	font-weight: normal;
+	font-style: none;
+	color: rgb(0,51,101);
+}
+
+h2
+{
+	font-family: Arial;
+	font-size  : 14px;
+	font-weight: bold;
+	color: rgb(230,230,230);
+}
+
+h3
+{
+	text-align: left;
+	font-family: Arial;
+	font-size  : 15px;
+	font-weight: bold;
+	color: rgb(155,23,10);
+	margin: 0px 0px 15px 0px;
+}
+
+h5
+{
+	font-family: Arial;
+	font-size  : 23pt;
+	font-weight: normal;
+	color: rgb(71,86,127);
+}
+
+.tb
+{
+	font-family: Tahoma;
+	font-size  : 8pt;
+	color: rgb(0,0,0);
+	border-width: 1px;
+	border-style: solid;
+	border-color: #b8b8b8;
+	bckground-color: #6481c7;
+}
+
+ul
+{
+	list-style-image: url('images/bullet-mo.gif');
+	list-style-type: circle;
+	list-style-position: inside;
+}
+
+
+/* Half curvy box structure starts here */
+.halfCurvy
+{
+    position:relative;
+    width:200px;
+    background:orange;
+    color:#000;
+    margin:1em auto;
+}
+
+#ctl, #cbl, #ctr, #cbr
+{
+    position:absolute;
+    width:20px;
+    height:20px;
+    color:#9caf9c;
+    background:#fff;
+    overflow:hidden;
+    font-style:normal;
+    z-index:1;
+}
+
+#ctl {top:0; left:0;}
+#cbl {bottom:0; left:0;}
+#ctr {top:0; right:0;}
+#cbr {bottom:0; right:0;}
+
+.halfCurvy em b
+{
+    position:absolute;
+    font-size:150px;
+    font-family:arial;
+    color:orange;
+    line-height:40px;
+    font-weight:normal;
+}
+
+#ctl b {left:-8px;}
+#ctr b {left:-25px;}
+#cbl b {left:-8px; top:-17px;}
+#cbr b {left:-25px; top:-17px;}
+
+.halfCurvy p
+{
+    position:relative;
+    z-index:100;
+    padding:5px 10px;
+}
+/* Half curvy box structure ends here */

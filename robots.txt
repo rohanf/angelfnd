@@ -1,0 +1,11 @@
+###############################
+#
+#
+User-agent: *
+#
+#All robots will spider the domain
+Disallow:
+#
+#
+###############################
+
