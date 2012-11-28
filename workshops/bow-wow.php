@@ -82,20 +82,16 @@
                     	<td>
                         	<?php
 								if (isset($_REQUEST['email'])) {
-								//if "email" is filled out, send email
-									//send email
 									$name = $_REQUEST['name'];
 									$email = $_REQUEST['email'];
 									$phone = $_REQUEST['phone'];
 									$age = $_REQUEST['age'];
 									$location = $_REQUEST['location'];
 									$comments = $_REQUEST['comments'];
-									$message = $name.$phone.$age.$location.$comments;
-									//mail("rohanf@gmail.com", "Workshop Inquiry", $message, "From:" . $email);
-									mail("rohanf@gmail.com", "Workshop Inquiry", "It works");
-									echo "Thank you. We will get in touch as soon as we have a workshop in the area closest to where you stay.</p>";
+									$message = "Name: ".$name."\n"."Phone number: ".$phone."\n"."Age: ".$age."\n"."Location: ".$location."\n"."Coments: ".$comments;
+									mail("animalangelsindia@gmail.com", "Workshop Inquiry", $message, "From:" . $email);
+									echo "Thank you $name. We will get in touch as soon as we have a workshop in the area closest to where you stay.</p>";
 								} else {
-								//if "email" is not filled out, display the form
 									echo "<form method='post' action='bow-wow.php'>
 									Name:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type='text' name='name'><br />
 									Email address:&nbsp;&nbsp;&nbsp;&nbsp;<input type='text' name='email'><br />
