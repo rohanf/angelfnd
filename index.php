@@ -58,6 +58,12 @@
                 <td width="100%" height="50">&nbsp;</td>
               </tr>
               <tr>
+                <td width="520" height="330"><a href="/workshops/bow-wow.php"><img border="0" src="/images/workshop-banner.jpg" title="Inquire about our workshops" alt="Inquire about our workshops" align="left" width="520" height="330"></td>
+              </tr>
+              <tr>
+                <td width="100%" height="50">&nbsp;</td>
+              </tr>
+              <tr>
                 <td width="520" height="256"><a target="_blank" href="http://www.sparktherise.com/projectdetails.php?pId=7538"><img border="0" src="/images/mahindra-rise.jpg" title="Vote for us at Mahindra Rise!" alt="Vote for us at Mahindra Rise!" align="left" width="520" height="256"></td>
               </tr>
               <tr>

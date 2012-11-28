@@ -78,12 +78,18 @@
               <tr>
                 <td width="155"><img border="0" src="/images/top.gif" alt="divider" width="155" height="22"></td>
                 <td width="43"></td>
-                <td width="2"><img border="0" src="/images/orange-line.gif" alt="orange line" width="2" height="22"></td>
-                <td width="97"><img border="0" src="/images/orange-line.gif" alt="orange line" width="97" height="22"></td>
+
+				<td width="2"><img border="0" src="/images/dv-line.gif" alt="divider" width="2" height="22"></td>
+                <td width="97">
+                  <a href="/workshops/bow-wow.php">
+                  <?
+                    ($topNav=='workshops')?
+                    (print'<img border="0" src="/images/bt-workshops-mo.gif" class="domroll /images/bt-workshops-mo.gif" alt="Workshops at Animal Angels Foundation (selected)" width="97" height="22"></a></td><script type="text/javascript">var tableHeight = 475;</script>'):
+                    (print'<img border="0" src="/images/bt-workshops.gif" class="domroll /images/bt-workshops-mo.gif" alt="Workshops at Animal Angels Foundation" width="97" height="22"></a></td>')
+                  ?>
+
                 <td width="2"><img border="0" src="/images/orange-line.gif" alt="orange line" width="2" height="22"></td>
                 <td width="96"><img border="0" src="/images/orange-line.gif" alt="orange line" width="96" height="22"></td>
-
-
 
                 <td width="2"><img border="0" src="/images/dv-line.gif" alt="divide" width="2" height="22"></td>
                 <td width="88">

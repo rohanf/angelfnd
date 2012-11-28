@@ -1,6 +1,6 @@
 Use the button (bt-template.gif) and copy patterns (breadthwise) till the desired size is reached @96dpi
 Magnify the button so that you can replace the topmost layer with the one below it (for buttons on the second line)
-Put in the text as follows
+Put in the text as follows:
 Arial Narrow
 Regular
 10
@@ -8,8 +8,14 @@ Strong
 Orange (fe9e3e)
 Make sure the images are saved as GIF files
 
-595 x 89
+On Photoshop CS5, I had to set it up as follows. 
+Arial Narrow
+Regular
+7 pt
+Vertical Scale 50%
+Horizpontal Scale 45%
+Crisp
+Orange (fe9e3e)
+Make sure the images are saved as GIF files
 
-236 x 88
-162 x 88
-194 x 88
+A good rule of thumb is to reproduce the text from another layer (prefereably in the same column), and then replace it with the new text.

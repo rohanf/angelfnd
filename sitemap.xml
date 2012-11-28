@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
       <loc>http://www.animalangelsfoundation.com/</loc>
-      <lastmod>2012-11-12</lastmod>
+      <lastmod>2012-11-27</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
    </url>
@@ -735,6 +735,12 @@
    <url>
       <loc>http://animalangelsfoundation.com/support-us/support.php</loc>
       <lastmod>2012-04-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://animalangelsfoundation.com/workshops/bow-wow.php</loc>
+      <lastmod>2012-11-27</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
