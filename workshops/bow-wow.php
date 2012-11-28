@@ -102,7 +102,7 @@ Location: <input type='text' name='location'><br />
 Additional comments:<br>
 <textarea name='comments' rows='10' cols='60'>
 </textarea><br>
-<input type='submit' value='Send email'>
+<input type='submit' value='Send information'>
 									</pre>
 									</form>";
 								}
