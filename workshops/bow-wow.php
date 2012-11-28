@@ -93,15 +93,17 @@
 									echo "Thank you $name. We will get in touch as soon as we have a workshop in the area closest to where you stay.</p>";
 								} else {
 									echo "<form method='post' action='bow-wow.php'>
-									Name:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type='text' name='name'><br />
-									Email address:&nbsp;&nbsp;&nbsp;&nbsp;<input type='text' name='email'><br />
-									Contact Number: <input type='text' name='phone'><br />
-									Your child's age:&nbsp;&nbsp;<input type='text' name='age'><br />
-									Location:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type='text' name='location'><br />
-									Additional comments:<br>
-									<textarea name='comments' rows='10' cols='60'>
-									</textarea><br>
-									<input type='submit' value='Send email'>
+									<pre>
+Name: <input type='text' name='name'><br />
+Email address: <input type='text' name='email'><br />
+Contact Number: <input type='text' name='phone'><br />
+Your child's age: <input type='text' name='age'><br />
+Location: <input type='text' name='location'><br />
+Additional comments:<br>
+<textarea name='comments' rows='10' cols='60'>
+</textarea><br>
+<input type='submit' value='Send email'>
+									</pre>
 									</form>";
 								}
 							?>
