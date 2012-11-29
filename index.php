@@ -64,12 +64,6 @@
                 <td width="100%" height="50">&nbsp;</td>
               </tr>
               <tr>
-                <td width="520" height="256"><a target="_blank" href="http://www.sparktherise.com/projectdetails.php?pId=7538"><img border="0" src="/images/mahindra-rise.jpg" title="Vote for us at Mahindra Rise!" alt="Vote for us at Mahindra Rise!" align="left" width="520" height="256"></td>
-              </tr>
-              <tr>
-                <td width="100%" height="50">&nbsp;</td>
-              </tr>
-              <tr>
                 <td width="100%">
                   <p align="justify"><b>Animal Angels Foundation</b> is a Mumbai based organization founded by <b><a href="/meet-angels/rohini.php">Rohini Fernandes</a></b> and <b><a href="/meet-angels/radhika.php">Radhika Nair</a></b> who are clinical psychologists, certified practitioners of <a href="/about-aat/aat.php">animal-assisted therapy</a> and professional dog trainers.
                   <br /><br />
