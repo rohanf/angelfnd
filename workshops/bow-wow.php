@@ -96,7 +96,7 @@
 									<pre>
 Name: <input type='text' name='name'><br />
 Email address: <input type='text' name='email'><br />
-Contact Number: <input type='text' name='phone'><br />
+Contact number: <input type='text' name='phone'><br />
 Your child's age: <input type='text' name='age'><br />
 Location: <input type='text' name='location'><br />
 Additional comments:<br>
