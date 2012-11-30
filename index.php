@@ -186,7 +186,7 @@
                         <p><center><b>Animal Angels featured in</b></center>
                         <br />
                         <center>
-						    <a href="/news/hindustan-times-2012-07-27.php">The Hindustan Times</a><br />
+						    <a href="/news/yuva.php">Yuva</a><br />
                         </center>
                         </p>
                         </div>
@@ -197,10 +197,11 @@
                           <em id="cbl"><b>&bull;</b></em>
                           <em id="ctr"><b>&bull;</b></em>
                           <em id="cbr"><b>&bull;</b></em>
-                          <p><center><b>Our newest angel!</b></center>
+                          <p><center><b>Our newest angels!</b></center>
                           <br>
                           <center>
-			                <a href="/meet-angels/osker.php">Osker</a><br />
+			                <a href="/meet-angels/ace.php">Ace the Pug</a><br />
+			                <a href="/meet-angels/dexter-beagle.php">Dexter the Beagle</a><br />
                           </center>
                           </p>
                         </div>

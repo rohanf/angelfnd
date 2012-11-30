@@ -3,9 +3,9 @@
 
 <head>
   <meta http-equiv="Content-Language" content="en-us">
-  <meta name="keywords" content="animal angels foundation, animal assisted therapy, therapy animals, animal assisted activities, trained therapy animals, therapy pets, therapets, animal assisted therapy services, dog training services, animal angels foundation mumbai, manav foundation, manav rehabilitation centre, day care therapeutic facility mumbai, mental or emotional problems, communication and interaction in interpersonal relationships and with therapists, ace the pug at manav foundation, dexter the labrador at manav foundation">
-  <meta name="description" content="Manav Rehabilitation Centre is a day care therapeutic facility for adults suffering from mental illnesses and emotional disturbances. Therapets Ace and Dexter conduct individual and group therapy sessions with adult clients who have mental or emotional problems.">
-  <title>Manav Foundation - Animal Angels Foundation</title>
+  <meta name="keywords" content="animal angels foundation dexter, animal angels foundation dexter beagle, animal assisted therapy dexter, animal assisted therapy dexter beagle, therapy animals dexter, therapy animals dexter beagle, dexter the beagle">
+  <meta name="description" content="Dexter the Beagle is a therapy pet at Animal Angels Foundation who loves putting smiles on peopel's faces!">
+  <title>Meet the Angels - Dexter the Beagle</title>
   <link rel="stylesheet" type="text/css" href="/ds.css">
   <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
   <script type="text/JavaScript" src="/common/javaScript/refresh.js"></script>
@@ -24,7 +24,7 @@
           <td width="779" height="22" valign="top">
             <?
               global $topNav;
-              $topNav = "work";
+              $topNav = "angels";
               include($_SERVER['DOCUMENT_ROOT'] . "/common/top/menu.php");
             ?>
           </td>
@@ -47,12 +47,12 @@
               <td width="100%" valign="top">
                 <?
                   global $leftNav;
-                  $leftNav = "manav";
-                  include($_SERVER['DOCUMENT_ROOT'] . "/common/leftMenus/work.php");
+                  $leftNav = "dexter-beagle";
+                  include($_SERVER['DOCUMENT_ROOT'] . "/common/leftMenus/angels.php");
                 ?>
               </td>
             </tr>
-            </table>
+          </table>
           </td>
           <td valign="top">
           <div align="center">
@@ -74,18 +74,16 @@
                       <td width="100%">
                       <h3>
                       <img border="0" src="/images/big-bullet.jpg" alt="Big bullet" align="absmiddle" width="20" height="18">&nbsp;&nbsp; 
-                      Angels at Work - Manav Foundation
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="http://www.manavfoundation.org.in">www.manavfoundation.org.in</a></h3>
+                      Meet the Angels - Dexter the Beagle</h3>
                       </td>
                     </tr>
                     <tr>
                       <td width="100%">
-                      <p align="justify">
-                      <img border="0" src="/images/pic-manav-foundation-ace.jpg" alt="Ace the therapy pet helps clients at Manav Foundation improve communication and interaction in interpersonal relationships and with therapists" align="left" hspace="10" vspace="5" width="150" height="225">The Manav Rehabilitation Centre is a day care therapeutic facility for adults suffering from mental illnesses/emotional disturbances where we conduct individual and group therapy sessions.</p>
-                      <p align="justify">In individual sessions we work along with our canine co-therapist Ace . These clients tend to focus on themselves. Ace helps them refocus themselves on their environment because, rather than thinking and talking about themselves and their problems, they watch and talk to and about Ace. The unconditional love they receive from our therapy dog makes the clients feel fully accepted without the fear of rejection. The goal of this process is to improve communication and interaction in interpersonal relationships and with therapists.</p>
-                      <p align="justify">
-                      <img border="0" src="/images/pic-manav-foundation-dexter-beagle.jpg" alt="Therapy dog Dexter works in a group therapy session at Manav Foundation" align="right" hspace="10" vspace="5" width="250" height="188">Therapy dog Dexter works with the clients at Manav in group sessions. He helps to assist the clients to be more responsible, orient themselves to reality, focus their attention, socialize with others and express their emotions. Dexter also serves as a "role model" for the clients with regard to self-care and personal hygiene as they take turns in grooming him and feeding him.</p>
-                      </td>
+						<p align="justify">
+						<img border="0" src="/images/pic-dexter-beagle.jpg" alt="Dexter the Beagle at Animal Angels Foundation" align="left" hspace="10" width="150" height="240">You should see how high I jump when it's time to go to work!</p>
+						<p align="justify">That's because work for me is getting all the attention, lots of hugs and kisses, all the playtime I can ask for and getting yummy things to eat.</p>
+                        <p align="justify">Of course what really makes my day is seeing the smiles on my friends faces once I reach my workplace :)</p>
+					  </td>
                     </tr>
                   </table>
                 </td>

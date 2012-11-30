@@ -354,6 +354,16 @@
                 </tr>
                 <tr>
                   <td width="160">
+                  <a href="/news/yuva.php">
+                  <?
+                    ($leftNav=='yuva')?
+                    (print'<img class="selected" src="/images/news-yuva.jpg" alt="Yuva logo" title="Yuva Marathi magazine article" width="150" height="40"></a>'):
+                    (print'<center><img border="0" src="/images/news-yuva.jpg" alt="Yuva logo" title="Yuva Marathi magazine article" width="150" height="40"></center></a>')
+                  ?>
+                  </td>
+                </tr>
+                <tr>
+                  <td width="160">
                   <a href="/news/saamana.php">
                   <?
                     ($leftNav=='saamana')?

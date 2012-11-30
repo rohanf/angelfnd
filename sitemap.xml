@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
       <loc>http://www.animalangelsfoundation.com/</loc>
-      <lastmod>2012-11-27</lastmod>
+      <lastmod>2012-11-29</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
    </url>
@@ -43,6 +43,12 @@
       <priority>0.7</priority>
    </url>
    <url>
+      <loc>http://animalangelsfoundation.com/meet-angels/ace.php</loc>
+      <lastmod>2012-11-29</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
       <loc>http://animalangelsfoundation.com/meet-angels/anna.php</loc>
       <lastmod>2011-04-23</lastmod>
       <changefreq>monthly</changefreq>
@@ -77,6 +83,12 @@
       <lastmod>2011-04-23</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
+   </url>
+   <url>
+      <loc>http://animalangelsfoundation.com/meet-angels/dexter-beagle.php</loc>
+      <lastmod>2012-11-29</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
    </url>
    <url>
       <loc>http://animalangelsfoundation.com/meet-angels/dexter-labrador.php</loc>
@@ -242,7 +254,7 @@
    </url>
    <url>
       <loc>http://animalangelsfoundation.com/angels-work/manav-foundation.php</loc>
-      <lastmod>2012-04-08</lastmod>
+      <lastmod>2012-11-29</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
@@ -302,7 +314,7 @@
    </url>
    <url>
       <loc>http://animalangelsfoundation.com/news/news.php</loc>
-      <lastmod>2012-04-25</lastmod>
+      <lastmod>2012-11-29</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
    </url>
@@ -651,6 +663,12 @@
    <url>
       <loc>http://animalangelsfoundation.com/news/creature-companions-2006-11-xx-dog-companions.php</loc>
       <lastmod>2011-04-23</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://animalangelsfoundation.com/news/yuva.php</loc>
+      <lastmod>2012-11-29</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>

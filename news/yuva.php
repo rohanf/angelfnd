@@ -3,9 +3,9 @@
 
 <head>
   <meta http-equiv="Content-Language" content="en-us">
-  <meta name="keywords" content="animal angels foundation mumbai news, saamana marathi newspaper animal therapy">
-  <meta name="description" content="Animal Angels Foundation in Saamana Marathi newspaper - Animal Therapy, February 17, 2011">
-  <title>Animal Angels Foundation featured in Saamana Marathi newspaper on Animal Therapy</title>
+  <meta name="keywords" content="animal angels foundation mumbai news, yuva marathi magazine animal therapy, animal angels yuva">
+  <meta name="description" content="Animal Angels Foundation in Yuva Marathi magazine - November, 2012">
+  <title>Animal Angels Foundation featured in Yuva Marathi magazine</title>
   <link rel="stylesheet" type="text/css" href="/ds.css">
   <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
   <script type="text/JavaScript" src="/common/javaScript/refresh.js"></script>
@@ -47,7 +47,7 @@
               <td width="100%" valign="top">
                 <?
                   global $leftNav;
-                  $leftNav = "saamana";
+                  $leftNav = "yuva";
                   include($_SERVER['DOCUMENT_ROOT'] . "/common/leftMenus/news.php");
                 ?>
               </td>
@@ -69,18 +69,18 @@
                 <td valign="top" width="100%">
                 <h3>
                 <img border="0" src="/images/big-bullet.jpg" alt="Big bullet" align="absmiddle" width="20" height="18">&nbsp;&nbsp; 
-                Saamana Marathi newspaper - February 17, 2011</h3>
+                Yuva Marathi magazine - November 2012</h3>
                 </td>
               </tr>
               <tr>
                 <td valign="top" width="100%">
-                <center>Read the article on the <a href="http://www.saamana.com/" target="_blank">Saamana</a> website<br>&nbsp;</center>
+                <center>Read the article on the <a href="http://www.zoneyuva.com/" target="_blank">Yuva</a> website<br>&nbsp;</center>
                 </td>
               </tr>
               <tr>
                 <td valign="top" width="100%">
-                <img border="0" alt="Saamana marathi newspaper article on Animal Therapy - February 17, 2011" src="/images/news-saamana-2011-02-17.jpg" align="center" hspace="10" width="520" height="889">
-		</td>
+                <img border="0" alt="Yuva marathi magazine article on Animal Angels Foundation - November 2012" src="/images/news-yuva-2012-11.jpg" align="center" hspace="10" width="520" height="1940">
+				</td>
               </tr>
             </table>
 
