@@ -43,7 +43,7 @@
       <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="779" id="AutoNumber5" height="100%" background="/images/bg-left.gif">
         <tr>
           <td width="225" valign="top">
-            <? include($_SERVER['DOCUMENT_ROOT'] . "/common/home/left-slide-show.php"); ?>
+			<? include($_SERVER['DOCUMENT_ROOT'] . "/common/home/left-slide-show.php"); ?>
           </td>
           <td valign="top">
           <div align="center">

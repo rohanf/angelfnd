@@ -1,6 +1,7 @@
-          <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="779" id="AutoNumber4" height="122">
+          <table border='0' cellpadding='0' cellspacing='0' style='border-collapse: collapse' bordercolor='#111111' width='779' id='AutoNumber8' height='122'>
             <tr>
               <td width='779' valign='top' height='33' colspan='2' style="background-image:url('/images/top-1.gif')">
+
 <? 
     if(stristr($_SERVER['SERVER_NAME'], 'animalangelsfoundation') == TRUE)
     {
@@ -46,8 +47,12 @@
               </td>
             </tr>
             <tr>
-              <td valign="top" height="89" width="184">
-              <a href="/"><img border="0" src="/images/logo.gif" width="184" height="89"></a></td>
-              <td valign="top"><img border="0" src="/images/top-3.jpg" width="595" height="89"></td>
+              <td valign='top' height='89' width='184'>
+                <a href='/'>
+                <img border='0' src='/images/logo.gif' width='184' height='89'></a>
+              </td>
+              <td valign='top' width='595' height='89'>
+                <img border='0' src='/images/top-3.jpg' width='595' height='89'>
+              </td>
             </tr>
           </table>
