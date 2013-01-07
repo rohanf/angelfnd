@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
       <loc>http://www.animalangelsfoundation.com/</loc>
-      <lastmod>2012-11-29</lastmod>
+      <lastmod>2013-01-07</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
    </url>
@@ -111,6 +111,12 @@
    <url>
       <loc>http://animalangelsfoundation.com/meet-angels/joy.php</loc>
       <lastmod>2011-04-23</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+   <url>
+      <loc>http://animalangelsfoundation.com/meet-angels/kelly.php</loc>
+      <lastmod>2013-01-07</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
    </url>

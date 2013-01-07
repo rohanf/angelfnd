@@ -173,6 +173,15 @@
                   <td width="43">
                   <p align="center">
                   <?
+                    ($leftNav=='kelly')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="mo">Kelly</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="llt" href="/meet-angels/kelly.php">Kelly</a></td>')
+                  ?>
+                </tr>
+                <tr>
+                  <td width="43">
+                  <p align="center">
+                  <?
                     ($leftNav=='max_labrador')?
                     (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="mo">Max the Labrador</a></td>'):
                     (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="llt" href="/meet-angels/max-labrador.php">Max the Labrador</a></td>')

@@ -200,8 +200,7 @@
                           <p><center><b>Our newest angels!</b></center>
                           <br>
                           <center>
-			                <a href="/meet-angels/ace.php">Ace the Pug</a><br />
-			                <a href="/meet-angels/dexter-beagle.php">Dexter the Beagle</a><br />
+			                <a href="/meet-angels/kelly.php">Kelly</a><br />
                           </center>
                           </p>
                         </div>
