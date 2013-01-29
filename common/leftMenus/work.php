@@ -56,8 +56,8 @@
                   <p align="center">
                   <?
                     ($leftNav=='kshitij')?
-                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="mo">Kshitij Mental Health Center</a></td>'):
-                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="llt" href="/angels-work/kshitij.php">Kshitij Mental Health Center</a></td>')
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="mo">Kshitij Mental Health Center</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="llt" href="/angels-work/kshitij.php">Kshitij Mental Health<br>Center</a></td>')
                   ?>
                 </tr>
 
@@ -85,6 +85,16 @@
                   <td width="22">
                   <p align="center">
                   <?
+                    ($leftNav=='seva-daan-chembur')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="mo">Seva Daan School (Chembur)</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="llt" href="/angels-work/seva-daan.php">Seva Daan School<br>(Chembur)</a></td>')
+                  ?>
+                </tr>
+
+                <tr>
+                  <td width="22">
+                  <p align="center">
+                  <?
                     ($leftNav=='saas')?
                     (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br />&nbsp;</td><td width="162"><a class="mo">Skills and Ability School (Nerul and Mulund)</a></td>'):
                     (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br />&nbsp;</td><td width="162"><a class="llt" href="/angels-work/saas.php">Skills and Ability School (Nerul and Mulund)</a></td>')
@@ -105,9 +115,9 @@
                   <td width="22">
                   <p align="center">
                   <?
-                    ($leftNav=='willington')?
-                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="mo">Willington Club</a></td>'):
-                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="llt" href="/angels-work/willington.php">Willington Club</a></td>')
+                    ($leftNav=='xaviers-bhandup')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="mo">St. Xavier\'s High School, Bhandup</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="llt" href="/angels-work/xaviers-bhandup.php">St. Xavier\'s Hight School, Bhandup</a></td>')
                   ?>
                 </tr>
 
@@ -115,9 +125,9 @@
                   <td width="22">
                   <p align="center">
                   <?
-                    ($leftNav=='xaviers-bhandup')?
-                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="mo">St. Xavier\'s High School, Bhandup</a></td>'):
-                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="llt" href="/angels-work/xaviers-bhandup.php">St. Xavier\'s Hight School, Bhandup</a></td>')
+                    ($leftNav=='willington')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="mo">Willington Club</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="llt" href="/angels-work/willington.php">Willington Club</a></td>')
                   ?>
                 </tr>
 

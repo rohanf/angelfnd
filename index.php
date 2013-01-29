@@ -183,10 +183,10 @@
                           <em id="cbl"><b>&bull;</b></em>
                           <em id="ctr"><b>&bull;</b></em>
                           <em id="cbr"><b>&bull;</b></em>
-                        <p><center><b>Animal Angels featured in</b></center>
+                        <p><center><b>Animal Angels now at</b></center>
                         <br />
                         <center>
-						    <a href="/news/yuva.php">Yuva</a><br />
+						    <a href="/angels-work/seva-daan.php">Seva Daan School (Chembur)</a><br />
                         </center>
                         </p>
                         </div>
