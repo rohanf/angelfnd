@@ -183,10 +183,10 @@
                           <em id="cbl"><b>&bull;</b></em>
                           <em id="ctr"><b>&bull;</b></em>
                           <em id="cbr"><b>&bull;</b></em>
-                        <p><center><b>Animal Angels now at</b></center>
+                        <p><center><b>We also train therapy pets for home</b></center>
                         <br />
                         <center>
-						    <a href="/angels-work/seva-daan.php">Seva Daan School (Chembur)</a><br />
+						    <b><i><font color="red">New</font></i></b> <a href="/angels-home/simbaa-jiyon.php">Angels at Home</a> section<br />
                         </center>
                         </p>
                         </div>
@@ -197,10 +197,10 @@
                           <em id="cbl"><b>&bull;</b></em>
                           <em id="ctr"><b>&bull;</b></em>
                           <em id="cbr"><b>&bull;</b></em>
-                          <p><center><b>Our newest angels!</b></center>
+                          <p><center><b>Read all about Simbaa and Jiyon's experience</b></center>
                           <br>
                           <center>
-			                <a href="/meet-angels/kelly.php">Kelly</a><br />
+			                <a href="/news/toi-2013-03-03.php">on Jet Airways!</a><br />
                           </center>
                           </p>
                         </div>

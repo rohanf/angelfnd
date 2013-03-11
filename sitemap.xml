@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
       <loc>http://www.animalangelsfoundation.com/</loc>
-      <lastmod>2013-01-29</lastmod>
+      <lastmod>	</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
    </url>
@@ -223,6 +223,36 @@
       <priority>0.7</priority>
    </url>
    <url>
+      <loc>http://animalangelsfoundation.com/volunteer-work/cheshire-home.php</loc>
+      <lastmod>2011-04-23</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://animalangelsfoundation.com/volunteer-work/sskv.php</loc>
+      <lastmod>2011-04-23</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://animalangelsfoundation.com/volunteer-work/sneha-sadan.php</loc>
+      <lastmod>2011-04-23</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://animalangelsfoundation.com/volunteer-work/catherine-andheri.php</loc>
+      <lastmod>2011-04-23</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://animalangelsfoundation.com/volunteer-work/catherine-bandra.php</loc>
+      <lastmod>2011-04-23</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
       <loc>http://animalangelsfoundation.com/angels-work/animal-programs.php</loc>
       <lastmod>2012-04-08</lastmod>
       <changefreq>monthly</changefreq>
@@ -295,32 +325,8 @@
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>http://animalangelsfoundation.com/volunteer-work/cheshire-home.php</loc>
-      <lastmod>2011-04-23</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-   </url>
-   <url>
-      <loc>http://animalangelsfoundation.com/volunteer-work/sskv.php</loc>
-      <lastmod>2011-04-23</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-   </url>
-   <url>
-      <loc>http://animalangelsfoundation.com/volunteer-work/sneha-sadan.php</loc>
-      <lastmod>2011-04-23</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-   </url>
-   <url>
-      <loc>http://animalangelsfoundation.com/volunteer-work/catherine-andheri.php</loc>
-      <lastmod>2011-04-23</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-   </url>
-   <url>
-      <loc>http://animalangelsfoundation.com/volunteer-work/catherine-bandra.php</loc>
-      <lastmod>2011-04-23</lastmod>
+      <loc>http://animalangelsfoundation.com/angels-home/simbaa-jiyon.php</loc>
+      <lastmod>2013-03-03</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
@@ -531,6 +537,12 @@
    <url>
       <loc>http://animalangelsfoundation.com/news/toi-west-2009-02-10.php</loc>
       <lastmod>2011-04-23</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://animalangelsfoundation.com/news/toi-2013-03-03.php</loc>
+      <lastmod>2013-03-03</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>

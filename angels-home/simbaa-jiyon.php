@@ -3,9 +3,9 @@
 
 <head>
   <meta http-equiv="Content-Language" content="en-us">
-  <meta name="keywords" content="animal angels foundation mumbai news, times wellness, times of india, times west supplement mumbai, heard of a therapet, animal aided therapy is a hit in india as well, malathy iyer, anuradha mane, touched by an angel, shail desai">
-  <meta name="description" content="Read about Animal Angels Foundation in the Times of India newspaper and its supplements">
-  <title>Animal Angels Foundation featured in the Times of India and its supplements</title>
+  <meta name="keywords" content="animal angels foundation, animal assisted therapy, therapy animals, animal assisted activities, trained therapy animals, therapy pets, animal assisted therapy services, animal angels foundation mumbai, therapy dogs at home, simbaa and jiyon, parama bhattacharya, therapy dog on jet airways">
+  <meta name="description" content="Simbaa is a perfect therapy dog -- doesn't bark, toilet trained and responds to commands. Read all about how Jet airways allowed Simbaa to travel with Jiyon who helped calm him down.">
+  <title>Simbaa and Jiyon - Animal Angels Foundation</title>
   <link rel="stylesheet" type="text/css" href="/ds.css">
   <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
   <script type="text/JavaScript" src="/common/javaScript/refresh.js"></script>
@@ -24,7 +24,7 @@
           <td width="779" height="22" valign="top">
             <?
               global $topNav;
-              $topNav = "news";
+              $topNav = "angels-home";
               include($_SERVER['DOCUMENT_ROOT'] . "/common/top/menu.php");
             ?>
           </td>
@@ -47,8 +47,8 @@
               <td width="100%" valign="top">
                 <?
                   global $leftNav;
-                  $leftNav = "toi";
-                  include($_SERVER['DOCUMENT_ROOT'] . "/common/leftMenus/news.php");
+                  $leftNav = "simbaa-jiyon";
+                  include($_SERVER['DOCUMENT_ROOT'] . "/common/leftMenus/angels-home.php");
                 ?>
               </td>
             </tr>
@@ -74,81 +74,33 @@
                       <td width="100%">
                       <h3>
                       <img border="0" src="/images/big-bullet.jpg" alt="Big bullet" align="absmiddle" width="20" height="18">&nbsp;&nbsp; 
-                      Times of India newspaper articles</h3>
+                      Angels at Home - Simbaa and Jiyon</h3>
                       </td>
                     </tr>
                     <tr>
-                      <td width="100%">&nbsp;</td>
-                    </tr>
-                    <tr>
                       <td width="100%">
-                      <p align="left" class="hd">Articles in The Times of India and its supplements</td>
+                      <p align="justify">
+                      <img border="0" src="/images/pic-simbaa-jiyon.jpg" alt="Simbaa and Jiyon playing at home" align="left" hspace="10" vspace="5" width="250" height="238">Getting Simbaa has been one of the better decisions I have taken in life. Simbaa behaves as a perfect therapy dog should. Simbaa doesn't bark, is completely toilet trained, listens to commands of sitting, lying down, staying at a place, being within a particular periphery if asked and till the time he is released, and all the other basics. He is a thorough young gentle well behaved boy, shaping up I'm sure, to be a thorough gentleman.</p>
+                      <p align="justify">Simbaa has this uncanny understanding of sensing tension or stress in anyone at home even before it surfaces or becomes evident. The moment Jiyon starts to show unhappiness or aggression Simbaa is completely around Jiyon, either licking his hand or nudging him or jumping on him. It doesn't end there, Jiyon many times continues to be in anger, pulls Simbaa's tongue, ears. The strange part is Simbaa would not move away from Jiyon. He won't even like me holding Jiyon. He would continue to be with him, calming him down.</p>
+                      <p align="center"><img border="0" src="/images/pic-simbaa-jiyon-couch.jpg" alt="Therapy dog Simbaa and Jiyon chilling at home on thc couch" align="center" hspace="10" vspace="5" width="400" height="217"></p>
+                      <p align="justify">Rohini, I can never thank you enough. Nothing of this would have been possible if you would not have trained Simbaa, the way you have - Reward vs reprimand in the form of firmness in behaviour, as against reward vs punishment. He listens to us because he loves to, knowing he will be rewarded. He never obeys due to fear. It makes such a huge difference. This was evident when Jet Airways allowed Simbaa to travel with Jiyon in the cabin as a therapy dog. With Simbaa around he was happy, calm and at times more composed than me when I am travelling :)... Jiyon kept patting Simbaa throughout the flight and Simbaa kept lying quietly down, sitting close to Jiyon's feet assuring him everything around is fine.</p>
+                      <p align="justify">We are blessed we have each other....</p>
+                      <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%">
+                      	<tr>
+                      		<td width="75%"></td>
+                      		<td width="25%">
+		                      <p align="left">God bless!<br/>Parama Bhattacharya<br/>(Jiyon's mother)</p>
+							</td>
+                      	</tr>
+					  </table>
+                      </td>
                     </tr>
                     <tr>
-                      <td width="100%">&nbsp;</td>
+	                    <td>
+                        	<p align="center"><i><a href="/news/toi-2013-03-03.php">Read more</a> about how an airlines allowed a therapy dog to
+travel in the cabin for the first time in India!</i></p>
+    	                </td>
                     </tr>
-                  </table>
-
-                  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber11">
-                    <tr>
-                      <td width="5%">
-                        <img border="0" src="/images/orange-paw.gif" alt="orange-paw bullet" align="middle" width="12" height="12"><br/><br/>&nbsp;
-					  </td>
-                      <td width="55%">
-		                <a href="/news/toi-2013-03-03.php">Dog's day out: Airline lets pet fly with autistic master</a><br><i>Manju V</i> - Times of India on<br>March 3, 2013
-				      </td>
-                      <td width="40%" align="right">
-                        <a href="/news/toi-2013-03-03.php"><img border="0" src="/images/news-toi.jpg" alt="Times of India logo" align="middle" width="150" height="40"></a><br>&nbsp;
-				      </td>
-				    </tr>
-        		    <tr>
-                      <td width="5%">&nbsp;</td>
-                      <td width="55%">&nbsp;</td>
-		    		  <td width="40%">&nbsp;</td>
-                    </tr>
-                    <tr>
-                      <td width="5%">
-                        <img border="0" src="/images/orange-paw.gif" alt="orange-paw bullet" align="middle" width="12" height="12"><br/><br/>&nbsp;
-					  </td>
-                      <td width="55%">
-		                <a href="/news/toi-west-2009-02-10.php">Touched by an Angel</a><br><i>Shail Desai</i> - Times of India (West supplement) on February 10, 2009
-				      </td>
-                      <td width="40%" align="right">
-                        <a href="/news/toi-west-2009-02-10.php"><img border="0" src="/images/news-toi-west.gif" alt="Times of India (West supplement) logo" align="middle" width="150" height="72"></a><br>&nbsp;
-				      </td>
-				    </tr>
-        		    <tr>
-                      <td width="5%">&nbsp;</td>
-                      <td width="55%">&nbsp;</td>
-		    		  <td width="40%">&nbsp;</td>
-                    </tr>
-                    <tr>
-                      <td width="5%">
-		        <img border="0" src="/images/orange-paw.gif" alt="orange-paw bullet" align="middle" width="12" height="12"><br/><br/>&nbsp;
-				      </td>
-                      <td width="55%">
-		                <a href="/news/toi-2007-12-14.php">Animal-aided therapy is a hit in India as well</a><br><i>Malathy Iyer and Anuradha Mane</i> - Times of India on December 14, 2007
-				      </td>
-                      <td width="40%" align="right">
-                        <a href="/news/toi-2007-12-14.php"><img border="0" src="/images/news-toi.jpg" alt="Times of India logo" align="middle" width="150" height="40"></a><br>&nbsp;
-				      </td>
-				    </tr>
-        	    	<tr>
-                      <td width="5%">&nbsp;</td>
-                      <td width="55%">&nbsp;</td>
-                      <td width="40%">&nbsp;</td>
-                    </tr>
-				    <tr>
-				      <td width="5%">
-		        		<img border="0" src="/images/orange-paw.gif" alt="orange-paw bullet" align="middle" width="12" height="12"><br/><br/>&nbsp;
-				      </td>
-                      <td width="55%">
-	                <a href="/news/toi-wellness-2006-05-28.php">Heard of a therapet?</a><br>Times of India (Wellness supplement) on May 28, 2006
-				      </td>
-                      <td width="40%" align="right">
-                        <a href="/news/toi-wellness-2006-05-28.php"><img border="0" src="/images/news-toi-wellness.jpg" alt="Times of India (Wellness supplement) logo" align="middle" width="150" height="40"></a><br>&nbsp;
-				      </td>
-				    </tr>
                   </table>
                 </td>
               </tr>
@@ -174,8 +126,6 @@
 
               </div>
             </table>
-
-
             </center>
           </div>
           </td>

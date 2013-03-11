@@ -88,16 +88,22 @@
                     (print'<img border="0" src="/images/bt-workshops.gif" class="domroll /images/bt-workshops-mo.gif" alt="Workshops at Animal Angels Foundation" width="97" height="22"></a></td>')
                   ?>
 
-                <td width="2"><img border="0" src="/images/orange-line.gif" alt="orange line" width="2" height="22"></td>
-                <td width="96"><img border="0" src="/images/orange-line.gif" alt="orange line" width="96" height="22"></td>
-
-                <td width="2"><img border="0" src="/images/dv-line.gif" alt="divide" width="2" height="22"></td>
-                <td width="88">
+                <td width="2"><img border="0" src="/images/dv-line.gif" alt="orange line" width="2" height="22"></td>
+                <td width="96">
                   <a href="/volunteer-work/cheshire-home.php">
                   <?
                     ($topNav=='volunteer')?
-                    (print'<img border="0" src="/images/bt-volunteer-work-mo.gif" class="domroll /images/bt-volunteer-work-mo.gif" alt="Volunteer Work that Animal Angels Foundation performs (selected)" width="88" height="22"></a></td><script type="text/javascript">var tableHeight = 340;</script>'):
-                    (print'<img border="0" src="/images/bt-volunteer-work.gif" class="domroll /images/bt-volunteer-work-mo.gif" alt="Volunteer work that Animal Angels Foundation performs" width="88" height="22"></a></td>')
+                    (print'<img border="0" src="/images/bt-volunteer-work-mo.gif" class="domroll /images/bt-volunteer-work-mo.gif" alt="Volunteer Work that Animal Angels Foundation performs (selected)" width="96" height="22"></a></td><script type="text/javascript">var tableHeight = 340;</script>'):
+                    (print'<img border="0" src="/images/bt-volunteer-work.gif" class="domroll /images/bt-volunteer-work-mo.gif" alt="Volunteer work that Animal Angels Foundation performs" width="96" height="22"></a></td>')
+                  ?>
+
+                <td width="2"><img border="0" src="/images/dv-line.gif" alt="divide" width="2" height="22"></td>
+                <td width="88">
+                  <a href="/angels-home/simbaa-jiyon.php">
+                  <?
+                    ($topNav=='angels-home')?
+                    (print'<img border="0" src="/images/bt-angels-home-mo.gif" class="domroll /images/bt-angels-home-mo.gif" alt="Home trained animals at Animal Angels Foundation (selected)" width="88" height="22"></a></td><script type="text/javascript">var tableHeight = 340;</script>'):
+                    (print'<img border="0" src="/images/bt-angels-home.gif" class="domroll /images/bt-angels-home-mo.gif" alt="Home trained animals at Animal Angels Foundation" width="88" height="22"></a></td>')
                   ?>
                 <td width="2"><img border="0" src="/images/dv-line.gif" alt="divider" width="2" height="22"></td>
                 <td width="108"><img border="0" src="/images/orange-line.gif" alt="orange line" width="108" height="22"></td>
