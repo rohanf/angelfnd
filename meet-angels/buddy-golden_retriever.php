@@ -82,7 +82,7 @@
                       <p align="justify">
                       <img border="0" src="/images/pic-buddy-golden_retriever.jpg" alt="Golden retriever Buddy the therapy dog at Animal Angels Foundation" align="left" hspace="10" width="214" height="210"></p>
                       <p align="justify">I am a two-year-old Golden Retriever and live in Nasik. With a face like mine people fall in love with me in an instant! I love meeting new people especially children with whom I can run about and play.
-                      <p align="justify">The best trick that I can do is give people hugs and everybody can’t seem to get enough of that. As my name suggests I am here to make a lot of buddies!</td>
+                      <p align="justify">The best trick that I can do is give people hugs and everybody can't seem to get enough of that. As my name suggests I am here to make a lot of buddies!</td>
                     </tr>
                   </table>
                 </td>

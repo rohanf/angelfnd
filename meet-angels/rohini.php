@@ -3,7 +3,7 @@
 
 <head>
   <meta http-equiv="Content-Language" content="en-us">
-  <meta name="keywords" content="animal angels foundation, animal assisted therapy, therapy animals, rohini fernandes, trained therapy animals, trained animals, therapy pets, therapets, animal assisted therapy services, dog training services, animal angels foundation mumbai, clinical psychologist mumbai, dog trainer mumbai">
+  <meta name="keywords" content="animal angels foundation, animal assisted therapy, therapy animals, rohini fernandes, trained therapy animals, trained animals, therapy pets, therapets, animal assisted therapy services, dog training services, animal angels foundation mumbai, clinical psychologist mumbai, dog trainer mumbai, Neuro-Linguistic Programming">
   <meta name="description" content="Rohini Fernandes is a clinical psychologist and a certified practitioner of Animal-Assisted Therapy. She trains dogs dogs and reaches out to people through Animal Angels Foundation.">
   <title>Rohini Fernandes - Co-founder at Animal Angels Foundation</title>
   <link rel="stylesheet" type="text/css" href="/ds.css">
@@ -80,12 +80,12 @@
                     <tr>
                       <td width="100%">
                       <p align="justify">
-                      <img border="0" src="/images/pic-rohini.jpg" alt="Rohini Fernandes with her therapet Angel" align="left" hspace="10" width="150" height="226">I am Rohini Fernandes, a clinical psychologist and a certified practitioner of Animal-Assisted Therapy from the University of North Texas, USA and also from Delta Society, USA. I am also a certified counsellor from St Xavier Institute of Counselling Psychology and a certified practitioner of Neuro-Linguistic Programming.</p>
+                      <img border="0" src="/images/pic-rohini.jpg" alt="Rohini Fernandes with her therapet Angel" align="left" hspace="10" width="150" height="226">I am Rohini Fernandes, a clinical psychologist and a certified practitioner of Animal-Assisted Therapy from the University of North Texas, USA and also from Delta Society, USA. I am also a certified counsellor from St Xavier Institute of Counselling Psychology and a certified practitioner of Neuro-Linguistic Programming by Doctor Richard McHugh.</p>
 	                <p align="justify">I have been training dogs since the year 2001 in basic obedience, as guard dogs and I also work with dogs with behaviour problems. I also train and enter dogs for obedience shows held by the Indian National Kennel Club, and have won numerous prizes at these shows with my dogs in obedience, performance and breed categories.</p>
-                      <p align="justify">This gorgeous Golden Retriever by my side is my dog, Angel. She is my cotherapist and the inspiration behind the name “<b>Animal Angels Foundation</b>”.</p>
+                      <p align="justify">This gorgeous Golden Retriever by my side is my dog, Angel. She is my cotherapist and the inspiration behind the name "<b>Animal Angels Foundation</b>".</p>
                       <p align="justify">The idea of using animals to help people first came to me during my fieldwork in my M.A. where we had to work in the Psychiatric wards of various hospitals. I would always think of how it would be easier to connect with clients and get better and quicker responses if I could have a dog sitting by my side rather than just apply the conventional therapy that we had to use.</p>
                       <p align="justify">I researched this area and decided to combine my knowledge of dogs with my training in the field of psychology to use <b>“</b>Animal-Assisted Therapy<b>”</b> with my clients. The positive results encouraged me to specialize in this area. Having Angel has only strengthened my belief that animals can bring about a lot of positive changes in a person’s life. I started Animal Angels Foundation in January 2005, after Angel finished her training as a therapy dog.</p>
-                      <p align="justify">About six months after I started with “<b>Animal Angels Foundation</b>” I met Radhika, who shared my passion for animals and who also strongly believed in this therapy. We decided to work together and reach out to as many people as we could through Animal Angels Foundation.</td>
+                      <p align="justify">About six months after I started with "<b>Animal Angels Foundation</b>" I met Radhika, who shared my passion for animals and who also strongly believed in this therapy. We decided to work together and reach out to as many people as we could through Animal Angels Foundation.</td>
                     </tr>
                   </table>
                 </td>

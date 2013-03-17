@@ -54,58 +54,11 @@
             <script type="text/javascript">
               document.write("<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse: collapse\" bordercolor=\"#111111\" width=\"90%\" id=\"AutoNumber7\" height=" + tableHeight + ">");
             </script>
+
               <tr>
-                <td width="100%" height="50">&nbsp;</td>
+                <td width="100%" height="10">&nbsp;</td>
               </tr>
-              <tr>
-                <td width="520" height="330"><a href="/workshops/bow-wow.php"><img border="0" src="/images/workshop-banner.jpg" title="Inquire about our workshops" alt="Inquire about our workshops" align="left" width="520" height="330"></td>
-              </tr>
-              <tr>
-                <td width="100%" height="50">&nbsp;</td>
-              </tr>
-              <tr>
-                <td width="100%">
-                  <p align="justify"><b>Animal Angels Foundation</b> is a Mumbai based organization founded by <b><a href="/meet-angels/rohini.php">Rohini Fernandes</a></b> and <b><a href="/meet-angels/radhika.php">Radhika Nair</a></b> who are clinical psychologists, certified practitioners of <a href="/about-aat/aat.php">animal-assisted therapy</a> and professional dog trainers.
-                  <br /><br />
-                </td>
-              </tr>
-              <tr>
-                <td width="100%">
-                  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="90%" id="AutoNumber8">
-	                <tr>
-		      		  <td width="10%">&nbsp;
-						
-                	  </td>
-		      		  <td width="35%">
-						<a target="_blank" href="http://www.facebook.com/pages/Animal-Angels-Foundation/254481607911337"><img border="0" src="/images/f.png" title="Facebook" alt="Facebook" align="left" width="75" height="75"><br/>Animal Angels<br>on Facebook!</a>
-                	  </td>
-                	  <td width="55%"><div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://www.facebook.com/pages/Animal-Angels-Foundation/254481607911337" send="true" width="250" show_faces="true" action="like" font="arial"></fb:like>
-                      </td>
-                    </tr>
-                  </table>
-                </td>
-              </tr>
-              <tr>
-                <td width="100%" height="5">&nbsp;</td>
-              </tr>
-              <tr>
-                <td>
-                  <p align="justify"><b>Animal Angels Foundation</b> is the <b><i>first</i></b> organization in India working in the field of animal-assisted therapy.
-                  <p align="justify">Through animal-assisted therapy, our specially trained therapy pets assist us in helping children and adults learn or improve various skills and in speeding up the recovery process. We practice animal-assisted therapy in the areas of developmental disorders, psychiatric disorders, physical disabilities, physical illnesses and behavioural/emotional problems.
-                </td>
-              </tr>
-              <tr>
-                <td width="100%" height="5">&nbsp;</td>
-              </tr>
-              <tr>
-                <td><img src="/images/top-reel.jpg" width="500" height="15"></td>
-              </tr>
-              <tr>
-				<td width="100%" height="80"><? include($_SERVER['DOCUMENT_ROOT'] . "/common/javaScript/scrollingMarquee.php"); ?></td>
-	    	  </tr>
-              <tr>
-                <td><img src="/images/bottom-reel.jpg" width="500" height="15"></td>
-              </tr>
+
               <tr>
                 <td>
                   <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="90%" id="AutoNumber8">
@@ -183,11 +136,12 @@
                           <em id="cbl"><b>&bull;</b></em>
                           <em id="ctr"><b>&bull;</b></em>
                           <em id="cbr"><b>&bull;</b></em>
-                        <p><center><b>We also train therapy pets for home</b></center>
-                        <br />
-                        <center>
-						    <b><i><font color="red">New</font></i></b> <a href="/angels-home/simbaa-jiyon.php">Angels at Home</a> section<br />
-                        </center>
+                        <p>
+                          <center>
+						    <b><i><font color="red">New</font></i></b> <a href="/angels-home/simbaa-jiyon.php">Angels at Home</a> section<br /><br />
+                            Our newest Angel <a href="/meet-angels/simbaa.php">Simbaa</a><br />
+                            An update on <a href="/meet-angels/casper.php">Casper</a>
+                          </center>
                         </p>
                         </div>
                       </td>
@@ -211,7 +165,68 @@
                 </td>
               </tr>
 
+              <tr>
+                <td width="100%" height="10">&nbsp;</td>
+              </tr>
 
+              <tr>
+                <td width="520" height="330"><a href="/workshops/bow-wow.php"><img border="0" src="/images/workshop-banner.jpg" title="Inquire about our workshops" alt="Inquire about our workshops" align="left" width="520" height="330"></td>
+              </tr>
+              <tr>
+                <td width="100%" height="10">&nbsp;</td>
+              </tr>
+              <tr>
+                <td width="100%">
+                  <p align="justify"><b>Animal Angels Foundation</b> is a Mumbai based organization founded by <b><a href="/meet-angels/rohini.php">Rohini Fernandes</a></b> and <b><a href="/meet-angels/radhika.php">Radhika Nair</a></b> who are clinical psychologists, certified practitioners of <a href="/about-aat/aat.php">animal-assisted therapy</a> and professional dog trainers.
+                  <br /><br />
+                </td>
+              </tr>
+              <tr>
+                <td width="100%">
+                  <table border="0" cellpadding="30" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="90%" id="AutoNumber8">
+	                <!--tr>
+		      		  <td width="10%">&nbsp;
+						
+                	  </td>
+		      		  <td width="35%">
+						<a target="_blank" href="http://www.facebook.com/pages/Animal-Angels-Foundation/254481607911337"><img border="0" src="/images/f.png" title="Facebook" alt="Facebook" align="left" width="75" height="75"><br/>Animal Angels<br>on Facebook!</a>
+                	  </td>
+                	  <td width="55%"><div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://www.facebook.com/pages/Animal-Angels-Foundation/254481607911337" send="true" width="250" show_faces="true" action="like" font="arial"></fb:like>
+                      </td>
+                    </tr -->
+                    <tr align="center">
+                      <td valign="top"	>
+                        <iframe height="30" src="//www.facebook.com/plugins/follow.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FAnimal-Angels-Foundation-India%2F254481607911337&amp;layout=standard&amp;show_faces=true&amp;colorscheme=dark&amp;font=arial&amp;width=200" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px;" allowTransparency="true"></iframe>
+                      </td>
+                      <td valign="top">
+                        <a href="https://twitter.com/AngelsWoof" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @AngelsWoof</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td width="100%" height="5">&nbsp;</td>
+              </tr>
+              <tr>
+                <td>
+                  <p align="justify"><b>Animal Angels Foundation</b> is the <b><i>first</i></b> organization in India working in the field of animal-assisted therapy.
+                  <p align="justify">Through animal-assisted therapy, our specially trained therapy pets assist us in helping children and adults learn or improve various skills and in speeding up the recovery process. We practice animal-assisted therapy in the areas of developmental disorders, psychiatric disorders, physical disabilities, physical illnesses and behavioural/emotional problems.
+                </td>
+              </tr>
+              <tr>
+                <td width="100%" height="5">&nbsp;</td>
+              </tr>
+              <tr>
+                <td><img src="/images/top-reel.jpg" width="500" height="15"></td>
+              </tr>
+              <tr>
+				<td width="100%" height="80"><? include($_SERVER['DOCUMENT_ROOT'] . "/common/javaScript/scrollingMarquee.php"); ?></td>
+	    	  </tr>
+              <tr>
+                <td><img src="/images/bottom-reel.jpg" width="500" height="15"></td>
+              </tr>
               <tr>
                 <td width="100%">
                   <p align="justify">We even work with kindergartens and schools where our therapy pets assist in educating children on how to interact with animals.

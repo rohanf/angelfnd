@@ -81,7 +81,7 @@
                       <td width="100%">
                       <p align="center">
                       <img border="0" src="/images/pic-dexter-pug.jpg" alt="Dexter the pug at Animal Angels Foundation" hspace="0" width="300" height="225"></p>
-                      <p align="justify">You can also call me ‘lap lander'! I love sitting on your lap and cuddling up with you. Pet me and brush me while you talk; you won’t even notice I’m here! (I do snore a lil' though). Add a few treats every now and then and you’ve got yourself a perfect lap dog!
+                      <p align="justify">You can also call me 'lap lander'! I love sitting on your lap and cuddling up with you. Pet me and brush me while you talk; you won't even notice I'm here! (I do snore a lil' though). Add a few treats every now and then and you've got yourself a perfect lap dog!
                       </td>
                     </tr>
                   </table>

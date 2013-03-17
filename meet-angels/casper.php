@@ -3,8 +3,8 @@
 
 <head>
   <meta http-equiv="Content-Language" content="en-us">
-  <meta name="keywords" content="animal angels foundation, animal assisted therapy, dog frisbee, animal assisted activities, trained therapy animals, trained animals, therapy pets, therapets, animal assisted therapy services, casper">
-  <meta name="description" content="Casper is a labrador retriever at Animal Angels Foundation. He is also a co-therapist in a school for special children and enjoys playing frisbee.">
+  <meta name="keywords" content="animal angels foundation, animal assisted therapy, dog frisbee, animal assisted activities, trained therapy animals, trained animals, therapy pets, therapets, animal assisted therapy services, casper the dog, skills and ability school nerul">
+  <meta name="description" content="Casper was a labrador retriever at Animal Angels Foundation for 7 years. He was one of the first therapy dogs and started when he was 8 months old.">
   <title>Meet Casper at Animal Angels Foundation</title>
   <link rel="stylesheet" type="text/css" href="/ds.css">
   <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
@@ -81,9 +81,12 @@
                     <tr>
                       <td width="100%">
                       <p align="justify">
-                      <img border="0" src="/images/pic-casper.jpg" alt="Labrador Casper the therapy dog at Animal Angels Foundation" align="left" hspace="10" width="130" height="230">
-                      I am a handsome hunk (people say!) of a Labrador retriever. I work as a co-therapist in a school for special children. I love going to school every morning and playing with my friends.
-                      <p align="justify">They enthusiastically look forward to playing ball, throwing the Frisbee, taking me for a walk, petting me, brushing me and, in short, showering me with lots of love. I in turn, make sure I lick them right on the face!</td>
+                      <img border="0" src="/images/pic-casper.jpg" alt="Labrador Casper the therapy dog at Animal Angels Foundation" align="left" hspace="10" width="130" height="230">After 7 years of serving as a therapy dog on our team, Casper decided to retire.  He was one of our first therapy dogs who started working at Skills and Ability School , Nerul when he was only 8 months old. He stole the hearts of everyone at the school, from the children, to the teachers, staff and even the gardener!</p>
+                      <p align="justify">For many children he was the first dog they had ever interacted with. He was ever willing to hand out licks and kisses, which made every child feel very special. Casper was their security blanket when the world around them didn't make sense.  Most importantly, he was their best friend, who never laughed at them or mocked them for their short comings. He would patiently wait for them to feed him his favourite treat, never snatching it from their fingers if they took too long to pick it up. He has assisted us in helping children to improve their speech, motor movements and academics. They loved 'teaching' Casper a-b-c and 1-2-3's.</p>
+                      <p align="justify">Casper, on his part, thoroughly enjoyed coming to school. He would wait for us by the window each morning and greet us with the same unbridled enthusiasm every time. In fact his owners Subroto and Vijji Saha would tell us that on school holidays he would sit by the window, looking out expectantly at every rickshaw that passed by.</p>
+                      <p align="justify">To sum it up, Casper is still missed by the children and staff who keep asking us to bring him to school to say hi. As one child very aptly put it, "it's ok if you (therapists) don't come to school; but please send Casper in a rickshaw".</p>
+                      <p align="center"><b><i>Thank you Casper, for being an 'Angel'</i></b></p>
+                      </td>
                     </tr>
                   </table>
                 </td>

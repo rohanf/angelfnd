@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
       <loc>http://www.animalangelsfoundation.com/</loc>
-      <lastmod>	</lastmod>
+      <lastmod>2013-03-16</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
    </url>
    <url>
       <loc>http://animalangelsfoundation.com/meet-angels/rohini.php</loc>
-      <lastmod>2012-04-08</lastmod>
+      <lastmod>2013-03-16</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
@@ -74,7 +74,7 @@
    </url>
    <url>
       <loc>http://animalangelsfoundation.com/meet-angels/casper.php</loc>
-      <lastmod>2011-04-23</lastmod>
+      <lastmod>2013-03-16</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
    </url>
@@ -147,6 +147,12 @@
    <url>
       <loc>http://animalangelsfoundation.com/meet-angels/simba.php</loc>
       <lastmod>2011-04-23</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+   <url>
+      <loc>http://animalangelsfoundation.com/meet-angels/simbaa.php</loc>
+      <lastmod>2013-03-16</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
    </url>

@@ -227,6 +227,15 @@
                   <td width="43">
                   <p align="center">
                   <?
+                    ($leftNav=='simbaa')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="mo">Simbaa</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="llt" href="/meet-angels/simbaa.php">Simbaa</a></td>')
+                  ?>
+                </tr>
+                <tr>
+                  <td width="43">
+                  <p align="center">
+                  <?
                     ($leftNav=='tojo')?
                     (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="mo">Tojo</a></td>'):
                     (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="llt" href="/meet-angels/tojo.php">Tojo</a></td>')

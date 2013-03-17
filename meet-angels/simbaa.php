@@ -3,9 +3,9 @@
 
 <head>
   <meta http-equiv="Content-Language" content="en-us">
-  <meta name="keywords" content="animal angels foundation, animal assisted therapy, therapy animals, animal assisted activities, trained therapy animals, trained animals, therapy pets, therapets, animal assisted therapy services, dog training services, joy dog">
-  <meta name="description" content="Joy is a labrador at Animal Angels Foundation. Joy enjoys carrots, curling up on the sofa, and is very well mannered and obedient.">
-  <title>Meet Joy at Animal Angels Foundation</title>
+  <meta name="keywords" content="animal angels foundation, animal assisted therapy, therapy animals, simbaa, in house angel, simbaa and jiyon, bed time story dog, ">
+  <meta name="description" content="Rohini Fernandes is a clinical psychologist and a certified practitioner of Animal-Assisted Therapy. She trains dogs dogs and reaches out to people through Animal Angels Foundation.">
+  <title>Meet Simbaa at Animal Angels Foundation</title>
   <link rel="stylesheet" type="text/css" href="/ds.css">
   <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
   <script type="text/JavaScript" src="/common/javaScript/refresh.js"></script>
@@ -47,12 +47,12 @@
               <td width="100%" valign="top">
                 <?
                   global $leftNav;
-                  $leftNav = "joy";
+                  $leftNav = "simbaa";
                   include($_SERVER['DOCUMENT_ROOT'] . "/common/leftMenus/angels.php");
                 ?>
               </td>
             </tr>
-            </table>
+          </table>
           </td>
           <td valign="top">
           <div align="center">
@@ -74,15 +74,15 @@
                       <td width="100%">
                       <h3>
                       <img border="0" src="/images/big-bullet.jpg" alt="Big bullet" align="absmiddle" width="20" height="18">&nbsp;&nbsp; 
-                      Meet the Angels - Joy</h3>
+                      Meet the Angels - Simbaa</h3>
                       </td>
                     </tr>
                     <tr>
                       <td width="100%">
                       <p align="justify">
-                      <img border="0" src="/images/pic-joy.jpg" alt="Labrador Joy the therapy dog at Animal Angels Foundation" align="left" hspace="10" width="170" height="195"></p>
-                      <p align="justify">Hello! I'm Joy, a fun loving seven-year-old Labrador. As my name suggests, I bring joy and cheer into the lives of people. I love the smile that comes up on the faces of children who play with me and pet me.
-                      <p align="justify">Actually, my favorite activities, if you really ask me, are nibbling on carrots and curling up on the sofa all day. When people stop by to shake paws with me, I wag and greet them. I am most well mannered and obedient, you see!</td>
+                      <img border="0" src="/images/pic-simbaa.jpg" alt="In-home therapy dog Simbaa" align="left" hspace="10" width="150" height="217">Hi! I am an in-house Angel...this means I get to be with my buddy <a href="/angels-home/simbaa-jiyon.php">Jiyon</a> all day long! From jumping on his bed and waking him up with licks every morning (I cannot let him be late for school!), to cuddling up for a bedtime story at night.</p>
+	                  <p align="justify">We do everything together - run, play ball, homework. When I am at his side, my buddy stays calm and relaxed. That's why i am even allowed to travel with him in the cabin when he <a href="/news/toi-2013-03-03.php">flies to Kolkata for holidays</a>!</p>
+					  </td>
                     </tr>
                   </table>
                 </td>

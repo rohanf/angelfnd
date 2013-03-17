@@ -52,7 +52,7 @@
                 <img border='0' src='/images/logo.gif' width='184' height='89'></a>
               </td>
               <td valign='top' width='595' height='89'>
-                <img border='0' src='/images/top-3.jpg' width='595' height='89'>
+                <img border='0' src='/images/pic-mission.jpg' alt="Our Mission: Enriching peoples' lives through our therapy animals" width='595' height='89'>
               </td>
             </tr>
           </table>
