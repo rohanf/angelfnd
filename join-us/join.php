@@ -141,7 +141,7 @@
                     </tr>
                     <tr>
                       <td width="100%">
-                      <p align="justify" style="margin-left:20">If you want to be a part of our team and make a difference in people’s lives through animals, then you can sign up for a one-day workshop with us and get registered under Animal Angels Foundation. If you are interested then send us a mail at <a href="mailto:AnimalAngelsIndia@gmail.com"> AnimalAngelsIndia@gmail.com</a> and we will get back to you with the details.
+                      <p align="justify" style="margin-left:20">If you want to be a part of our team and make a difference in people's lives through animals, then you can sign up for a one-day workshop with us and get registered under Animal Angels Foundation. If you are interested then send us a mail at <a href="mailto:AnimalAngelsIndia@gmail.com"> AnimalAngelsIndia@gmail.com</a> and we will get back to you with the details.
                       <p align="justify" style="margin-left:20">You can commit to whatever amount of time you would like to give, according to your schedule. You can volunteer as often as once a week, or as little as once a month for an hour at a time.</td>
                     </tr>
                   </table>

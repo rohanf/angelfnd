@@ -80,10 +80,10 @@
                     <tr>
                       <td width="100%">
                       <p align="justify">
-                      <img border="0" src="/images/pic-volunteers.jpg" alt="Therapy dog Joy along with volunteers Megha (left) and Brinda (right)" align="left" hspace="10" width="170" height="227">Therapy dog Joy along with volunteers Megha (left) and Brinda (right) are regular visitors at St. Catherine’s Home, Andheri where the children, who are traumatized teenage girls, love having him around. Joy helped them overcome their hesitation of being close to an animal.</p>
-                      <p align="justify">While playing with Joy and carrying out activities around him like word building, throwing ball or sketching, they feel relaxed and happy. They forget their personal bickering and come together to brush Joy’s coat or take turns in walking him on a leash.</p>
+                      <img border="0" src="/images/pic-volunteers.jpg" alt="Therapy dog Joy along with volunteers Megha (left) and Brinda (right)" align="left" hspace="10" width="170" height="227">Therapy dog Joy along with volunteers Megha (left) and Brinda (right) are regular visitors at St. Catherine's Home, Andheri where the children, who are traumatized teenage girls, love having him around. Joy helped them overcome their hesitation of being close to an animal.</p>
+                      <p align="justify">While playing with Joy and carrying out activities around him like word building, throwing ball or sketching, they feel relaxed and happy. They forget their personal bickering and come together to brush Joy's coat or take turns in walking him on a leash.</p>
                       <br>
-                      <p align="justify">These activities have helped them become caring individuals who place the need of another creature above their own. Although these girls have seen life as a harsh deal, Joy’s interactions bring about a compassionate and humane aspect of their personality.</p>
+                      <p align="justify">These activities have helped them become caring individuals who place the need of another creature above their own. Although these girls have seen life as a harsh deal, Joy's interactions bring about a compassionate and humane aspect of their personality.</p>
                       </td>
                     </tr>
                   </table>
