@@ -61,7 +61,7 @@
         <!-- END GOOGLE PLUS -->
         
         <!-- BEGIN LINKEDIN -->
-        <div class='divInner5' style="border: 6px solid transparent; width: 70px;">
+        <div class='divInner5' style="border: 6px solid transparent; width: 60px;">
 			<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
 			<script type="IN/Share"></script>
         </div>
