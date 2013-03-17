@@ -1,3 +1,4 @@
+/*
 var message="Please email AnimalAngelsIndia@gmail.com if you would like to reproduce any content from this website";
 
 ///////////////////////////////////
@@ -26,3 +27,4 @@ document.onmousedown=clickIE4;
 }
 
 document.oncontextmenu=new Function("alert(message);return false")
+*/
