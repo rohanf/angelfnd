@@ -81,7 +81,7 @@
                       <td width="100%">
                       <p align="justify">
                       <img border="0" src="/images/pic-angel.jpg" alt="Golden retriever Angel the therapy dog at Animal Angels Foundation" align="left" hspace="10" width="150" height="218">
-                      Hi! I am a Golden Retriever who loves food and playing with my toys! I love making new friends especially when it involves lots of games and biscuits! I work with my co-therapists to help in putting a smile on people’s faces and helping them feel loved. </p>
+                      Hi! I am a Golden Retriever who loves food and playing with my toys! I love making new friends especially when it involves lots of games and biscuits! I work with my co-therapists to help in putting a smile on people's faces and helping them feel loved. </p>
                       <p align="justify">In my free time I like participating in dog shows and bringing home trophies from obedience and breed shows. It's a perfect combination of beauty with brains!</td>
                     </tr>
                   </table>
