@@ -196,13 +196,12 @@
                     </tr -->
                     <tr align="center">
                       <td valign="top"	>
-                        <center>Check out <a target="_blank" href="http://www.facebook.com/pages/Animal-Angels-Foundation/254481607911337">our facebook page</a><br />
-                        and<br /></center>	
+                        <center>Check out <a target="_blank" href="http://www.facebook.com/pages/Animal-Angels-Foundation/254481607911337">our facebook page</a><br /><br /></center>	
                         <iframe height="30" src="//www.facebook.com/plugins/follow.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FAnimal-Angels-Foundation-India%2F254481607911337&amp;layout=standard&amp;show_faces=true&amp;colorscheme=dark&amp;font=arial&amp;width=200" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px;" allowTransparency="true"></iframe>
                       </td>
                       <td valign="middle">
-                        <center>Get our twitter updates</center>
-                        <a href="https://twitter.com/AngelsWoof" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @AngelsWoof</a>
+                        <center>Get our twitter updates</center><br />
+                        <a href="https://twitter.com/AngelsWoof" class="twitter-follow-button" data-show-count="false">Follow @AngelsWoof</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
                       </td>
                     </tr>
