@@ -151,7 +151,7 @@
                           <em id="cbl"><b>&bull;</b></em>
                           <em id="ctr"><b>&bull;</b></em>
                           <em id="cbr"><b>&bull;</b></em>
-                          <p><center><b>Read all about Simbaa and Jiyon's experience</b></center>
+                          <p><center><b>Read all about Simbaa<br/>and Jiyon's experience</b></center>
                           <br>
                           <center>
 			                <a href="/news/toi-2013-03-03.php">on Jet Airways!</a><br />
