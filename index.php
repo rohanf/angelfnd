@@ -183,27 +183,35 @@
               </tr>
               <tr>
                 <td width="100%">
-                  <table border="0" cellpadding="30" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="90%" id="AutoNumber8">
-	                <!--tr>
-		      		  <td width="10%">&nbsp;
-						
-                	  </td>
-		      		  <td width="35%">
-						<a target="_blank" href="http://www.facebook.com/pages/Animal-Angels-Foundation/254481607911337"><img border="0" src="/images/f.png" title="Facebook" alt="Facebook" align="left" width="75" height="75"><br/>Animal Angels<br>on Facebook!</a>
-                	  </td>
-                	  <td width="55%"><div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://www.facebook.com/pages/Animal-Angels-Foundation/254481607911337" send="true" width="250" show_faces="true" action="like" font="arial"></fb:like>
-                      </td>
-                    </tr -->
-                    <tr align="center">
-                      <td valign="top"	>
-                        <center>Check out <a target="_blank" href="http://www.facebook.com/pages/Animal-Angels-Foundation/254481607911337">our facebook page</a><br /><br /></center>	
-                        <iframe height="30" src="//www.facebook.com/plugins/follow.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FAnimal-Angels-Foundation-India%2F254481607911337&amp;layout=standard&amp;show_faces=true&amp;colorscheme=dark&amp;font=arial&amp;width=200" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px;" allowTransparency="true"></iframe>
+                  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="90%" id="AutoNumber8">
+	                <tr>
+		      		  <td valign="top" width="95">
+                        <a target="_blank" href="http://www.facebook.com/pages/Animal-Angels-Foundation/254481607911337"><img border="0" src="/images/f.png" title="Facebook" alt="Facebook" align="right" width="75" height="75"></a>
                       </td>
                       <td valign="middle">
-                        <center>Get our twitter updates</center><br />
-                        <a href="https://twitter.com/AngelsWoof" class="twitter-follow-button" data-show-count="false">Follow @AngelsWoof</a>
+						<div id="fb-root"></div>
+						<script>(function(d, s, id) {
+						  var js, fjs = d.getElementsByTagName(s)[0];
+						  if (d.getElementById(id)) return;
+						  js = d.createElement(s); js.id = id;
+						  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+						  fjs.parentNode.insertBefore(js, fjs);
+						}(document, 'script', 'facebook-jssdk'));</script>
+						<div class="fb-like" data-href="http://www.facebook.com/pages/Animal-Angels-Foundation-India/254481607911337" data-send="false" data-layout="box_count" data-width="100" data-show-faces="true" data-font="arial"></div>
+                	  </td>
+                      <td valign="middle" width="110">
+                      	<a target="_blank" href="https://twitter.com/AngelsWoof"><img border="0" src="https://twitter.com/images/resources/twitter-bird-white-on-blue.png" title="Twitter" alt="Twitter" align="right" width="55" height="55" /></a>
+                      </td>
+                      <td valign="middle">
+                      	<a href="https://twitter.com/AngelsWoof" class="twitter-follow-button" data-show-count="false">Follow @AngelsWoof</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
                       </td>
+                    </tr>
+                    <tr height="30">
+                      <td colspan="2" style="text-align: center">
+                      	<a target="_blank" href="http://www.facebook.com/pages/Animal-Angels-Foundation/254481607911337">Animal Angels on Facebook!</a></td>
+                      <td colspan="2" style="text-align: center">
+                      	<a target="_blank" href="https://twitter.com/AngelsWoof">Subscribe to our Twitter feed!<a></td>
                     </tr>
                   </table>
                 </td>
