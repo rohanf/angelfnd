@@ -200,7 +200,7 @@
 						<div class="fb-like" data-href="http://www.facebook.com/pages/Animal-Angels-Foundation-India/254481607911337" data-send="false" data-layout="box_count" data-width="100" data-show-faces="true" data-font="arial"></div>
                 	  </td>
                       <td valign="middle" width="110">
-                      	<a target="_blank" href="https://twitter.com/AngelsWoof"><img border="0" src="https://twitter.com/images/resources/twitter-bird-white-on-blue.png" title="Twitter" alt="Twitter" align="right" width="55" height="55" /></a>
+                      	<a target="_blank" href="https://twitter.com/AngelsWoof"><img border="0" src="https://twitter.com/images/resources/twitter-bird-blue-on-white.png" title="Twitter" alt="Twitter" align="right" width="55" height="55" /></a>
                       </td>
                       <td valign="middle">
                       	<a href="https://twitter.com/AngelsWoof" class="twitter-follow-button" data-show-count="false">Follow @AngelsWoof</a>
