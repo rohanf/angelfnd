@@ -42,7 +42,7 @@
 				fjs.parentNode.insertBefore(js, fjs);
 			}(document, 'script', 'facebook-jssdk'));
     	    </script>
-        	<fb:like send="true" layout="button_count" width="5" show_faces="true" font="arial"></fb:like>
+        	<fb:like href="http://www.facebook.com/pages/Animal-Angels-Foundation-India/254481607911337" send="true" layout="button_count" width="5" show_faces="true" font="arial"></fb:like>
         </div>
         <!-- END FACEBOOK -->
         
