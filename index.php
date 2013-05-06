@@ -271,15 +271,6 @@
 
               <tr>
                 <td width="100%">
-                  <p align="justify">Through this therapy, our specially trained therapy pets assist us in helping children and adults learn or improve various skills and in speeding up the recovery process. We practice animal-assisted therapy in the areas of developmental disorders, psychiatric disorders, physical disabilities, physical illnesses and behavioural/emotional problems.
-                </td>
-              </tr>
-
-              <tr>
-                <td width="100%">
-                  <p align="justify">We also work with kindergartens and schools where our therapy pets assist in educating children on how to interact with animals.
-                  <p align="justify">We have a team of volunteers who along with their therapy dogs and cats do animal-assisted visits to places like orphanages and old age homes.
-
                   <p align="justify">Our therapy pets assist us in helping people cope with life's day-to-day challenges such as loss, stress, loneliness and illness, in learning new skills and in speeding up their recovery process.
                 </td>
               </tr>
