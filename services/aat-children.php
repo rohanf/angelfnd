@@ -76,6 +76,21 @@
                       </td>
                     </tr>
                     <tr>
+                      <td width="100%" height="30"></td>
+                    </tr>
+                    <tr>
+                      <td width="100%">
+                      <img border="0" src="/images/orange-paw.gif" alt="orange-paw bullet" align="absmiddle" width="12" height="12">&nbsp;&nbsp;<b>BOW WOW Workshops</b></td>
+                    </tr>
+                    <tr>
+                      <td width="100%">
+                      <p align="justify" style="margin-left: 20">Please click <a href="/workshops/bow-wow.php">here</a> to register your child for fun and educative workshops with our therapy dogs.</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td width="100%" height="30"></td>
+                    </tr>
+                    <tr>
                       <td width="100%">
                       <img border="0" src="/images/orange-paw.gif" alt="orange-paw bullet" align="absmiddle" width="12" height="12">&nbsp;&nbsp;<b>For Kindergartens and Schools</b></td>
                     </tr>

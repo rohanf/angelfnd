@@ -3,9 +3,9 @@
 
 <head>
   <meta http-equiv="Content-Language" content="en-us">
-  <meta name="keywords" content="animal angels foundation, animal assisted therapy, therapy animals, simbaa, in house angel, simbaa and jiyon, bed time story dog, ">
-  <meta name="description" content="Rohini Fernandes is a clinical psychologist and a certified practitioner of Animal-Assisted Therapy. She trains dogs dogs and reaches out to people through Animal Angels Foundation.">
-  <title>Meet Simbaa at Animal Angels Foundation</title>
+  <meta name="keywords" content="animal angels foundation mumbai news, mycity4kids, therapists with a difference, priya fonseca, animal assisted therapy, verbal, physical and cognitive skills, emotional and behavioural problems, program for kindergarten and schools, bow wow workshops">
+  <meta name="description" content="Animal Angels Foundation in My City For Kids - Therapists with a Difference by Priya Fonseca, May 3, 2013">
+  <title>Animal Angels Foundation featured in My City For Kids - Therapists with a Difference, Priya Fonseca</title>
   <link rel="stylesheet" type="text/css" href="/ds.css">
   <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
   <script type="text/JavaScript" src="/common/javaScript/refresh.js"></script>
@@ -13,7 +13,7 @@
   <script type="text/Javascript" src="/common/javaScript/dimensions.js"></script>
 </head>
 
-<body topmargin="0" leftmargin="0" bottommargin="0" rightmargin="0" onLoad="choosePic()" onResize="dimensions()">
+<body topmargin="0" leftmargin="0" bottommargin="0" rightmargin="0" onLoad="choosePic()"  onResize="dimensions()">
 <div align="center">
   <center>
   <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="779" id="AutoNumber1" height="100%" background="/images/bg-table.gif">
@@ -24,7 +24,7 @@
           <td width="779" height="22" valign="top">
             <?
               global $topNav;
-              $topNav = "angels";
+              $topNav = "news";
               include($_SERVER['DOCUMENT_ROOT'] . "/common/top/menu.php");
             ?>
           </td>
@@ -47,12 +47,12 @@
               <td width="100%" valign="top">
                 <?
                   global $leftNav;
-                  $leftNav = "simbaa";
-                  include($_SERVER['DOCUMENT_ROOT'] . "/common/leftMenus/angels.php");
+                  $leftNav = "mycity4kids";
+                  include($_SERVER['DOCUMENT_ROOT'] . "/common/leftMenus/news.php");
                 ?>
               </td>
             </tr>
-          </table>
+            </table>
           </td>
           <td valign="top">
           <div align="center">
@@ -60,37 +60,39 @@
 
 
             <script type="text/javascript">
-              document.write("<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse: collapse\" bordercolor=\"#111111\" width=\"90%\" id=\"AutoNumber19\" height=" + tableHeight + ">");
+              document.write("<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse: collapse\" bordercolor=\"#111111\" width=\"90%\" id=\"AutoNumber10\" height=" + tableHeight + ">");
             </script>
               <tr>
-                <td valign="top">
-
-
-                  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="90%" id="AutoNumber10">
-                    <tr>
-                      <td width="100%">&nbsp;</td>
-                    </tr>
-                    <tr>
-                      <td width="100%">
-                      <h3>
-                      <img border="0" src="/images/big-bullet.jpg" alt="Big bullet" align="absmiddle" width="20" height="18">&nbsp;&nbsp; 
-                      Meet the Angels - Simbaa</h3>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td width="100%">
-                      <p align="justify">
-                      <img border="0" src="/images/pic-simbaa.jpg" alt="In-home therapy dog Simbaa" align="left" hspace="10" width="150" height="217">Hi! I am an in-house Angel...this means I get to be with my buddy <a href="/angels-home/simbaa-jiyon.php">Jiyon</a> all day long! From jumping on his bed and waking him up with licks every morning (I cannot let him be late for school!), to cuddling up for a bedtime story at night.</p>
-	                  <p align="justify">We do everything together - run, play ball, homework. When I am at his side, my buddy stays calm and relaxed. That's why i am even allowed to travel with him in the cabin when he <a href="/news/toi-2013-03-03.php">flies to Kolkata for holidays</a>!</p>
-					  </td>
-                    </tr>
-                  </table>
+                <td width="100%">&nbsp;</td>
+              </tr>
+              <tr>
+                <td width="100%">
+                <h3>
+                <img border="0" src="/images/big-bullet.jpg" alt="Big bullet" align="absmiddle" width="20" height="18">&nbsp;&nbsp; 
+                My City For Kids - May 3, 2013</h3>
                 </td>
+              </tr>
+              <tr>
+              	<td width="100%" height="30"><img border="0" src="/images/spacer.gif" alt="" width="5" height="5"></td>
+              </tr>
+              <tr>
+                <td width="100%">
+                <center>Read the article on the <a href="http://www.mycity4kids.com/parentingstop/article/therapists-with-a-difference" target="_blank">My City For Kids</a> website<br>&nbsp;</center>
+				</td>
+              </tr>
+              <tr>
+              	<td width="100%" height="30"><img border="0" src="/images/spacer.gif" alt="" width="5" height="5"></td>
+              </tr>
+              <tr>
+                <td valign="top" width="100%">
+                <img border="0" alt="My City For Kids article on Animal Angels Foundation - May 3, 2013" src="/images/news-mycity4kids-2013-05-03.jpg" align="center" hspace="10" width="520" height="3248">
+		</td>
               </tr>
             </table>
 
 
-            <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="90%" id="AutoNumber19">
+
+            <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="90%" id="AutoNumber9">
             <div align="center">
 
               <script type="text/Javascript" src="/common/javaScript/calculateHeight.js"></script>
@@ -100,16 +102,15 @@
                 {
                   print'<tr><td width="100%">&nbsp;</td></tr>' . "\n";
                 }
-                if(stristr($_SERVER['SERVER_NAME'], 'animalangelsfoundation') == TRUE)
+				if(stristr($_SERVER['SERVER_NAME'], 'animalangelsfoundation') == TRUE)
                 {
-                  include($_SERVER['DOCUMENT_ROOT'] . "/common/bottom/google-analytics.php");
+                    include($_SERVER['DOCUMENT_ROOT'] . "/common/bottom/google-analytics.php");
                 }
                 include($_SERVER['DOCUMENT_ROOT'] . "/common/bottom/rediffq&a.php");
               ?>
 
-              </div>
+            </div>
             </table>
-
 
             </center>
           </div>
@@ -129,4 +130,4 @@
 <script type="text/JavaScript" src="/common/javaScript/rollover.js"></script>
 </body>
 
-</html>
+</hsstml>

@@ -182,6 +182,15 @@
                   <td width="43">
                   <p align="center">
                   <?
+                    ($leftNav=='max_in_house')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br />&nbsp;</td><td width="141"><a class="mo">Max the in-house therapy dog</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br />&nbsp;</td><td width="141"><a class="llt" href="/meet-angels/max-in-house.php">Max the in-house therapy dog</a></td>')
+                  ?>
+                </tr>
+                <tr>
+                  <td width="43">
+                  <p align="center">
+                  <?
                     ($leftNav=='max_labrador')?
                     (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="mo">Max the Labrador</a></td>'):
                     (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="llt" href="/meet-angels/max-labrador.php">Max the Labrador</a></td>')
@@ -227,9 +236,9 @@
                   <td width="43">
                   <p align="center">
                   <?
-                    ($leftNav=='simbaa')?
-                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="mo">Simbaa</a></td>'):
-                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="llt" href="/meet-angels/simbaa.php">Simbaa</a></td>')
+                    ($leftNav=='simbaa_in_house')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;<br>&nbsp;</td><td width="141"><a class="mo">Simbaa the in-house therapy<br />dog</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;<br>&nbsp;</td><td width="141"><a class="llt" href="/meet-angels/simbaa-in-house.php">Simbaa the in-house therapy<br />dog</a></td>')
                   ?>
                 </tr>
                 <tr>

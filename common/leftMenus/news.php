@@ -74,6 +74,16 @@
                 </tr>
                 <tr>
                   <td width="160">
+                  <a href="/news/mycity4kids.php">
+                  <?
+                    ($leftNav=='mycity4kids')?
+                    (print'<img class="selected" src="/images/news-mycity4kids.gif" alt="My City For Kids logo" title="Article in My City For Kids" width="150" height="40"></a>'):
+                    (print'<center><img border="0" src="/images/news-mycity4kids.gif" alt="My City For Kids logo" title="Article in My City For Kids" width="150" height="40"></center></a>')
+                  ?>
+                  </td>
+                </tr>
+                <tr>
+                  <td width="160">
                   <a href="/news/outlook-business.php">
                   <?
                     ($leftNav=='outlook-business')?

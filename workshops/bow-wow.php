@@ -5,7 +5,7 @@
   <meta http-equiv="Content-Language" content="en-us">
   <meta name="keywords" content="animal angels foundation workshops, animal assisted therapy workshops, therapy animals workshops, animal assisted activities, therapy pet workshop, animal angels foundation mumbai workshops, mumbai workshops, mumbai workshops animals, animal workshops india, workshops in new mumbai">
   <meta name="description" content="Animal Angels Foundation offers on weekends and school holidays">
-  <title>Workshops at Animal Angels Foundation</title>
+  <title>Workshop Registration at Animal Angels Foundation</title>
   <link rel="stylesheet" type="text/css" href="/ds.css">
   <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
   <script type="text/JavaScript" src="/common/javaScript/refresh.js"></script>
@@ -24,7 +24,7 @@
           <td width="779" height="22" valign="top">
             <?
               global $topNav;
-              $topNav = "workshops";
+              $topNav = "workshop-registration";
               include($_SERVER['DOCUMENT_ROOT'] . "/common/top/menu.php");
             ?>
           </td>
@@ -66,17 +66,17 @@
                     </tr>
                     <tr>
                       <td width="100%" height="42">
-                      <h3><img border="0" src="/images/big-bullet.jpg" alt="Big bullet" align="absmiddle" width="20" height="18">&nbsp;&nbsp;Workshops at Animal Angels Foundation</h3>
+                      <h3><img border="0" src="/images/big-bullet.jpg" alt="Big bullet" align="absmiddle" width="20" height="18">&nbsp;&nbsp;Workshop Registration at Animal Angels Foundation</h3>
                       </td>
                     </tr>
                     <tr>
                       <td width="100%">
-                      <img border="0" src="/images/workshop-bow-wow.jpg" alt="Workshops at Animal Angels Foundation" align="right" vspace="15" hspace="10" width="300" height="242" />
-                      <p align="justify" style="margin-left: 20">Currently, we run workshops at multiple locations in Bombay and New Bombay. The workshops are held on weekends and school holidays.<br /><br />Please fill out the form below if you would like to register your child for a BOW WOW workshop.</a></p>
+                      <img border="0" src="/images/workshop-bow-wow.jpg" alt="Workshop Registration at Animal Angels Foundation" align="right" vspace="15" hspace="10" width="300" height="242" />
+                      <p align="justify" style="margin-left: 20">Currently, we hold BOW WOW workshops at multiple locations in Bombay and New Bombay. The workshops are held on weekends and school holidays.<br /><br />We teach various skills, educational concepts and much more through activities and fun-filled games with our specially trained therapy dogs.<br /><br />Please fill out the form below if you would like to register your child for a BOW WOW workshop.</a></p>
                       </td>
                     </tr>
                     <tr>
-                      <td width="100%" height="30"></td>
+                      <td width="100%" height="5"></td>
                     </tr>
                     <tr>
                     	<td>

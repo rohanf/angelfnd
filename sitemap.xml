@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
       <loc>http://www.animalangelsfoundation.com/</loc>
-      <lastmod>2013-04-04</lastmod>
+      <lastmod>2013-05-05</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
    </url>
@@ -26,7 +26,7 @@
    </url>
    <url>
       <loc>http://animalangelsfoundation.com/meet-angels/janvi.php</loc>
-      <lastmod>2012-04-26</lastmod>
+      <lastmod>2013-05-05</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
@@ -121,6 +121,12 @@
       <priority>0.7</priority>
    </url>
    <url>
+      <loc>http://animalangelsfoundation.com/meet-angels/max-in-house.php</loc>
+      <lastmod>2013-05-05</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+   <url>
       <loc>http://animalangelsfoundation.com/meet-angels/max-labrador.php</loc>
       <lastmod>2011-04-23</lastmod>
       <changefreq>monthly</changefreq>
@@ -151,8 +157,8 @@
       <priority>0.7</priority>
    </url>
    <url>
-      <loc>http://animalangelsfoundation.com/meet-angels/simbaa.php</loc>
-      <lastmod>2013-03-16</lastmod>
+      <loc>http://animalangelsfoundation.com/meet-angels/simbaa-in-house.php</loc>
+      <lastmod>2013-05-05</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
    </url>
@@ -338,7 +344,7 @@
    </url>
    <url>
       <loc>http://animalangelsfoundation.com/news/news.php</loc>
-      <lastmod>2012-11-29</lastmod>
+      <lastmod>2013-05-05</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
    </url>
@@ -740,7 +746,7 @@
    </url>
    <url>
       <loc>http://animalangelsfoundation.com/services/aat-children.php</loc>
-      <lastmod>2012-04-08</lastmod>
+      <lastmod>2013-05-05</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
@@ -752,7 +758,7 @@
    </url>
    <url>
       <loc>http://animalangelsfoundation.com/services/dog-training.php</loc>
-      <lastmod>2012-04-08</lastmod>
+      <lastmod>2013-05-05</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
@@ -782,13 +788,13 @@
    </url>
    <url>
       <loc>http://animalangelsfoundation.com/support-us/support.php</loc>
-      <lastmod>2012-04-08</lastmod>
+      <lastmod>2013-05-05</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
       <loc>http://animalangelsfoundation.com/workshops/bow-wow.php</loc>
-      <lastmod>2012-11-27</lastmod>
+      <lastmod>2013-05-05</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>

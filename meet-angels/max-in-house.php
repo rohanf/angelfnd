@@ -3,9 +3,9 @@
 
 <head>
   <meta http-equiv="Content-Language" content="en-us">
-  <meta name="keywords" content="animal angels foundation, animal assisted therapy, therapy animals, janvi shethia, trained therapy animals, trained animals, therapy pets, therapets, counseling psychologist, st xavier's institute of counseling psychology, remedial educator">
-  <meta name="description" content="Janvi Shethia is a counseling psychologist and a certified counselor from St. Xavier's Institute of Counseling Psychology and a remedia educator">
-  <title>Janvi Shethia - Animal Angels Foundation</title>
+  <meta name="keywords" content="animal angels foundation, animal assisted therapy, therapy animals, animal assisted activities, trained therapy animals, trained animals, therapy pets, therapets, max the in-house therapy dog">
+  <meta name="description" content="Max is a lovable labrador who enjoys playing hide and seek!">
+  <title>Meet Max the in-house therapy dog at Animal Angels Foundation</title>
   <link rel="stylesheet" type="text/css" href="/ds.css">
   <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
   <script type="text/JavaScript" src="/common/javaScript/refresh.js"></script>
@@ -47,12 +47,12 @@
               <td width="100%" valign="top">
                 <?
                   global $leftNav;
-                  $leftNav = "janvi";
+                  $leftNav = "max_in_house";
                   include($_SERVER['DOCUMENT_ROOT'] . "/common/leftMenus/angels.php");
                 ?>
               </td>
             </tr>
-          </table>
+            </table>
           </td>
           <td valign="top">
           <div align="center">
@@ -74,18 +74,16 @@
                       <td width="100%">
                       <h3>
                       <img border="0" src="/images/big-bullet.jpg" alt="Big bullet" align="absmiddle" width="20" height="18">&nbsp;&nbsp; 
-                      Meet the Angels - Janvi</h3>
+                      Meet the Angels - Max the in-house therapy dog</h3>
                       </td>
                     </tr>
                     <tr>
                       <td width="100%">
                       <p align="justify">
-                      <img border="0" src="/images/pic-janvi.jpg" alt="Janvi Shethia at Animal Angels Foundation" align="left" hspace="10" width="180" height="262">I am Janvi Shethia, a counseling psychologist. I am also a certified counselor from St. Xavier's Institute of Counseling Psychology and a qualified remedial educator.</p>
-                      <p align="justify">I am a certified practitioner of Animal-Assisted Therapy from the University of North Texas, USA and Delta Society, USA.</p>
-                      <p align="justify">Due to circumstances, I could not pursue my dream of working with animals right from the beginning and so I tapped my other strength, which was helping people. I made a decision based on my natural tendencies and instincts, which in this case was helping others lead a better life.</p>
-                      <p align="justify">It was my affection for animals and children that influenced my decision to learn and know more about animal assisted therapy.</p>
-                      <p align="justify">At this stage I learned about <b>Animal Angels Foundation</b> which gave me an opportunity to explore and learn more about animal -assisted therapy by making me a part of their team.</p>
-                      <p align="justify">Our belief in animal-assisted therapy along with our qualifications, gives us a strong platform to advance animal- assisted therapy in India and take the organization to the next level.</p>
+                      <img border="0" src="/images/pic-max-in-house.jpg" alt="Max the in-house therapy dog at Animal Angels Foundation" align="left" hspace="10" width="180" height="175">Even though I am the third Max on the team I am unique because I am an in-house Angel.</p>
+                      <p align="justify">I was brought specially for my friend who loves dogs. He dotes over me and spends every free moment he has playing with me and teaching me tricks.</p>
+                      <p align="justify">He even makes videos of me which he proudly shows off to family and friends. On my part I never hesitate to shower him with doggie kisses a.k.a licks!!</p>
+                      </td>
                     </tr>
                   </table>
                 </td>

@@ -139,8 +139,7 @@
                         <p>
                           <center>
 						    <b><i><font color="red">New</font></i></b> <a href="/angels-home/simbaa-jiyon.php">Angels at Home</a> section<br /><br />
-                            Our newest Angel <a href="/meet-angels/simbaa.php">Simbaa</a><br />
-                            An update on <a href="/meet-angels/casper.php">Casper</a>
+                            Our newest Angel: <a href="/meet-angels/max-in-house.php">Max</a><br />the in-house therapy pet<br />
                           </center>
                         </p>
                         </div>
@@ -151,10 +150,10 @@
                           <em id="cbl"><b>&bull;</b></em>
                           <em id="ctr"><b>&bull;</b></em>
                           <em id="cbr"><b>&bull;</b></em>
-                          <p><center><b>Read all about Simbaa<br/>and Jiyon's experience</b></center>
+                          <p><center><b>Animal Angels featured in</b></center>
                           <br>
                           <center>
-			                <a href="/news/toi-2013-03-03.php">on Jet Airways!</a><br />
+			                <a href="/news/mycity4kids.php">My City For Kids</a><br />
                           </center>
                           </p>
                         </div>
