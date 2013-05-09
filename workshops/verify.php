@@ -3,9 +3,9 @@
 
 <head>
   <meta http-equiv="Content-Language" content="en-us">
-  <meta name="keywords" content="animal angels foundation workshops, animal assisted therapy workshops, therapy animals workshops, animal assisted activities, therapy pet workshop, animal angels foundation mumbai workshops, mumbai workshops, mumbai workshops animals, animal workshops india, workshops in new mumbai">
+  <meta name="keywords" content="We've received your email">
   <meta name="description" content="Animal Angels Foundation offers on weekends and school holidays">
-  <title>Workshop Registration at Animal Angels Foundation</title>
+  <title>Workshop Registration complete at Animal Angels Foundation</title>
   <link rel="stylesheet" type="text/css" href="/ds.css">
   <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
   <script type="text/JavaScript" src="/common/javaScript/refresh.js"></script>
@@ -70,33 +70,31 @@
                       </td>
                     </tr>
                     <tr>
-                      <td width="100%">
-                      <img border="0" src="/images/workshop-bow-wow.jpg" alt="Workshop Registration at Animal Angels Foundation" align="right" vspace="15" hspace="10" width="300" height="242" />
-                      <p align="justify" style="margin-left: 20">Currently, we hold BOW WOW workshops at multiple locations in Bombay and New Bombay. The workshops are held on weekends and school holidays.<br /><br />We teach various skills, educational concepts and much more through activities and fun-filled games with our specially trained therapy dogs.<br /><br />Please fill out the form below if you would like to register your child for a BOW WOW workshop.</a></p>
-                      </td>
-                    </tr>
-                    <tr>
                       <td width="100%" height="5"></td>
                     </tr>
                     <tr>
                     	<td>
                         	<?php
-									echo "<form method='post' action='verify.php'>
-<pre>First, let's make sure you're human!</pre>";
-require_once($_SERVER['DOCUMENT_ROOT'] . '/recaptcha/recaptchalib.php');
-$publickey = "6LfsHOESAAAAAOmRF7QoHtDKtEMqdBsZU1w52e-8";
-echo recaptcha_get_html($publickey);
-echo "<pre>Name: <input type='text' name='name'><br />
-Email address: <input type='text' name='email'><br />
-Contact number: <input type='text' name='phone'><br />
-Your child's age: <input type='text' name='age'><br />
-Location: <input type='text' name='location'><br />
-Additional comments:<br>
-<textarea name='comments' rows='10' cols='60'>
-</textarea><br>
-<input type='submit' value='Send information'>
-									</pre>
-									</form>";
+								require_once($_SERVER['DOCUMENT_ROOT'] . '/recaptcha/recaptchalib.php');
+								$privatekey = "6LfsHOESAAAAAMLHrBKW2G528lEJML5nU0PUd3v7";
+								$resp = recaptcha_check_answer ($privatekey, $_SERVER["REMOTE_ADDR"], $_POST["recaptcha_challenge_field"], $_POST["recaptcha_response_field"]);
+								if (!$resp->is_valid) {
+									// What happens when the CAPTCHA was entered incorrectly
+									echo "<p align='center'>
+									<img border='0' src='/images/sad_dog.jpg' alt='Awwww' width='506' height='337' /><br><br><br>
+									Sorry, we weren't able to verify that you were human. Please <a href='/workshops/bow-wow.php'>try again</a></p>";
+									die();
+								} else {
+									$name = $_REQUEST['name'];
+									$email = $_REQUEST['email'];
+									$phone = $_REQUEST['phone'];
+									$age = $_REQUEST['age'];
+									$location = $_REQUEST['location'];
+									$comments = $_REQUEST['comments'];
+									$message = "Name: ".$name."\n"."Phone number: ".$phone."\n"."Age: ".$age."\n"."Location: ".$location."\n"."Coments: ".$comments;
+									mail("animalangelsindia@gmail.com", "Workshop Inquiry", $message, "From:" . $email);
+									echo "Thank you $name. We will get in touch as soon as we have a workshop in the area closest to where you stay.</p>";
+								}
 							?>
                         </td>
                     </tr>
