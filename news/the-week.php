@@ -4,8 +4,8 @@
 <head>
   <meta http-equiv="Content-Language" content="en-us">
   <meta name="keywords" content="animal angels foundation mumbai news, the week, rohini teresa mathew, radhika nair, angel, rohini fernandes, animal assisted therapy, casper, cheshire home, skills and ability school">
-  <meta name="description" content="Animal Angels Foundation in The Week - Animal Angels by Rohini Teresa Mathew, November 5, 2006">
-  <title>Animal Angels Foundation featured in The Week - Animal Angels, Rohini Teresa Mathew</title>
+  <meta name="description" content="Animal Angels Foundation in The Week">
+  <title>Animal Angels Foundation featured in The Week</title>
   <link rel="stylesheet" type="text/css" href="/ds.css">
   <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
   <script type="text/JavaScript" src="/common/javaScript/refresh.js"></script>
@@ -13,7 +13,7 @@
   <script type="text/Javascript" src="/common/javaScript/dimensions.js"></script>
 </head>
 
-<body topmargin="0" leftmargin="0" bottommargin="0" rightmargin="0" onLoad="choosePic()"  onResize="dimensions()">
+<body topmargin="0" leftmargin="0" bottommargin="0" rightmargin="0" onLoad="choosePic()" onResize="dimensions()">
 <div align="center">
   <center>
   <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="779" id="AutoNumber1" height="100%" background="/images/bg-table.gif">
@@ -60,33 +60,64 @@
 
 
             <script type="text/javascript">
-              document.write("<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse: collapse\" bordercolor=\"#111111\" width=\"90%\" id=\"AutoNumber10\" height=" + tableHeight + ">");
+              document.write("<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse: collapse\" bordercolor=\"#111111\" width=\"90%\" id=\"AutoNumber19\" height=" + tableHeight + ">");
             </script>
               <tr>
-                <td width="100%">&nbsp;</td>
-              </tr>
-              <tr>
-                <td width="100%">
-                <h3>
-                <img border="0" src="/images/big-bullet.jpg" alt="Big bullet" align="absmiddle" width="20" height="18">&nbsp;&nbsp; 
-                The Week - November 5, 2006</h3>
+                <td valign="top">
+
+
+                  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="90%" id="AutoNumber10">
+                    <tr>
+                      <td width="100%">&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td width="100%">
+                      <h3>
+                      <img border="0" src="/images/big-bullet.jpg" alt="Big bullet" align="absmiddle" width="20" height="18">&nbsp;&nbsp; 
+                      The Week</h3>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td width="100%">&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td width="100%">
+                      <p align="left" class="hd">Articles featured in The Week</td>
+                    </tr>
+                    <tr>
+                      <td width="100%">&nbsp;</td>
+                    </tr>
+                  </table>
+
+
+                  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber11">
+                    <tr>
+						<td width="5%">
+							<img border="0" src="/images/orange-paw.gif" alt="orange-paw bullet" align="middle" width="12" height="12"><br>&nbsp;
+						</td>
+						<td width="95%">
+							<a href="/news/the-week-2013-05-07.php">I My Best Friend</a><br><i>Anjuly Mathai</i>
+						</td>
+					</tr>
+					<tr>
+						<td width="5%">&nbsp;</td>
+						<td width="95%">&nbsp;</td>
+					</tr>
+					<tr>
+						<td width="5%">
+							<img border="0" src="/images/orange-paw.gif" alt="orange-paw bullet" align="middle" width="12" height="12"><br>&nbsp;
+						</td>
+						<td width="95%">
+							<a href="/news/the-week-2006-11-05.php">Animal Angels</a><br><i>Rohini Teresa Mathew</i>
+						</td>
+					</tr>
+				  </table>
                 </td>
-              </tr>
-              <tr>
-                <td width="100%">
-                <center>Read the article on <a href="http://www.manoramaonline.com/cgi-bin/MMOnline.dll/portal/ep/theWeekContent.do?com.broadvision.session.new=Yes&contentId=1623619&sectionName=Lifestyle&contentType=EDITORIAL&programId=1073755413&Failed_Reason=Invalid+timestamp,+engine+has+been+restarted&Fa" target="_blank">The Week</a> website<br>&nbsp;</center>
-		</td>
-              </tr>
-              <tr>
-                <td valign="top" width="100%">
-                <img border="0" alt="The Week magazine article on Animal Angels Foundation - November 5, 2006" src="/images/news-the-week-2006-11-05.jpg" align="center" hspace="10" width="524" height="2344">
-		</td>
               </tr>
             </table>
 
 
-
-            <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="90%" id="AutoNumber9">
+            <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="90%" id="AutoNumber19">
             <div align="center">
 
               <script type="text/Javascript" src="/common/javaScript/calculateHeight.js"></script>
@@ -96,15 +127,16 @@
                 {
                   print'<tr><td width="100%">&nbsp;</td></tr>' . "\n";
                 }
-				if(stristr($_SERVER['SERVER_NAME'], 'animalangelsfoundation') == TRUE)
+                if(stristr($_SERVER['SERVER_NAME'], 'animalangelsfoundation') == TRUE)
                 {
-                    include($_SERVER['DOCUMENT_ROOT'] . "/common/bottom/google-analytics.php");
+                  include($_SERVER['DOCUMENT_ROOT'] . "/common/bottom/google-analytics.php");
                 }
                 include($_SERVER['DOCUMENT_ROOT'] . "/common/bottom/rediffq&a.php");
               ?>
 
-            </div>
+              </div>
             </table>
+
 
             </center>
           </div>

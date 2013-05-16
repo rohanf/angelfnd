@@ -61,7 +61,7 @@
               document.write("<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse: collapse\" bordercolor=\"#111111\" width=\"90%\"  id=\"AutoNumber7\" height=" + tableHeight + ">");
             </script>
               <tr>
-                <td width="100%">&nbsp;</td>
+                <td height="10px" width="100%">&nbsp;</td>
               </tr>
               <tr>
                 <td valign="top" height="40px" width="100%">

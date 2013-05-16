@@ -63,31 +63,31 @@
               document.write("<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse: collapse\" bordercolor=\"#111111\" width=\"90%\" id=\"AutoNumber10\" height=" + tableHeight + ">");
             </script>
               <tr>
-                <td width="100%">&nbsp;</td>
+                <td height="10px" width="100%">&nbsp;</td>
               </tr>
               <tr>
-                <td width="100%">
+                <td height="60px" valign="top" width="100%">
                 <h3>
                 <img border="0" src="/images/big-bullet.jpg" alt="Big bullet" align="absmiddle" width="20" height="18">&nbsp;&nbsp; 
                 Times Now TV - July 2, 2006</h3>
                 </td>
               </tr>
               <tr>
-                <td width="100%">
+                <td height="60px" valign="top" width="100%">
 		<center><a target="_blank" href="http://www.timesnow.tv/videoshow/1698098.cms">
                 <img border="0" src="/images/icon-video.gif" alt="Video icon" align="absmiddle" width="15" height="19"><span style="text-decoration: none">&nbsp;
                 </span>Watch the video!</a><br>&nbsp;<center>
-		</td>
+				</td>
               </tr>
               <tr>
-                <td width="100%">
+                <td height="60px" valign="top" width="100%">
                 <center>Read the article on <a href="http://www.timesnow.tv/Sections/How_We_Live/Animal_therapy/articleshow/1698089.cms" target="_blank">Times Now TV</a> website<br>&nbsp;</center>
-		</td>
+				</td>
               </tr>
               <tr>
                 <td valign="top" width="100%">
                 <img border="0" alt="Times Now TV coverage on Animal Angels Foundation - July 2, 2006" src="/images/news-times-now-2007-07-02.jpg" align="center" hspace="10" width="464" height="954">
-		</td>
+				</td>
               </tr>
             </table>
 

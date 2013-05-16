@@ -153,7 +153,7 @@
                           <p><center><b>Animal Angels featured in</b></center>
                           <br>
                           <center>
-			                <a href="/news/mycity4kids.php">My City For Kids</a><br />
+			                <a href="/news/the-week-2013-05-07.php">The Week</a><br />
                           </center>
                           </p>
                         </div>

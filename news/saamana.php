@@ -63,17 +63,17 @@
               document.write("<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse: collapse\" bordercolor=\"#111111\" width=\"90%\" id=\"AutoNumber10\" height=" + tableHeight + ">");
             </script>
               <tr>
-                <td width="100%">&nbsp;</td>
+                <td height="10px" width="100%">&nbsp;</td>
               </tr>
               <tr>
-                <td valign="top" width="100%">
+                <td height="60px" valign="top" width="100%">
                 <h3>
                 <img border="0" src="/images/big-bullet.jpg" alt="Big bullet" align="absmiddle" width="20" height="18">&nbsp;&nbsp; 
                 Saamana Marathi newspaper - February 17, 2011</h3>
                 </td>
               </tr>
               <tr>
-                <td valign="top" width="100%">
+                <td height="60px" valign="top" width="100%">
                 <center>Read the article on the <a href="http://www.saamana.com/" target="_blank">Saamana</a> website<br>&nbsp;</center>
                 </td>
               </tr>

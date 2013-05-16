@@ -63,19 +63,25 @@
               document.write("<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse: collapse\" bordercolor=\"#111111\" width=\"90%\" id=\"AutoNumber10\" height=" + tableHeight + ">");
             </script>
               <tr>
-                <td width="100%">&nbsp;</td>
+                <td height="10px" width="100%">&nbsp;</td>
               </tr>
               <tr>
-                <td width="100%">
+                <td height="10px" width="100%">
                 <h3>
                 <img border="0" src="/images/big-bullet.jpg" alt="Big bullet" align="absmiddle" width="20" height="18">&nbsp;&nbsp; 
                 Business Standard - July 3, 2011</h3>
                 </td>
               </tr>
               <tr>
-                <td width="100%">
+                <td height="10px" width="100%">&nbsp;</td>
+              </tr>
+              <tr>
+                <td valign="top" height="10px" width="100%">
                 <center>Read the article on <a href="http://businessstandard.com/india/news/doctor-dog/441287/" target="_blank">Business Standard</a> website<br>&nbsp;</center>
-		</td>
+				</td>
+              </tr>
+              <tr>
+                <td height="10px" width="100%">&nbsp;</td>
               </tr>
               <tr>
                 <td valign="top" width="100%">

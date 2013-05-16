@@ -63,14 +63,14 @@
               document.write("<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse: collapse\" bordercolor=\"#111111\" width=\"90%\" id=\"AutoNumber19\" height=" + tableHeight + ">");
             </script>
               <tr>
-                <td>
+                <td valign="top">
                   <div align="center">
 		        <center>
 
 
 			  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="90%" id="AutoNumber10">
 			    <tr>
-				<td width="100%">&nbsp;</td>
+					<td width="100%">&nbsp;</td>
 			    </tr>
 			    <tr>
 				<td width="100%">
@@ -91,25 +91,24 @@
 			  ?>
 
 			  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="90%" id="AutoNumber12">
-			    <tr>
-				<td width="100%">&nbsp;
-				</td>
-			    </tr>
-			    <tr>
-				<td width="100%">&nbsp;
-				</td>
-			    </tr>
+		        <tr>
+		          <td width="100%">&nbsp;
+		          </td>
+		        </tr>
+		        <tr>
+		          <td width="100%">&nbsp;
+		          </td>
+		        </tr>
 			    <tr>
 			        <td width="100%">
-				<center>Read the article on the <a target="_blank" href="http://digital.dnaindia.com/epapermain.aspx?queryed=20&eddate=4/22/2007">DNA</a> website and click on the link for page 5<br><font size="-2"><i>(You may need to register to view archives)</i></font><br>&nbsp;</center>
-				</td>
+					<center>Read the article on the <a target="_blank" href="http://digital.dnaindia.com/epapermain.aspx?queryed=20&eddate=4/22/2007">DNA</a> website and click on the link for page 5<br><font size="-2"><i>(You may need to register to view archives)</i></font><br>&nbsp;</center>
+					</td>
 			    </tr>
 			    <tr>
-				<td valign="top" width="100%">
-				<img border="0" alt="DNA article on Animal Angels Foundation - April 22, 2007" src="/images/news-dna-2007-04-22.jpg" hspace="10" width="422" height="990">
-				</td>
+					<td valign="top" width="100%">
+					<img border="0" alt="DNA article on Animal Angels Foundation - April 22, 2007" src="/images/news-dna-2007-04-22.jpg" hspace="10" width="422" height="990"></td>
 			    </tr>
-			    </table>
+			  </table>
 
 
 			    </center>
