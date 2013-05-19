@@ -3,14 +3,23 @@
 
 <head>
   <meta http-equiv="Content-Language" content="en-us">
-  <meta name="keywords" content="animal angels foundation workshops, animal assisted therapy workshops, therapy animals workshops, animal assisted activities, therapy pet workshop, animal angels foundation mumbai workshops, mumbai workshops, mumbai workshops animals, animal workshops india, workshops in new mumbai">
+  <meta name="keywords" content="We've received your email">
   <meta name="description" content="Animal Angels Foundation offers on weekends and school holidays">
-  <title>Workshop Registration at Animal Angels Foundation</title>
+  <title>Workshop Registration complete at Animal Angels Foundation</title>
   <link rel="stylesheet" type="text/css" href="/ds.css">
+  <link rel="stylesheet" type="text/css" href="/3d-gallery/css/style.css" />
   <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
   <script type="text/JavaScript" src="/common/javaScript/refresh.js"></script>
   <script type="text/JavaScript" src="/common/javaScript/rightClick.js"></script>
   <script type="text/Javascript" src="/common/javaScript/dimensions.js"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script type="text/javascript" src="/3d-gallery/js/jquery.gallery.js"></script>
+  <script type="text/javascript">
+    $(function() {
+    $('#dg-container').gallery();
+  });
+  </script>
+  <script type="text/javascript" src="/3d-gallery/js/modernizr.custom.53451.js"></script>
 </head>
 
 <body topmargin="0" leftmargin="0" bottommargin="0" rightmargin="0" onLoad="choosePic()" onResize="dimensions()">
@@ -70,42 +79,60 @@
                       </td>
                     </tr>
                     <tr>
-                      <td width="100%">
-                      <img border="0" src="/images/workshop-bow-wow.jpg" alt="Workshop Registration at Animal Angels Foundation" align="right" vspace="15" hspace="10" width="300" height="242" />
-                      <p align="justify" style="margin-left: 20">Currently, we hold BOW WOW workshops at multiple locations in Bombay and New Bombay. The workshops are held on weekends and school holidays.<br /><br />We teach various skills, educational concepts and much more through activities and fun-filled games with our specially trained therapy dogs.<br /><br />Please fill out the form below if you would like to register your child for a BOW WOW workshop.</a></p>
-                      </td>
-                    </tr>
-                    <tr>
                       <td width="100%" height="5"></td>
                     </tr>
                     <tr>
                     	<td>
                         	<?php
-									echo "<form method='post' action='verify.php'>
-<pre>First, let's make sure you're human!</pre>";
-require_once($_SERVER['DOCUMENT_ROOT'] . '/recaptcha/recaptchalib.php');
-$publickey = "6LfsHOESAAAAAOmRF7QoHtDKtEMqdBsZU1w52e-8";
-echo recaptcha_get_html($publickey);
-echo "<pre>Name: <input type='text' name='name'><br />
-Email address: <input type='text' name='email'><br />
-Contact number: <input type='text' name='phone'><br />
-Your child's age: <input type='text' name='age'><br />
-Location: <input type='text' name='location'><br />
-Additional comments:<br>
-<textarea name='comments' rows='10' cols='60'>
-</textarea><br>
-<input type='submit' value='Send information'>
-									</pre>
-									</form>";
+								require_once($_SERVER['DOCUMENT_ROOT'] . '/recaptcha/recaptchalib.php');
+								$privatekey = "6LfsHOESAAAAAMLHrBKW2G528lEJML5nU0PUd3v7";
+								$resp = recaptcha_check_answer ($privatekey, $_SERVER["REMOTE_ADDR"], $_POST["recaptcha_challenge_field"], $_POST["recaptcha_response_field"]);
+								if (!$resp->is_valid) {
+									// What happens when the CAPTCHA was entered incorrectly
+									echo "<p align='center'>
+									<img border='0' src='/images/sad_dog.jpg' alt='Awwww' width='506' height='337' /><br><br><br>
+									Sorry, we weren't able to verify that you were human. Please <a href='/workshops/bow-wow.php'>try again</a></p>";
+									die();
+								} else {
+									$name = $_REQUEST['name'];
+									$email = $_REQUEST['email'];
+									$phone = $_REQUEST['phone'];
+									$age = $_REQUEST['age'];
+									$location = $_REQUEST['location'];
+									$comments = $_REQUEST['comments'];
+									$message = "Name: ".$name."\n"."Phone number: ".$phone."\n"."Age: ".$age."\n"."Location: ".$location."\n"."Coments: ".$comments;
+									mail("animalangelsindia@gmail.com", "Workshop Inquiry", $message, "From:" . $email);
+									echo "Thank you $name. We will get in touch as soon as we have a workshop in the area closest to where you stay.</p>";
+								}
 							?>
                         </td>
                     </tr>
                     <tr>
-                      <td width="100%">
-                      <p align="center">
-                      <img border="0" src="/images/workshop-birthday.jpg" alt="Animal Angels Foundation workshops at birthdays" vspace="10" width="350" height="239" /></p>
-                      </td>
-                    </tr>
+                    	<td>
+							<section id="dg-container" class="dg-container">
+								<div class="dg-wrapper">
+									<a href="#"><img src="/images/workshops_3d-gallery/pic-animal-programs-treehouse.jpg" alt="image00"><div>Zeroth image</div></a>
+									<a href="#"><img src="/images/workshops_3d-gallery/IMG-20130415-WA0006.jpg" alt="image01"><div>First image</div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/IMG-20130415-WA0007.jpg" alt="image02"><div>Second image</div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/IMG-20130415-WA0008.jpg" alt="image03"><div>Third image</div></a>
+									<a href="#"><img src="/images/workshops_3d-gallery/IMG-20130415-WA0010.jpg" alt="image04"><div>Fourth image</div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/IMG-20130416-WA0006.jpg" alt="image05"><div>Fifth image</div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/IMG-20130416-WA0009.jpg" alt="image06"><div>Sixth image</div></a>
+									<a href="#"><img src="/images/workshops_3d-gallery/IMG-20130416-WA0013.jpg" alt="image07"><div>Seventh image</div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/IMG-20130416-WA0014.jpg" alt="image08"><div>Eighth image</div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/IMG-20130418-WA0004.jpg" alt="image09"><div>Ninth image</div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/IMG-20130418-WA0006.jpg" alt="image10"><div>Tenth image</div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/IMG-20130418-WA0007.jpg" alt="image11"><div>Eleventh image</div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/IMG-20130418-WA0008.jpg" alt="image12"><div>Twelfth image</div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/535725_439292159430280_2034921708_n.jpg" alt="image13"><div>Thirteenth image</div></a>
+								</div>
+								<nav> 
+									<span class="dg-prev">&lt;</span>
+									<span class="dg-next">&gt;</span>
+								</nav>
+							</section>
+						</td>
+					</tr>
                   </table>
                 </td>
               </tr>
@@ -148,7 +175,6 @@ Additional comments:<br>
   </table>
   </center>
 </div>
-
 <script type="text/JavaScript" src="/common/javaScript/rollover.js"></script>
 </body>
 
