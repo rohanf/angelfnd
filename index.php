@@ -138,8 +138,8 @@
                           <em id="cbr"><b>&bull;</b></em>
                         <p>
                           <center>
-						    <b><i><font color="red">New</font></i></b> <a href="/angels-home/simbaa-jiyon.php">Angels at Home</a> section<br /><br />
-                            Our newest Angel: <a href="/meet-angels/max-in-house.php">Max</a><br />the in-house therapy pet<br />
+						    <b><i><font color="red">New</font></i> Angels at Home</a></b> section<br /><br />
+                            <a href="/angels-home/ace-labrador.php">Ace the Labrador</a><br />
                           </center>
                         </p>
                         </div>

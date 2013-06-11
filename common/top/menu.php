@@ -99,7 +99,7 @@
 
                 <td width="2"><img border="0" src="/images/dv-line.gif" alt="divide" width="2" height="22"></td>
                 <td width="88">
-                  <a href="/angels-home/simbaa-jiyon.php">
+                  <a href="/angels-home/ace-labrador.php">
                   <?
                     ($topNav=='angels-home')?
                     (print'<img border="0" src="/images/bt-angels-home-mo.gif" class="domroll /images/bt-angels-home-mo.gif" alt="Home trained animals at Animal Angels Foundation (selected)" width="88" height="22"></a></td><script type="text/javascript">var tableHeight = 340;</script>'):
