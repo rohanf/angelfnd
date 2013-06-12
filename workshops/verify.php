@@ -7,10 +7,19 @@
   <meta name="description" content="Animal Angels Foundation offers on weekends and school holidays">
   <title>Workshop Registration complete at Animal Angels Foundation</title>
   <link rel="stylesheet" type="text/css" href="/ds.css">
+  <link rel="stylesheet" type="text/css" href="/3d-gallery/css/style.css" />
   <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
   <script type="text/JavaScript" src="/common/javaScript/refresh.js"></script>
   <script type="text/JavaScript" src="/common/javaScript/rightClick.js"></script>
   <script type="text/Javascript" src="/common/javaScript/dimensions.js"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script type="text/javascript" src="/3d-gallery/js/jquery.gallery.js"></script>
+  <script type="text/javascript">
+    $(function() {
+    $('#dg-container').gallery();
+  });
+  </script>
+  <script type="text/javascript" src="/3d-gallery/js/modernizr.custom.53451.js"></script>
 </head>
 
 <body topmargin="0" leftmargin="0" bottommargin="0" rightmargin="0" onLoad="choosePic()" onResize="dimensions()">
@@ -99,11 +108,31 @@
                         </td>
                     </tr>
                     <tr>
-                      <td width="100%">
-                      <p align="center">
-                      <img border="0" src="/images/workshop-birthday.jpg" alt="Animal Angels Foundation workshops at birthdays" vspace="10" width="350" height="239" /></p>
-                      </td>
-                    </tr>
+                    	<td>
+							<section id="dg-container" class="dg-container">
+								<div class="dg-wrapper">
+									<a href="#"><img src="/images/workshops_3d-gallery/pic-animal-programs-treehouse.jpg" alt="image00"><div></div></a>
+									<a href="#"><img src="/images/workshops_3d-gallery/IMG-20130415-WA0006.jpg" alt="image01"><div></div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/IMG-20130415-WA0007.jpg" alt="image02"><div></div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/IMG-20130415-WA0008.jpg" alt="image03"><div></div></a>
+									<a href="#"><img src="/images/workshops_3d-gallery/IMG-20130415-WA0010.jpg" alt="image04"><div></div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/IMG-20130416-WA0006.jpg" alt="image05"><div></div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/IMG-20130416-WA0009.jpg" alt="image06"><div></div></a>
+									<a href="#"><img src="/images/workshops_3d-gallery/IMG-20130416-WA0013.jpg" alt="image07"><div></div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/IMG-20130416-WA0014.jpg" alt="image08"><div></div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/IMG-20130418-WA0004.jpg" alt="image09"><div></div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/IMG-20130418-WA0006.jpg" alt="image10"><div></div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/IMG-20130418-WA0007.jpg" alt="image11"><div></div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/IMG-20130418-WA0008.jpg" alt="image12"><div></div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/535725_439292159430280_2034921708_n.jpg" alt="image13"><div></div></a>
+								</div>
+								<nav> 
+									<span class="dg-prev">&lt;</span>
+									<span class="dg-next">&gt;</span>
+								</nav>
+							</section>
+						</td>
+					</tr>
                   </table>
                 </td>
               </tr>
