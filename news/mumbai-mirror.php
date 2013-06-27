@@ -3,8 +3,8 @@
 
 <head>
   <meta http-equiv="Content-Language" content="en-us">
-  <meta name="keywords" content="animal angels foundation mumbai news, mumbai mirror, animal assisted therapy comforts mentally challenged patients, ashwini gangal, angel therapy, kenneth lobo, bombay buck, power to heal, vikas hotwani, power to heal">
-  <meta name="description" content="Animal Angels Foundation featured in the Mumbai Mirror and its supplements - Power to heal, Animal assisted therapy comforts mentally challenged patients, angels therapy">
+  <meta name="keywords" content="animal angels foundation mumbai news, mumbai mirror, animal assisted therapy comforts mentally challenged patients, ashwini gangal, angel therapy, kenneth lobo, bombay buck, power to heal, vikas hotwani, power to heal, pawsitive action mumbai mirror, pawsitive action, ankit ajmera">
+  <meta name="description" content="Animal Angels Foundation featured in the Mumbai Mirror and its supplements - Power to heal, Animal assisted therapy comforts mentally challenged patients, angels therapy, pawsitive action">
   <title>Animal Angels Foundation featured in the Mumbai Mirror</title>
   <link rel="stylesheet" type="text/css" href="/ds.css">
   <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
@@ -91,36 +91,48 @@
 
                   <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber11">
                     <tr>
-	 	      <td width="5%">
-		      <img border="0" src="/images/orange-paw.gif" alt="orange-paw bullet" align="middle" width="12" height="12"><br>&nbsp;
-		      </td>
+			 	      <td width="5%">
+					      <img border="0" src="/images/orange-paw.gif" alt="orange-paw bullet" align="middle" width="12" height="12"><br>&nbsp;
+				      </td>
                       <td width="95%">
-	              <a href="/news/mumbai-mirror-2008-04-20.php">Power to heal</a><br><i>Vikas Hotwani - on April 20, 2008</i>
-		      </td>
-		    </tr>
-        	    <tr>
+	        		      <a href="/news/mumbai-mirror-2013-06-26.php">Pawsitive action</a><br><i>Ankit Ajmera - on June 26, 2013</i>
+				      </td>
+				    </tr>
+        	    	<tr>
                       <td width="5%">&nbsp;</td>
                       <td width="95%">&nbsp;</td>
                     </tr>
                     <tr>
-		      <td width="5%">
-		      <img border="0" src="/images/orange-paw.gif" alt="orange-paw bullet" align="middle" width="12" height="12"><br>&nbsp;
-		      </td>
+			 	      <td width="5%">
+					      <img border="0" src="/images/orange-paw.gif" alt="orange-paw bullet" align="middle" width="12" height="12"><br>&nbsp;
+				      </td>
                       <td width="95%">
-	              <a href="/news/mumbai-mirror-2007-10-10.php">Animal assisted therapy comforts mentally challenged patients</a><br><i>Ashwini Gangal - Online exclusive on October 10, 2007</i>
-		      </td>
-		    </tr>
-        	    <tr>
+	        		      <a href="/news/mumbai-mirror-2008-04-20.php">Power to heal</a><br><i>Vikas Hotwani - on April 20, 2008</i>
+				      </td>
+				    </tr>
+        	    	<tr>
+                      <td width="5%">&nbsp;</td>
+                      <td width="95%">&nbsp;</td>
+                    </tr>
+                    <tr>
+				      <td width="5%">
+					      <img border="0" src="/images/orange-paw.gif" alt="orange-paw bullet" align="middle" width="12" height="12"><br>&nbsp;
+				      </td>
+                      <td width="95%">
+	        		      <a href="/news/mumbai-mirror-2007-10-10.php">Animal assisted therapy comforts mentally challenged patients</a><br><i>Ashwini Gangal - Online exclusive on October 10, 2007</i>
+				      </td>
+				    </tr>
+        	    	<tr>
                       <td width="5%">&nbsp;</td>
                       <td width="95%">&nbsp;</td>
                     </tr>
                     <tr>
                       <td width="5%">
-                      <img border="0" src="/images/orange-paw.gif" alt="orange-paw bullet" align="middle" width="12" height="12"><br>&nbsp;
-		      </td>
+        	              <img border="0" src="/images/orange-paw.gif" alt="orange-paw bullet" align="middle" width="12" height="12"><br>&nbsp;
+				      </td>
                       <td width="95%">
-	              <a href="/news/mumbai-mirror-2006-10-10.php">Angel Therapy</a><br><i>Kenneth Lobo - Bombay Buck on October 10, 2006</i>
-		      </td>
+	        		      <a href="/news/mumbai-mirror-2006-10-10.php">Angel Therapy</a><br><i>Kenneth Lobo - Bombay Buck on October 10, 2006</i>
+				      </td>
                     </tr>
                   </table>
                 </td>
