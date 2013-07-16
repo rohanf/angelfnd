@@ -3,8 +3,8 @@
 
 <head>
   <meta http-equiv="Content-Language" content="en-us">
-  <meta name="keywords" content="animal angels foundation in the news, these animal angels treat humans, positive news, masroor, animal therapy works wonders for kids with developmental disabilities, sajna menon, dna navi mumbai, animal assisted therapy news, therapy animals news, animal assisted activities news, trained therapy animals news, trained animals news, therapy pets news, dog training news, dna, daily news and analysis, the week, times now tv, hindustan times, the mumbai mirror, times wellness, the times of india, the times of india west supplement, health n nutrition magazine, dignity dialogue, andpersand, golden retriever's club of india, india today aspire, mid-day, timeout mumbai, dogs & pups, nasik times, money life, creature companions, loksatta, sandhyanand marathi newspaper, chitralekha gujarati magazine, elle, educare, open magazine, aapla mahanagar, intelligent entrepreneur india, the afternoon despatch and courier, outlook india, outlook business, business standard doctor dog rrishi raote, indian womenpreneurs, india today woman, heal the world, saamana animal therapy, the pioneer pet healers, indian express taking wings, simply mumbai healing touch, reader's digest casper, asian age touched by an angel, parent & child eurokids, deccan herald animals are now trusted healers, yuva marathi magazine">
-  <meta name="description" content="Read all about Animal Angels Foundation in the DNA and its publications, The Week, Times Now TV, Hindustan Times, The Mumbai Mirror, Times Wellness supplement, The Times of India, Times  of India (West supplement), the Health 'n Nutrition magazine, Dignity Dialogue, andpersand, The Golden Retriever's Club of India, Simply Mumbai, India Today Aspire, Mid-Day, TimeOut Mumbai, Dogs & Pups magazine, The Nasik Times, MoneyLife magazine, Creature Companions, Elle, Open magazine, Educare, Loksatta, Sandhyanand marathi newspaper and Chitralekha Gujarati magazine, Aapla Mahanagar newspaper, Intelligent Entrepreneur India, Positive News, The Afternoon Despatch and Courier, Outlook India, Outlook Business, India Today Woman, Business Standard, Indian Womanpreneur, Saamana, The Pioneer, Indian Express, Reader's Digest, Asian Age, Parent & Child, Deccan Herald, Yuva, My City For Kids">
+  <meta name="keywords" content="animal angels foundation in the news, these animal angels treat humans, positive news, masroor, animal therapy works wonders for kids with developmental disabilities, sajna menon, dna navi mumbai, animal assisted therapy news, therapy animals news, animal assisted activities news, trained therapy animals news, trained animals news, therapy pets news, dog training news, dna, daily news and analysis, the week, times now tv, hindustan times, the mumbai mirror, times wellness, the times of india, the times of india west supplement, health n nutrition magazine, dignity dialogue, andpersand, golden retriever's club of india, india today aspire, mid-day, timeout mumbai, dogs & pups, nasik times, money life, creature companions, loksatta, sandhyanand marathi newspaper, chitralekha gujarati magazine, elle, educare, open magazine, aapla mahanagar, intelligent entrepreneur india, the afternoon despatch and courier, outlook india, outlook business, business standard doctor dog rrishi raote, indian womenpreneurs, india today woman, heal the world, saamana animal therapy, the pioneer pet healers, indian express taking wings, simply mumbai healing touch, reader's digest casper, asian age touched by an angel, parent & child eurokids, deccan herald animals are now trusted healers, yuva marathi magazine, goa streets">
+  <meta name="description" content="Read all about Animal Angels Foundation in the DNA and its publications, The Week, Times Now TV, Hindustan Times, The Mumbai Mirror, Times Wellness supplement, The Times of India, Times  of India (West supplement), the Health 'n Nutrition magazine, Dignity Dialogue, andpersand, The Golden Retriever's Club of India, Simply Mumbai, India Today Aspire, Mid-Day, TimeOut Mumbai, Dogs & Pups magazine, The Nasik Times, MoneyLife magazine, Creature Companions, Elle, Open magazine, Educare, Loksatta, Sandhyanand marathi newspaper and Chitralekha Gujarati magazine, Aapla Mahanagar newspaper, Intelligent Entrepreneur India, Positive News, The Afternoon Despatch and Courier, Outlook India, Outlook Business, India Today Woman, Business Standard, Indian Womanpreneur, Saamana, The Pioneer, Indian Express, Reader's Digest, Asian Age, Parent & Child, Deccan Herald, Yuva, My City For Kids, Goa Streets">
   <title>Animal Angels Foundation featured in the news</title>
   <link rel="stylesheet" type="text/css" href="/ds.css">
   <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
@@ -157,6 +157,20 @@
                               <a href="nasik-times.php">
                               <img border="0" src="/images/news-nasik-times.jpg" alt="Nasik Times logo" title="Nasik Times article" width="150" height="40"></a>
                             </td>
+                          </tr>
+                          <tr>
+                            <td align="center" width="160">
+                              <!-- a href="open.php">
+                              <img border="0" src="/images/news-open.jpg" alt="Open magazine logo" title="Animal Angels Foundation in Open magazine" width="150" height="40"></a -->
+                            </td>
+                            <td align="center" width="160">
+                              <a href="goa-streets.php">
+                              <img border="0" src="/images/goa-streets/goa-streets-logo.jpg" alt="Goa Streets logo" title="Animal Angels Foundation in Goa Streets" width="150" height="40"></a>
+                            </td>
+                            <td align="center" width="160">
+                              <!-- a href="nasik-times.php">
+                              <img border="0" src="/images/news-nasik-times.jpg" alt="Nasik Times logo" title="Nasik Times article" width="150" height="40"></a>
+                            </td -->
                           </tr>
                           <tr>
                             <td align="center" width="160">

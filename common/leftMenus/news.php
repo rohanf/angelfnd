@@ -64,6 +64,16 @@
                 </tr>
                 <tr>
                   <td width="160">
+                  <a href="/news/goa-streets.php">
+                  <?
+                    ($leftNav=='goa-streets')?
+                    (print'<img class="selected" src="/images/goa-streets/goa-streets-logo.jpg" alt="Goa Streets logo" title="Article in Goa Streets" width="150" height="40"></a>'):
+                    (print'<center><img border="0" src="/images/goa-streets/goa-streets-logo.jpg" alt="The Afternoon Despatch and Courier logo" title="Article in The Afternoon Despatch and Courier" width="150" height="40"></center></a>')
+                  ?>
+                  </td>
+                </tr>
+                <tr>
+                  <td width="160">
                   <a href="/news/outlook-india.php">
                   <?
                     ($leftNav=='outlook-india')?

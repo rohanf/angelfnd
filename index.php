@@ -153,7 +153,7 @@
                           <p><center><b>Animal Angels featured in</b></center>
                           <br>
                           <center>
-			                <a href="/news/mumbai-mirror-2013-06-26.php">Mumbai Mirror</a><br />
+			                <a href="/news/goa-streets.php">Goa Streets</a><br />
                           </center>
                           </p>
                         </div>
