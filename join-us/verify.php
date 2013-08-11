@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Language" content="en-us">
   <meta name="keywords" content="We've received your email">
-  <title>Workshop Registration complete at Animal Angels Foundation</title>
+  <title>Therapy Pet registration at Animal Angels Foundation</title>
   <link rel="stylesheet" type="text/css" href="/ds.css">
   <link rel="stylesheet" type="text/css" href="/3d-gallery/css/style.css" />
   <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
@@ -32,7 +32,7 @@
           <td width="779" height="22" valign="top">
             <?
               global $topNav;
-              $topNav = "workshop-registration";
+              $topNav = "join";
               include($_SERVER['DOCUMENT_ROOT'] . "/common/top/menu.php");
             ?>
           </td>
@@ -74,7 +74,7 @@
                     </tr>
                     <tr>
                       <td width="100%" height="42">
-                      <h3><img border="0" src="/images/big-bullet.jpg" alt="Big bullet" align="absmiddle" width="20" height="18">&nbsp;&nbsp;Workshop Registration at Animal Angels Foundation</h3>
+                      <h3><img border="0" src="/images/big-bullet.jpg" alt="Big bullet" align="absmiddle" width="20" height="18">&nbsp;&nbsp;Therapy Pet Registration at Animal Angels Foundation</h3>
                       </td>
                     </tr>
                     <tr>
@@ -90,23 +90,32 @@
 									// What happens when the CAPTCHA was entered incorrectly
 									echo "<p align='center'>
 									<img border='0' src='/images/sad_dog.jpg' alt='Awwww' width='506' height='337' /><br><br><br>
-									Sorry, we weren't able to verify that you were human. Please <a href='/workshops/bow-wow.php'>try again</a></p>";
+									Sorry, we weren't able to verify that you were human. Please <a href='/join-us/join.php'>try again</a></p>";
 									die();
 								} else {
 									$name = $_REQUEST['name'];
 									$email = $_REQUEST['email'];
 									$phone = $_REQUEST['phone'];
-									$age = $_REQUEST['age'];
-									$location = $_REQUEST['location'];
+									$pet_name = $_REQUEST['pet-name'];
+									$pet_species = $_REQUEST['pet-species'];
+									$pet_breed = $_REQUEST['pet-breed'];
+									$pet_sex = $_REQUEST['pet-sex'];
+									$pet_bday = $_REQUEST['pet-bday'];
+									$address_line1 = $_REQUEST['address-line1'];
+									$address_street = $_REQUEST['address-street'];
+									$address_landmark = $_REQUEST['address-landmark'];
+									$address_area = $_REQUEST['address-area'];
+									$address_station = $_REQUEST['address-station'];
 									$comments = $_REQUEST['comments'];
-									$message = "Name: ".$name."\n"."Phone number: ".$phone."\n"."Age: ".$age."\n"."Location: ".$location."\n"."Coments: ".$comments;
-									mail("animalangelsindia@gmail.com", "Workshop Inquiry", $message, "From:" . $email);
-									echo "Thank you $name. We will get in touch as soon as we have a workshop in the area closest to where you stay.</p>";
+									$message = "Name: ".$name."\n"."Phone number: ".$phone."\n"."Pet's name: ".$pet_name."\n"."Pet's species: ".$pet_species."\n"."Pet's breed: ".$pet_breed."\n"."Pet's sex: ".$pet_sex."\n"."Pet's birthday: ".$pet_bday."\n"."Address: ".$address_line1."\n"."Street: ".$address_street."\n"."Landmark: ".$address_landmark."\n"."Area: ".$address_area."\n"."Nearest railway station: ".$address_station."\n"."Coments: ".$comments;
+									mail("rohanf@gmail.com", "Pet Therapy Registration", $message, "From:" . $email);
+									//mail("animalangelsindia@gmail.com", "Pet Therapy Registration", $message, "From:" . $email);
+									echo "Thank you $name. We will get in touch with you as soon as we have our next round of temperament testing for pets, or, if we are on the look out for a therapy pet at a specific location in Bombay.</p>";
 								}
 							?>
                         </td>
                     </tr>
-                    <tr>
+                    <!--tr>
                     	<td>
 							<section id="dg-container" class="dg-container">
 								<div class="dg-wrapper">
@@ -131,7 +140,7 @@
 								</nav>
 							</section>
 						</td>
-					</tr>
+					</tr -->
                   </table>
                 </td>
               </tr>

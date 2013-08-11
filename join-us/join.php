@@ -11,6 +11,12 @@
   <script type="text/JavaScript" src="/common/javaScript/refresh.js"></script>
   <script type="text/JavaScript" src="/common/javaScript/rightClick.js"></script>
   <script type="text/Javascript" src="/common/javaScript/dimensions.js"></script>
+  <!-- BEGIN Datepicker -->
+  <link rel='stylesheet' href='http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css' />
+  <script src='http://code.jquery.com/jquery-1.9.1.js'></script>
+  <script src='http://code.jquery.com/ui/1.10.3/jquery-ui.js'></script>
+  <link rel='stylesheet' href='/resources/demos/style.css' />
+  <!-- END Datepicker -->
 </head>
 
 <body topmargin="0" leftmargin="0" bottommargin="0" rightmargin="0" onLoad="choosePic()" onResize="dimensions()">
@@ -119,9 +125,52 @@
                     </tr>
                     <tr>
                       <td width="100%">
-                      <p align="justify" style="margin-left:20">If your pet meets the above-mentioned criteria and is above six months of age then you can go ahead. At Animal Angels Foundation we have a temperament test that your pet must pass after which s/he becomes registered with Animal Angels Foundation.</td>
+                      <p align="justify" style="margin-left:20">If your pet meets the above-mentioned criteria and is above six months of age then you can go ahead. At Animal Angels Foundation we have a temperament test that your pet must pass after which s/he becomes registered with Animal Angels Foundation.</p>
+                      <p align="justify" style="margin-left:20">Please fill in the form below and when we do have our next round of temperament testing for pets, or,  if we are on the look out for a therapy pet at a specific location in Bombay we will get in touch with you.
+                      </p>
+                      </td>
                     </tr>
                     <tr>
+                    	<td>
+                            <script>
+                              $(function() {
+                              $( '#datepicker' ).datepicker({changeMonth: true, changeYear: true, dateFormat: 'd MM, yy', maxDate: 0});
+                              });
+                            </script>
+                        	<?php
+									echo "<form method='post' action='verify.php'>
+<pre>First, let's make sure you're human!</pre>";
+require_once($_SERVER['DOCUMENT_ROOT'] . '/recaptcha/recaptchalib.php');
+$publickey = "6LfsHOESAAAAAOmRF7QoHtDKtEMqdBsZU1w52e-8";
+echo recaptcha_get_html($publickey);
+echo "<pre>Your name: <input type='text' name='name'><br />
+Email address: <input type='text' name='email'><br />
+Contact number: <input type='text' name='phone'><br />
+Your pet's name: <input type='text' name='pet-name'><br />
+Pet's species: <input type='text' name='pet-species'><br />
+Pet's breed: <input type='text' name='pet-breed'><br />
+Pet's sex: <select name='pet-sex'>
+  <option value='female'>female</option>
+  <option value='male'>male</option>
+</select><br />
+Pet's birthday: <input type='text' name='pet-bday' id='datepicker' /><br />
+Address (<font size='-4' color='#FF0000'>Flat number and building name</font>): <input type='text' name='address-line1'><br />
+Address (<font size='-4' color='#FF0000'>Street</font>): <input type='text' name='address-street'><br />
+Address (<font size='-4' color='#FF0000'>Landmark</font>): <input type='text' name='address-landmark'><br />
+Address (<font size='-4' color='#FF0000'>Area</font>): <input type='text' name='address-area'><br />
+Address (<font size='-4' color='#FF0000'>Nearest Railway Station</font>): <input type='text' name='address-station'><br />
+Additional comments:<br>
+<textarea name='comments' rows='10' cols='60'>
+</textarea><br>
+<input type='submit' value='Send information'>
+									</pre>
+									</form>";
+							?>
+                        </td>
+                    </tr>
+
+
+                    <!-- tr>
                       <td width="100%">&nbsp;
                       </td>
                     </tr>
@@ -143,7 +192,7 @@
                       <td width="100%">
                       <p align="justify" style="margin-left:20">If you want to be a part of our team and make a difference in people's lives through animals, then you can sign up for a one-day workshop with us and get registered under Animal Angels Foundation. If you are interested then send us a mail at <a href="mailto:AnimalAngelsIndia@gmail.com"> AnimalAngelsIndia@gmail.com</a> and we will get back to you with the details.
                       <p align="justify" style="margin-left:20">You can commit to whatever amount of time you would like to give, according to your schedule. You can volunteer as often as once a week, or as little as once a month for an hour at a time.</td>
-                    </tr>
+                    </tr -->
                   </table>
                 </td>
               </tr>
