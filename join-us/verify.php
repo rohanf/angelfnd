@@ -108,8 +108,7 @@
 									$address_station = $_REQUEST['address-station'];
 									$comments = $_REQUEST['comments'];
 									$message = "Name: ".$name."\n"."Phone number: ".$phone."\n"."Pet's name: ".$pet_name."\n"."Pet's species: ".$pet_species."\n"."Pet's breed: ".$pet_breed."\n"."Pet's sex: ".$pet_sex."\n"."Pet's birthday: ".$pet_bday."\n"."Address: ".$address_line1."\n"."Street: ".$address_street."\n"."Landmark: ".$address_landmark."\n"."Area: ".$address_area."\n"."Nearest railway station: ".$address_station."\n"."Coments: ".$comments;
-									mail("rohanf@gmail.com", "Pet Therapy Registration", $message, "From:" . $email);
-									//mail("animalangelsindia@gmail.com", "Pet Therapy Registration", $message, "From:" . $email);
+									mail("animalangelsindia@gmail.com", "Pet Therapy Registration", $message, "From:" . $email);
 									echo "Thank you $name. We will get in touch with you as soon as we have our next round of temperament testing for pets, or, if we are on the look out for a therapy pet at a specific location in Bombay.</p>";
 								}
 							?>
