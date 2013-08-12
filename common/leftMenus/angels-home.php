@@ -8,6 +8,25 @@
                   <td width="141">&nbsp;</td>
                 </tr>
                 <tr>
+                  <td colspan="2" style="padding-left: 10px;">
+                  	<form method="get" action="http://www.google.com/search">
+						<table border="0" cellpadding="0" cellspacing="0">
+							<tr>
+								<td>
+									<input type="text" name="q" size="21" style="color:#808080;" maxlength="10" value="Site Search" onfocus="if(this.value==this.defaultValue)this.value=''; this.style.color='black';" onblur="if(this.value=='')this.value=this.defaultValue; "/>
+                                </td>
+                            </tr>
+                            <tr>
+								<td style="text-align: right">
+									<input type="submit" value="Go!" />
+									<input type="hidden" name="sitesearch" value="www.animalangelsfoundation.com" />
+                                </td>
+							</tr>
+						</table>
+					</form>
+                  </td>
+                </tr>
+                <tr>
                   <td width="43">
                   <p align="center">
                   <?

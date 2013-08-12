@@ -59,6 +59,20 @@
                 <td width="100%" height="10">&nbsp;</td>
               </tr>
 
+			  <tr>
+                <td style="align: center" width="100%">
+                  <form method="get" action="http://www.google.com/search">
+					<table border="0" align="center" cellpadding="0">
+						<tr><td>
+							<input type="text"   name="q" size="25" style="color:#808080;" maxlength="255" value="Search our site" onfocus="if(this.value==this.defaultValue)this.value=''; this.style.color='black';" onblur="if(this.value=='')this.value=this.defaultValue; "/>
+							<input type="submit" value="Go!" />
+							<input type="hidden" name="sitesearch" value="www.animalangelsfoundation.com" />
+						</td></tr>
+					</table>
+				  </form>
+                </td>
+              </tr>
+
               <tr>
                 <td>
                   <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="90%" id="AutoNumber8">
@@ -199,7 +213,7 @@
 						<div class="fb-like" data-href="http://www.facebook.com/pages/Animal-Angels-Foundation-India/254481607911337" data-send="false" data-layout="box_count" data-width="100" data-show-faces="true" data-font="arial"></div>
                 	  </td>
                       <td valign="middle" width="110">
-                      	<a target="_blank" href="https://twitter.com/AngelsWoof"><img border="0" src="https://twitter.com/images/resources/twitter-bird-blue-on-white.png" title="Twitter" alt="Twitter" align="right" width="55" height="55" /></a>
+                      	<a target="_blank" href="https://twitter.com/AngelsWoof"><img border="0" src="/images/twitter-bird-blue-on-white.png" title="Twitter" alt="Twitter" align="right" width="55" height="55" /></a>
                       </td>
                       <td valign="middle">
                       	<a href="https://twitter.com/AngelsWoof" class="twitter-follow-button" data-show-count="false">Follow @AngelsWoof</a>
@@ -210,7 +224,7 @@
                       <td colspan="2" style="text-align: center">
                       	<a target="_blank" href="http://www.facebook.com/pages/Animal-Angels-Foundation/254481607911337">Animal Angels on Facebook!</a></td>
                       <td colspan="2" style="text-align: center">
-                      	<a target="_blank" href="https://twitter.com/AngelsWoof">Subscribe to our Twitter feed!<a></td>
+                      	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://twitter.com/AngelsWoof">Subscribe to our Twitter feed!<a></td>
                     </tr>
                   </table>
                 </td>
