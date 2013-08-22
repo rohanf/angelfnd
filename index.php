@@ -14,25 +14,25 @@
 </head>
 
 
-<body topmargin="0" leftmargin="0" bottommargin="0" rightmargin="0" onLoad="runSlideShow()" onResize="dimensions()">
+<body border="1" topmargin="0" leftmargin="0" bottommargin="0" rightmargin="0" onLoad="runSlideShow()" onResize="dimensions()">
 <div align="center">
   <center>
-  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="779" id="AutoNumber1" height="100%" background="/images/bg-table.gif">
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="1024" id="AutoNumber1" height="100%" background="/images/bg-table_new.gif">
     <tr>
-      <td width="779" valign="top" height="144">
-      <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="779" id="AutoNumber2" height="144">
+      <td width="1024" valign="top" height="144">
+      <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="1024" id="AutoNumber2" height="144">
         <tr>
-          <td width="779" height="22" valign="top">
+          <td width="1024" height="22" valign="top">
             <?
               global $topNav;
               $topNav = "home";
-              include($_SERVER['DOCUMENT_ROOT'] . "/common/top/menu.php");
+              include($_SERVER['DOCUMENT_ROOT'] . "/common/top/menu_new.php");
             ?>
           </td>
         </tr>
         <tr>
-          <td height="122" valign="top" width="779">
-            <? include($_SERVER['DOCUMENT_ROOT'] . "/common/home/logo-mission.php"); ?>
+          <td height="122" valign="top" width="1024">
+            <? include($_SERVER['DOCUMENT_ROOT'] . "/common/home/logo-mission_new.php"); ?>
           </td>
         </tr>
       </table>
@@ -40,7 +40,7 @@
     </tr>
     <tr>
       <td valign="top">
-      <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="779" id="AutoNumber5" height="100%" background="/images/bg-left.gif">
+      <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="1024" id="AutoNumber5" height="100%" background="/images/bg-left_new.gif">
         <tr>
           <td width="225" valign="top">
 			<? include($_SERVER['DOCUMENT_ROOT'] . "/common/home/left-slide-show.php"); ?>
@@ -52,7 +52,7 @@
 
 	    <!-- table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="90%" id="AutoNumber7" height="" -->
             <script type="text/javascript">
-              document.write("<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse: collapse\" bordercolor=\"#111111\" width=\"90%\" id=\"AutoNumber7\" height=" + tableHeight + ">");
+              document.write("<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse: collapse\" bordercolor=\"#111111\" width=\"85%\" id=\"AutoNumber7\" height=" + tableHeight + ">");
             </script>
 
               <tr>
@@ -75,7 +75,7 @@
 
               <tr>
                 <td>
-                  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="90%" id="AutoNumber8">
+                  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber8">
 	                <tr align="center">
 		      		  <td>
 
@@ -183,7 +183,7 @@
               </tr>
 
               <tr>
-                <td width="520" height="330"><a href="/workshops/bow-wow.php"><img border="0" src="/images/workshop-banner.jpg" title="Inquire about our workshops" alt="Inquire about our workshops" align="left" width="520" height="330"></td>
+                <td width="100%" style="text-align: center;"><a href="/workshops/bow-wow.php"><img border="0" src="/images/workshop-banner.jpg" title="Inquire about our workshops" alt="Inquire about our workshops" width="520" height="330"></td>
               </tr>
               <tr>
                 <td width="100%" height="10">&nbsp;</td>
@@ -196,12 +196,12 @@
               </tr>
               <tr>
                 <td width="100%">
-                  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="90%" id="AutoNumber8">
+                  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber8">
 	                <tr>
-		      		  <td valign="top" width="95">
+		      		  <td valign="top" width="28%">
                         <a target="_blank" href="http://www.facebook.com/pages/Animal-Angels-Foundation/254481607911337"><img border="0" src="/images/f.png" title="Facebook" alt="Facebook" align="right" width="75" height="75"></a>
                       </td>
-                      <td valign="middle">
+                      <td valign="middle" width="22%">
 						<div id="fb-root"></div>
 						<script>(function(d, s, id) {
 						  var js, fjs = d.getElementsByTagName(s)[0];
@@ -212,10 +212,10 @@
 						}(document, 'script', 'facebook-jssdk'));</script>
 						<div class="fb-like" data-href="http://www.facebook.com/pages/Animal-Angels-Foundation-India/254481607911337" data-send="false" data-layout="box_count" data-width="100" data-show-faces="true" data-font="arial"></div>
                 	  </td>
-                      <td valign="middle" width="110">
+                      <td valign="middle" width="15%">
                       	<a target="_blank" href="https://twitter.com/AngelsWoof"><img border="0" src="/images/twitter-bird-blue-on-white.png" title="Twitter" alt="Twitter" align="right" width="55" height="55" /></a>
                       </td>
-                      <td valign="middle">
+                      <td valign="middle" width="35%">
                       	<a href="https://twitter.com/AngelsWoof" class="twitter-follow-button" data-show-count="false">Follow @AngelsWoof</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
                       </td>
@@ -223,8 +223,8 @@
                     <tr height="30">
                       <td colspan="2" style="text-align: center">
                       	<a target="_blank" href="http://www.facebook.com/pages/Animal-Angels-Foundation/254481607911337">Animal Angels on Facebook!</a></td>
-                      <td colspan="2" style="text-align: center">
-                      	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://twitter.com/AngelsWoof">Subscribe to our Twitter feed!<a></td>
+                      <td colspan="2" style="text-align: left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                      	<a target="_blank" href="https://twitter.com/AngelsWoof">Subscribe to our Twitter feed!<a></td>
                     </tr>
                   </table>
                 </td>
@@ -331,8 +331,8 @@
       </td>
     </tr>
     <tr>
-      <td width="779" valign="bottom" height="26">
-        <? include($_SERVER['DOCUMENT_ROOT'] . "/common/bottom/footer.php"); ?>
+      <td width="1024" valign="bottom" height="26">
+        <? include($_SERVER['DOCUMENT_ROOT'] . "/common/bottom/footer_new.php"); ?>
       </td>
     </tr>
   </table>
