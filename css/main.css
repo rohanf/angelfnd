@@ -1,22 +1,110 @@
 
 
 /* ==========================================================================
-   Author's custom styles
+   Animal Angels Foundation custom styles
    ========================================================================== */
 
 
+.navbar-inverse .navbar-inner {
+	background-image: linear-gradient(to bottom,#ff0000,#000000);
+}
 
+.navbar .brand {
+	background-image:url('/img/brand/logo.gif');
+	padding: 0px 0px 0px;
+}
 
+.brand {
+	width: 285px;
+	height: 160px;	
+}
 
+.navbar .nav {
+	margin: -150px 10px 0 300px;
+}
 
+.hero-unit {
+	background-image: linear-gradient(to bottom,#fe9e3e,#ffffff);
+}
 
+.hero-unit-quote {
+	border-style: none;
+	border-color: #ff0000 #ffffff #ffffff #ff0000;
+	background-image: linear-gradient(to bottom,#fe9e3e,#ffffff);
+	padding: 10px 20px 10px 20px;
+}
 
+.hero-unit-quote h2 {
+	font-family: "Comic Sans MS", cursive;
+	text-shadow: 2px 2px #ffffff;
+}
 
+.hero-unit-quote p {
+	color: #ff0000;
+    font-family: 'Dancing Script', Georgia, Times, serif;
+    font-size: 30px;
+    line-height: 40px;
+	font-style: italic;
+}
 
+/* Override Bootstrap Responsive CSS fixed navbar */
+@media (max-width: 979px) {
+	.navbar-fixed-top,
+	.navbar-fixed-bottom {
+		position: fixed;
+		margin-left: 0px;
+		margin-right: 0px;
+  }
+}
 
+@media (max-width: 979px) {
+  .hero-unit {
+		margin-top: 190px;
+  }
+}
 
+a[name] {
+	padding-top: 175px;
+	margin-top: -175px;
+	display: inline-block; /* required for webkit browsers */
+	color: #333;
+	text-decoration: none;
+}
 
+@media (min-width: 768px) {
+	.container-divOuter {
+		display: block;
+		position: absolute;
+		top: 120px;
+	float: right;
+		width: inherit;
+		margin-right: inherit;
+	}
+}
 
+.container-divOuter {
+	display: block;
+	position: absolute;
+	float: right;
+	top: 110px;
+	//right: 40px;
+	width: inherit;
+	//right: inherit;
+	//height: auto;
+	//right: 20px;
+	//right: auto;
+	//text-align: right;
+	margin-right: inherit;
+	//align
+	//margin: 100px 0 0 200px;
+}
 
-
-
+.divInner1, .divInner2, .divInner3, .divInner4, .divInner5
+{
+	border: 1px solid transparent;
+	float: right;
+	//width: 100px;
+	height: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}

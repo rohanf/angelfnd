@@ -13,12 +13,13 @@
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <style>
             body {
-                padding-top: 60px;
+                padding-top: 175px;
                 padding-bottom: 40px;
             }
         </style>
         <link rel="stylesheet" href="css/bootstrap-responsive.min.css">
         <link rel="stylesheet" href="css/main.css">
+        <link href="http://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet" type="text/css">
 
         <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
     </head>
@@ -37,7 +38,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </a>
-                    <a class="brand" href="#">Animal Angels Foundation</a>
+                    <a class="brand" href="/"></a>
                     <div class="nav-collapse collapse">
                         <ul class="nav">
                             <li class="active"><a href="#">Home</a></li>
@@ -162,7 +163,7 @@
                                     <li><a href="#">Mid-Day</a></li>
                                 </ul>
                             </li>
-                            <li><a href="#contact">Support Us</a></li>
+                            <li><a href="#angels">Support Us</a></li>
                         </ul>
                         <!-- form class="navbar-form pull-right">
                             <input class="span2" type="text" placeholder="Email">
@@ -170,6 +171,76 @@
                             <button type="submit" class="btn">Sign in</button>
                         </form -->
                     </div><!--/.nav-collapse -->
+
+
+
+
+      <div class='container-divOuter'>
+
+        <!-- BEGIN GOOGLE TRANSLATE -->
+        <div class='divInner1' style="border-top: 4px solid transparent; width: 158px;" id="google_translate_element"></div>
+		<script>
+                function googleTranslateElementInit() {
+                  new google.translate.TranslateElement({
+                    pageLanguage: 'en',
+                    gaTrack: true,
+                    gaId: 'UA-15204454-1',
+                    layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+                  }, 'google_translate_element');
+                }
+        </script>
+        <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        <!-- END GOOGLE TRANSLATE -->
+
+        <!-- BEGIN TWITTER -->
+        <div class='divInner2' style="border: 6px solid transparent; width: 80px;">
+			<a href="https://twitter.com/share" class="twitter-share-button" data-via="AngelsWoof" data-count="none">Tweet</a>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        </div>
+        <!-- END TWITTER -->
+        
+        <!-- BEGIN FACEBOOK -->
+        <div class='divInner3' style="border: 6px solid transparent; width: 130px;">
+        	<div id="fb-root"></div>
+			<script>(function(d, s, id) {
+				var js, fjs = d.getElementsByTagName(s)[0];
+				if (d.getElementById(id)) return;
+				js = d.createElement(s); js.id = id;
+				js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+				fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+    	    </script>
+        	<fb:like href="http://www.facebook.com/pages/Animal-Angels-Foundation-India/254481607911337" send="true" layout="button_count" width="5" show_faces="true" font="arial"></fb:like>
+        </div>
+        <!-- END FACEBOOK -->
+        
+        <!-- BEGIN GOOGLE PLUS -->
+        <div class='divInner4' style="border: 7px solid transparent; width: 60px;">
+			<div class="g-plusone" data-size="medium" data-annotation="none"></div>
+			<!-- Place this tag after the last +1 button tag. -->
+			<script type="text/javascript">
+			  (function() {
+			    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			    po.src = 'https://apis.google.com/js/plusone.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+			  })();
+			</script>
+	        </div>  
+        <!-- END GOOGLE PLUS -->
+        
+        <!-- BEGIN LINKEDIN -->
+        <div class='divInner5' style="border: 6px solid transparent; width: 60px;">
+			<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+			<script type="IN/Share"></script>
+        </div>
+        <!-- END LINKEDIN -->
+
+      </div>
+
+
+
+
+
                 </div>
             </div>
         </div>
@@ -186,28 +257,64 @@
             <!-- Example row of columns -->
             <div class="row">
                 <div class="span4">
-                    <h2>Heading</h2>
-                    <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-                    <p><a class="btn" href="#">View details &raquo;</a></p>
+                    <a name="angels"><h2>Angels</h2></a>
+                    <p>Animal Angels Foundation is a Mumbai based organization founded by Rohini Fernandes and Radhika Nair who are clinical psychologists, certified practitioners of animal-assisted therapy and professional dog trainers.</p>
+                    <p>We are looking out for animal lovers who have done their M.A. in clinical or counseling psychology and would like to join our team of angels in Mumbai. We would love to hear from you at AnimalAngelsIndia@gmail.com with your details!</p>
+                    <p><a class="btn" href="#summary">View details &raquo;</a></p>
                 </div>
                 <div class="span4">
-                    <h2>Heading</h2>
-                    <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                    <h2>Organization</h2>
+                    <p>Animal Angels Foundation is the first organization in India working in the field of animal-assisted therapy. </p>
+                    <p>Through animal-assisted therapy, our specially trained therapy pets assist us in helping children and adults learn or improve various skills and in speeding up the recovery process.</p>
+                    <p>We practice animal-assisted therapy in the areas of developmental disorders, psychiatric disorders, physical disabilities, physical illnesses and behavioural/emotional problems.</p>
                     <p><a class="btn" href="#">View details &raquo;</a></p>
                </div>
                 <div class="span4">
-                    <h2>Heading</h2>
-                    <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+                    <h2>Awards</h2>
+                    <p>We were shortlisted by Marico Innovation Foundation as one of the top twenty-five innovations in India for the Innovation for India Awards 2007-2008. Rohini and Radhika were also nominated as MTV Youth Icons of the year 2008 for their work at Animal Angels Foundation. We were nominated for the TATA NEN Startups Awards 2008. Our organization was ranked 241 from 600 different startup companies in India!</p>
+                    <p>We were chosen for the Paragon 100 Fellowship (2009-2010) organised by The Foundation for Youth Social Entrepreneurship (FYSE). Rohini and Radhika were part of 100 young outstanding social change makers and entrepreneurs chosen from the Asia Pacific region.</p>
                     <p><a class="btn" href="#">View details &raquo;</a></p>
                 </div>
             </div>
 
-            <hr>
+			<hr>
+
+            <div class="hero-unit-quote">
+                <h2>Our Mission</h2>
+                <p>Enriching peoples' lives through our therapy animals</p>
+            </div>
+
+            <div class="row">
+                <div class="span4">
+                	<p>&nbsp;</p>
+                    <p>We even work with kindergartens and schools where our therapy pets assist in educating children on how to interact with animals. We also have a team of volunteers who along with their therapy dogs and cats do animal-assisted visits to places like orphanages and old age homes.</p>
+                    <p><a class="btn" href="#summary">View details &raquo;</a></p>
+                </div>
+                <div class="span4">
+                	<p>&nbsp;</p>
+                    <p>Animal Angels featured in Goa Streets</p>
+                    <p><a class="btn" href="#">View details &raquo;</a></p>
+               </div>
+                <div class="span4">
+                	<p>&nbsp;</p>
+                    <p>Our therapy pets assist us in helping people cope with life's day-to-day challenges such as loss, stress, loneliness and illness, in learning new skills and in speeding up their recovery process.</p>
+                    <p><a class="btn" href="#">View details &raquo;</a></p>
+                </div>
+            </div>
+
+			<hr>
+
+            <div class="hero-unit-quote">
+                <h2>Ben Williams -</h2>
+                <p>"There is no psychiatrist in the world like a puppy licking your face."</p>
+            </div>
+
+			<hr>
 
             <footer>
-                <p>&copy; Company 2012</p>
+                <p>&copy; Animal Angels Foundation 2005 - <?php echo date("Y"); ?></p>
             </footer>
-
+            
         </div> <!-- /container -->
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
