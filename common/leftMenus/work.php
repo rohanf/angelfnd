@@ -17,7 +17,7 @@
 						<table border="0" cellpadding="0" cellspacing="0">
 							<tr>
 								<td>
-									<input type="text" name="q" size="21" style="color:#808080;" maxlength="10" value="Site Search" onfocus="if(this.value==this.defaultValue)this.value=''; this.style.color='black';" onblur="if(this.value=='')this.value=this.defaultValue; "/>
+									<input type="text" name="q" size="21" style="color:#808080;" maxlength="255" value="Site Search" onfocus="if(this.value==this.defaultValue)this.value=''; this.style.color='black';" onblur="if(this.value=='')this.value=this.defaultValue; "/>
                                 </td>
                             </tr>
                             <tr>
@@ -35,9 +35,9 @@
                   <td width="22">
                   <p align="center">
                   <?
-                    ($leftNav=='animal-programs')?
-                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br />&nbsp;</td><td width="162"><a class="mo">Animal assisted Programs for schools</a></td>'):
-                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br />&nbsp;</td><td width="162"><a class="llt" href="/angels-work/animal-programs.php">Animals assisted Programs for schools</a></td>')
+                    ($leftNav=='american-school-bombay')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br />&nbsp;</td><td width="162"><a class="mo">American School of Bombay</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br />&nbsp;</td><td width="162"><a class="llt" href="/angels-work/american-school-bombay.php">American School of<br>Bombay</a></td>')
                   ?>
                 </tr>
 
@@ -65,6 +65,16 @@
                   <td width="22">
                   <p align="center">
                   <?
+                    ($leftNav=='hyderabad')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="mo">Hyderabad</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="llt" href="/angels-work/hyderabad.php">Hyderabad</a></td>')
+                  ?>
+                </tr>
+
+                <tr>
+                  <td width="22">
+                  <p align="center">
+                  <?
                     ($leftNav=='jbcn')?
                     (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="mo">JBCN PAN Academy</a></td>'):
                     (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="llt" href="/angels-work/jbcn.php">JBCN PAN Academy</a></td>')
@@ -76,8 +86,18 @@
                   <p align="center">
                   <?
                     ($leftNav=='kshitij')?
-                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="mo">Kshitij Mental Health Center</a></td>'):
-                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="llt" href="/angels-work/kshitij.php">Kshitij Mental Health<br>Center</a></td>')
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="mo">Kshitij Mental Health Center</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="llt" href="/angels-work/kshitij.php">Kshitij Mental Health Center</a></td>')
+                  ?>
+                </tr>
+
+                <tr>
+                  <td width="22">
+                  <p align="center">
+                  <?
+                    ($leftNav=='little-haven')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="mo">Little Haven Nursery, Chembur</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="llt" href="/angels-work/little-haven.php">Little Haven Nursery, Chembur</a></td>')
                   ?>
                 </tr>
 
@@ -138,6 +158,26 @@
                     ($leftNav=='xaviers-bhandup')?
                     (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="mo">St. Xavier\'s High School, Bhandup</a></td>'):
                     (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="llt" href="/angels-work/xaviers-bhandup.php">St. Xavier\'s Hight School, Bhandup</a></td>')
+                  ?>
+                </tr>
+
+                <tr>
+                  <td width="22">
+                  <p align="center">
+                  <?
+                    ($leftNav=='tiss')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="mo">Tata Institute of Social Sciences</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="llt" href="/angels-work/tiss.php">Tata Institute of Social Sciences</a></td>')
+                  ?>
+                </tr>
+
+                <tr>
+                  <td width="22">
+                  <p align="center">
+                  <?
+                    ($leftNav=='treehouse')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="mo">Treehouse Playgroup and Nursery</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="llt" href="/angels-work/treehouse.php">Treehouse Playgroup and Nursery</a></td>')
                   ?>
                 </tr>
 

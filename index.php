@@ -79,16 +79,20 @@
 	                <tr align="center">
 		      		  <td>
 
-<!--
+<!-- Single News -->
 		        		<div class="halfCurvy">
 		          		  <em id="ctl"><b>&bull;</b></em>
                           <em id="cbl"><b>&bull;</b></em>
                           <em id="ctr"><b>&bull;</b></em>
                           <em id="cbr"><b>&bull;</b></em>
-			    		  <p><center><b>Animal Angels featured in</b></center>
+                          <p><center><b><i><font color="red">New</font></i> Work locations</a></b><br /></center>
 			    		  <br />
 			    		  <center>
-			    			<a href="/news/asian-age.php">The Asian Age</a><br />
+			    			<a href="/angels-work/hyderabad.php">Hyderabad</a><br />
+			    			<a href="/angels-work/american-school-bombay.php">American School of Bombay</a><br />
+			    			<a href="/angels-work/little-haven.php">Little Haven Nursery, Chembur</a><br />
+			    			<a href="/angels-work/tiss.php">Tata Institute of Social Sciences</a><br />
+			    			<a href="/angels-work/treehouse.php">Treehouse Playgroup and Nursery</a><br />
 			    		  </center></p>
 		        		</div>
 		      		  </td>
@@ -96,39 +100,6 @@
 	          	  </table>
                 </td>
               </tr>
--->
-
-<!--
-              <tr>
-                <td width="100%" height="5">&nbsp;</td>
-              </tr>
-              <tr>
-                <td>
-                  <div align="center">
-                  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="90%" id="AutoNumber121">
-                    <tr align="center">
-                      <td width="100%">
-                        <a href="http://www.mtvyouthicon.in.com/nominee.php?id=46636" target="_blank">
-                        <p align="center"><img border="0" src="/images/mtv-youth-icon.jpg" alt="MTV Youth Icon banner" width="468" height="88"></p>
-                        </a>
-                      </td>
-                   </tr>
-                    <tr align="center">
-                      <td width="100%" class="tch">
-                        <p align="center"><span style="font-weight: 400">or in India just SMS "<b>Icon&nbsp;&nbsp;RO</b>" to 56882</span></p>
-                      </td>
-                   </tr>
-                  </table>
-                  </div>
-                </td>
-              </tr>
-              <tr>
-                <td width="100%" height="5">&nbsp;</td>
-              </tr>
--->
-
-
-
 
 <!--
               <tr>
@@ -145,6 +116,8 @@
                         <a href="/angels-work/canine-workshop.php"><img border="0" src="/images/Canine_First_Aid_Thumbnail.jpg" alt="Canine First Aid Workshop Thumbnail" width="108" height="140"></a>
 -->
 
+<!-- Double News -->
+<!--
                         <div class="halfCurvy">
                           <em id="ctl"><b>&bull;</b></em>
                           <em id="cbl"><b>&bull;</b></em>
@@ -152,7 +125,7 @@
                           <em id="cbr"><b>&bull;</b></em>
                         <p>
                           <center>
-						    <b><i><font color="red">New</font></i> Angels at Home</a></b> section<br /><br />
+						    <b><i><font color="red">New</font></i> Work locations</a></b><br />
                             <a href="/angels-home/ace-labrador.php">Ace the Labrador</a><br />
                           </center>
                         </p>
@@ -177,6 +150,7 @@
                   </div>
                 </td>
               </tr>
+-->
 
               <tr>
                 <td width="100%" height="10">&nbsp;</td>

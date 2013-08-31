@@ -13,7 +13,7 @@
 						<table border="0" cellpadding="0" cellspacing="0">
 							<tr>
 								<td>
-									<input type="text" name="q" size="21" style="color:#808080;" maxlength="10" value="Site Search" onfocus="if(this.value==this.defaultValue)this.value=''; this.style.color='black';" onblur="if(this.value=='')this.value=this.defaultValue; "/>
+									<input type="text" name="q" size="21" style="color:#808080;" maxlength="255" value="Site Search" onfocus="if(this.value==this.defaultValue)this.value=''; this.style.color='black';" onblur="if(this.value=='')this.value=this.defaultValue; "/>
                                 </td>
                             </tr>
                             <tr>

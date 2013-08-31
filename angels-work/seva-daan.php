@@ -79,11 +79,17 @@
                     </tr>
                     <tr>
                       <td width="100%">
+                      <p align="center">
+                      <img border="0" src="/images/angels-work/seva-daan/seva-daan-chembur-4.jpg" alt="Therapy dog Fludo at Seva Daan School, Chembur" hspace="0" width="540" height="343">
+                      </p>
                       <p align="justify">
-                      <img border="0" src="/images/pic-seva-daan-chembur-1.jpg" alt="Therapy dog Angel works with the elderly at Dignity Foundation" align="left" hspace="10" vspace="2" width="250" height="203">This is a special school for children who have been diagnosed with Autistic Spectrum Disorder, Developmental Delays, Cognitive Disabilities and Intellectual Impairment.</p>
+                      <img border="0" src="/images/angels-work/seva-daan/seva-daan-chembur-1.jpg" alt="Therapy dog Fludo at Seva Daan School, Chembur" align="left" hspace="10" vspace="2" width="250" height="203">This is a special school for children who have been diagnosed with Autistic Spectrum Disorder, Developmental Delays, Cognitive Disabilities and Intellectual Impairment.</p>
                       <p align="justify">Having our therapy dog Fludo coming especially to meet them, makes the children feel loved and wanted. Just stroking and hugging our warm, furry co-therapist is therapeutic to children who are not comfortable being touched by people.</p>
-                      <img border="0" src="/images/pic-seva-daan-chembur-2.jpg" alt="Therapy dog Angel works with the elderly at Dignity Foundation" align="right" hspace="10" vspace="2" width="250" height="215">
+                      <img border="0" src="/images/angels-work/seva-daan/seva-daan-chembur-2.jpg" alt="Therapy dog Fludo at Seva Daan School, Chembur" align="right" hspace="10" vspace="2" width="250" height="215">
                       <p align="justify">Interacting with Fludo provides an opportunity for emotional investment that is free of negative evaluation and not subject to being rejected. Having a therapy dog present in the session creates an environment that promotes positive interactions between these children and adults.</p>
+                      <p align="center">
+                      <img border="0" src="/images/angels-work/seva-daan/seva-daan-chembur-3.jpg" alt="Therapy dog Fludo at Seva Daan School, Chembur" hspace="0" vspace="15" width="540" height="405">
+                      </p>
                       </td>
                     </tr>
                   </table>

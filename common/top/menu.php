@@ -30,7 +30,7 @@
 
                 <td width="2"><img border="0" src="/images/dv-line.gif" alt="divider" width="2" height="22"></td>
                 <td width="88">
-                  <a href="/angels-work/animal-programs.php">
+                  <a href="/angels-work/american-school-bombay.php">
                   <?
                     ($topNav=='work')?
                     (print'<img border="0" src="/images/bt-angelswork-mo.gif" class="domroll /images/bt-angelswork-mo.gif" alt="Angels at Work (selected)" width="88" height="22"></a></td><script type="text/javascript">var tableHeight = 340;</script>'):
