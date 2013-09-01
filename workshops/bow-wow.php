@@ -93,20 +93,27 @@
                     	<td>
 							<section id="dg-container" class="dg-container">
 								<div class="dg-wrapper">
-									<a href="#"><img src="/images/workshops_3d-gallery/pic-animal-programs-treehouse.jpg" alt="image00"><div></div></a>
-									<a href="#"><img src="/images/workshops_3d-gallery/IMG-20130415-WA0006.jpg" alt="image01"><div></div></a>
-                                    <a href="#"><img src="/images/workshops_3d-gallery/IMG-20130415-WA0007.jpg" alt="image02"><div></div></a>
-                                    <a href="#"><img src="/images/workshops_3d-gallery/IMG-20130415-WA0008.jpg" alt="image03"><div></div></a>
-									<a href="#"><img src="/images/workshops_3d-gallery/IMG-20130415-WA0010.jpg" alt="image04"><div></div></a>
-                                    <a href="#"><img src="/images/workshops_3d-gallery/IMG-20130416-WA0006.jpg" alt="image05"><div></div></a>
-                                    <a href="#"><img src="/images/workshops_3d-gallery/IMG-20130416-WA0009.jpg" alt="image06"><div></div></a>
-									<a href="#"><img src="/images/workshops_3d-gallery/IMG-20130416-WA0013.jpg" alt="image07"><div></div></a>
-                                    <a href="#"><img src="/images/workshops_3d-gallery/IMG-20130416-WA0014.jpg" alt="image08"><div></div></a>
-                                    <a href="#"><img src="/images/workshops_3d-gallery/IMG-20130418-WA0004.jpg" alt="image09"><div></div></a>
-                                    <a href="#"><img src="/images/workshops_3d-gallery/IMG-20130418-WA0006.jpg" alt="image10"><div></div></a>
-                                    <a href="#"><img src="/images/workshops_3d-gallery/IMG-20130418-WA0007.jpg" alt="image11"><div></div></a>
-                                    <a href="#"><img src="/images/workshops_3d-gallery/IMG-20130418-WA0008.jpg" alt="image12"><div></div></a>
-                                    <a href="#"><img src="/images/workshops_3d-gallery/535725_439292159430280_2034921708_n.jpg" alt="image13"><div></div></a>
+									<a href="#"><img src="/images/workshops_3d-gallery/animal-angels-foundation-workshops-1.jpg" alt="Animal Angels Foundation Workshop"><div></div></a>
+									<a href="#"><img src="/images/workshops_3d-gallery/animal-angels-foundation-workshops-2.jpg" alt="Animal Angels Foundation Workshop"><div></div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/animal-angels-foundation-workshops-3.jpg" alt="Animal Angels Foundation Workshop"><div></div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/animal-angels-foundation-workshops-4.jpg" alt="Animal Angels Foundation Workshop"><div></div></a>
+									<a href="#"><img src="/images/workshops_3d-gallery/animal-angels-foundation-workshops-5.jpg" alt="Animal Angels Foundation Workshop"><div></div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/animal-angels-foundation-workshops-6.jpg" alt="Animal Angels Foundation Workshop"><div></div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/animal-angels-foundation-workshops-7.jpg" alt="Animal Angels Foundation Workshop"><div></div></a>
+									<a href="#"><img src="/images/workshops_3d-gallery/animal-angels-foundation-workshops-8.jpg" alt="Animal Angels Foundation Workshop"><div></div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/animal-angels-foundation-workshops-9.jpg" alt="Animal Angels Foundation Workshop"><div></div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/animal-angels-foundation-workshops-10.jpg" alt="Animal Angels Foundation Workshop"><div></div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/animal-angels-foundation-workshops-11.jpg" alt="Animal Angels Foundation Workshop"><div></div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/animal-angels-foundation-workshops-12.jpg" alt="Animal Angels Foundation Workshop"><div></div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/animal-angels-foundation-workshops-13.jpg" alt="Animal Angels Foundation Workshop"><div></div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/animal-angels-foundation-workshops-14.jpg" alt="Animal Angels Foundation Workshop"><div></div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/animal-angels-foundation-workshops-15.jpg" alt="Animal Angels Foundation Workshop"><div></div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/animal-angels-foundation-workshops-16.jpg" alt="Animal Angels Foundation Workshop"><div></div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/animal-angels-foundation-workshops-17.jpg" alt="Animal Angels Foundation Workshop"><div></div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/animal-angels-foundation-workshops-18.jpg" alt="Animal Angels Foundation Workshop"><div></div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/animal-angels-foundation-workshops-19.jpg" alt="Animal Angels Foundation Workshop"><div></div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/animal-angels-foundation-workshops-20.jpg" alt="Animal Angels Foundation Workshop"><div></div></a>
+                                    <a href="#"><img src="/images/workshops_3d-gallery/animal-angels-foundation-workshops-21.jpg" alt="Animal Angels Foundation Workshop"><div></div></a>
 								</div>
 								<nav> 
 									<span class="dg-prev">&lt;</span>
