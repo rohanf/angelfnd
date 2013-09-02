@@ -32,42 +32,22 @@
                 </tr>
 
                 <tr>
+                  <td width="22"><br>&nbsp;</td>
+                  <td width="162"><br>&nbsp;</td>
+                </tr>
+
+                <tr>
+                  <td width="22"><br>&nbsp;</td>
+                  <td width="162"><a class="llt-heading"><u>Schools</u></a></td>
+                </tr>
+
+                <tr>
                   <td width="22">
                   <p align="center">
                   <?
                     ($leftNav=='american-school-bombay')?
-                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br />&nbsp;</td><td width="162"><a class="mo">American School of Bombay</a></td>'):
-                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br />&nbsp;</td><td width="162"><a class="llt" href="/angels-work/american-school-bombay.php">American School of<br>Bombay</a></td>')
-                  ?>
-                </tr>
-
-                <tr>
-                  <td width="22">
-                  <p align="center">
-                  <?
-                    ($leftNav=='balmahotsav')?
-                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="mo">Balmahotsav</a></td>'):
-                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="llt" href="/angels-work/balmahotsav.php">Balmahotsav</a></td>')
-                  ?>
-                </tr>
-
-                <tr>
-                  <td width="22">
-                  <p align="center">
-                  <?
-                    ($leftNav=='dignity')?
-                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="mo">Dignity Foundation</a></td>'):
-                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="llt" href="/angels-work/dignity-foundation.php">Dignity Foundation</a></td>')
-                  ?>
-                </tr>
-
-                <tr>
-                  <td width="22">
-                  <p align="center">
-                  <?
-                    ($leftNav=='hyderabad')?
-                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="mo">Hyderabad</a></td>'):
-                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="llt" href="/angels-work/hyderabad.php">Hyderabad</a></td>')
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="mo">American School of Bombay</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="llt" href="/angels-work/american-school-bombay.php">American School of<br>Bombay</a></td>')
                   ?>
                 </tr>
 
@@ -85,19 +65,9 @@
                   <td width="22">
                   <p align="center">
                   <?
-                    ($leftNav=='kshitij')?
-                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="mo">Kshitij Mental Health Center</a></td>'):
-                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="llt" href="/angels-work/kshitij.php">Kshitij Mental Health Center</a></td>')
-                  ?>
-                </tr>
-
-                <tr>
-                  <td width="22">
-                  <p align="center">
-                  <?
-                    ($leftNav=='little-haven')?
-                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="mo">Little Haven Nursery, Chembur</a></td>'):
-                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="llt" href="/angels-work/little-haven.php">Little Haven Nursery, Chembur</a></td>')
+                    ($leftNav=='saas')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br />&nbsp;</td><td width="162"><a class="mo">Skills and Ability School (Nerul and Mulund)</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br />&nbsp;</td><td width="162"><a class="llt" href="/angels-work/saas.php">Skills and Ability School (Nerul and Mulund)</a></td>')
                   ?>
                 </tr>
 
@@ -115,29 +85,9 @@
                   <td width="22">
                   <p align="center">
                   <?
-                    ($leftNav=='manav')?
-                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="mo">Manav Foundation</a></td>'):
-                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="llt" href="/angels-work/manav-foundation.php">Manav Foundation</a></td>')
-                  ?>
-                </tr>
-
-                <tr>
-                  <td width="22">
-                  <p align="center">
-                  <?
                     ($leftNav=='seva-daan-chembur')?
                     (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="mo">Seva Daan School (Chembur)</a></td>'):
                     (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="llt" href="/angels-work/seva-daan.php">Seva Daan School<br>(Chembur)</a></td>')
-                  ?>
-                </tr>
-
-                <tr>
-                  <td width="22">
-                  <p align="center">
-                  <?
-                    ($leftNav=='saas')?
-                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br />&nbsp;</td><td width="162"><a class="mo">Skills and Ability School (Nerul and Mulund)</a></td>'):
-                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br />&nbsp;</td><td width="162"><a class="llt" href="/angels-work/saas.php">Skills and Ability School (Nerul and Mulund)</a></td>')
                   ?>
                 </tr>
 
@@ -162,13 +112,8 @@
                 </tr>
 
                 <tr>
-                  <td width="22">
-                  <p align="center">
-                  <?
-                    ($leftNav=='tiss')?
-                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="mo">Tata Institute of Social Sciences</a></td>'):
-                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="llt" href="/angels-work/tiss.php">Tata Institute of Social Sciences</a></td>')
-                  ?>
+                  <td width="22"><br>&nbsp;</td>
+                  <td width="162"><a class="llt-heading"><u>Kindergartens</u></a></td>
                 </tr>
 
                 <tr>
@@ -185,9 +130,104 @@
                   <td width="22">
                   <p align="center">
                   <?
+                    ($leftNav=='little-haven')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="mo">Little Haven Nursery, Chembur</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="llt" href="/angels-work/little-haven.php">Little Haven Nursery, Chembur</a></td>')
+                  ?>
+                </tr>
+
+                <tr>
+                  <td width="22"><br>&nbsp;</td>
+                  <td width="162"><a class="llt-heading"><u>Mental Health Centres</u></a></td>
+                </tr>
+
+                <tr>
+                  <td width="22">
+                  <p align="center">
+                  <?
+                    ($leftNav=='dignity')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="mo">Dignity Foundation</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="llt" href="/angels-work/dignity-foundation.php">Dignity Foundation</a></td>')
+                  ?>
+                </tr>
+
+                <tr>
+                  <td width="22">
+                  <p align="center">
+                  <?
+                    ($leftNav=='manav')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="mo">Manav Foundation</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="llt" href="/angels-work/manav-foundation.php">Manav Foundation</a></td>')
+                  ?>
+                </tr>
+
+                <tr>
+                  <td width="22">
+                  <p align="center">
+                  <?
+                    ($leftNav=='kshitij')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="mo">Kshitij Mental Health Center</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="llt" href="/angels-work/kshitij.php">Kshitij Mental Health Center</a></td>')
+                  ?>
+                </tr>
+
+                <tr>
+                  <td width="22"><br>&nbsp;</td>
+                  <td width="162"><a class="llt-heading"><u>Other Institutes</u></a></td>
+                </tr>
+
+                <tr>
+                  <td width="22">
+                  <p align="center">
+                  <?
+                    ($leftNav=='tiss')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="mo">Tata Institute of Social Sciences</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="llt" href="/angels-work/tiss.php">Tata Institute of Social Sciences</a></td>')
+                  ?>
+                </tr>
+
+                <tr>
+                  <td width="22">
+                  <p align="center">
+                  <?
                     ($leftNav=='willington')?
                     (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="mo">Willington Club</a></td>'):
                     (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="llt" href="/angels-work/willington.php">Willington Club</a></td>')
+                  ?>
+                </tr>
+
+                <tr>
+                  <td width="22">
+                  <p align="center">
+                  <?
+                    ($leftNav=='balmahotsav')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="mo">Balmahotsav</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="llt" href="/angels-work/balmahotsav.php">Balmahotsav</a></td>')
+                  ?>
+                </tr>
+
+                <tr>
+                  <td width="22"><br>&nbsp;</td>
+                  <td width="162"><a class="llt-heading"><u>Other Cities</u></a></td>
+                </tr>
+
+                <tr>
+                  <td width="22">
+                  <p align="center">
+                  <?
+                    ($leftNav=='hyderabad')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="mo">Hyderabad</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="llt" href="/angels-work/hyderabad.php">Hyderabad</a></td>')
+                  ?>
+                </tr>
+
+                <tr>
+                  <td width="22">
+                  <p align="center">
+                  <?
+                    ($leftNav=='nashik')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="mo">Nashik</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="llt" href="/angels-work/nashik.php">Nashik</a></td>')
                   ?>
                 </tr>
 

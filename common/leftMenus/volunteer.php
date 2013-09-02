@@ -46,17 +46,6 @@
                   <td width="22">
                   <p align="center">
                   <?
-                    ($leftNav=='sskv')?
-                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="mo">Shrimati Sunanda Kele Vidyamandir, Nasik</a></td>'):
-                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="llt" href="/volunteer-work/sskv.php">Shrimati Sunanda Kele Vidyamandir, Nashik</a></td>')
-                  ?>
-                </tr>
-
-
-                <tr>
-                  <td width="22">
-                  <p align="center">
-                  <?
                     ($leftNav=='sneha-sadan')?
                     (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="mo">Sneha Sadan Orphanage</a></td>'):
                     (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="llt" href="/volunteer-work/sneha-sadan.php">Sneha Sadan Orphanage</a></td>')

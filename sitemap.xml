@@ -241,12 +241,6 @@
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>http://animalangelsfoundation.com/volunteer-work/sskv.php</loc>
-      <lastmod>2011-04-23</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-   </url>
-   <url>
       <loc>http://animalangelsfoundation.com/volunteer-work/sneha-sadan.php</loc>
       <lastmod>2011-04-23</lastmod>
       <changefreq>monthly</changefreq>
@@ -277,31 +271,13 @@
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>http://animalangelsfoundation.com/angels-work/dignity-foundation.php</loc>
-      <lastmod>2012-04-08</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-   </url>
-   <url>
-      <loc>http://animalangelsfoundation.com/angels-work/hyderabad.php</loc>
-      <lastmod>2013-08-30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-   </url>
-   <url>
       <loc>http://animalangelsfoundation.com/angels-work/jbcn.php</loc>
       <lastmod>2012-04-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>http://animalangelsfoundation.com/angels-work/kshitij.php</loc>
-      <lastmod>2012-04-08</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-   </url>
-   <url>
-      <loc>http://animalangelsfoundation.com/angels-work/little-haven.php</loc>
+      <loc>http://animalangelsfoundation.com/angels-work/saas.php</loc>
       <lastmod>2013-08-30</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
@@ -313,19 +289,7 @@
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>http://animalangelsfoundation.com/angels-work/manav-foundation.php</loc>
-      <lastmod>2012-11-29</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-   </url>
-   <url>
       <loc>http://animalangelsfoundation.com/angels-work/seva-daan.php</loc>
-      <lastmod>2013-08-30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-   </url>
-   <url>
-      <loc>http://animalangelsfoundation.com/angels-work/saas.php</loc>
       <lastmod>2013-08-30</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
@@ -343,13 +307,37 @@
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>http://animalangelsfoundation.com/angels-work/tiss.php</loc>
+      <loc>http://animalangelsfoundation.com/angels-work/treehouse.php</loc>
       <lastmod>2013-08-30</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>http://animalangelsfoundation.com/angels-work/treehouse.php</loc>
+      <loc>http://animalangelsfoundation.com/angels-work/little-haven.php</loc>
+      <lastmod>2013-08-30</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://animalangelsfoundation.com/angels-work/dignity-foundation.php</loc>
+      <lastmod>2012-04-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://animalangelsfoundation.com/angels-work/manav-foundation.php</loc>
+      <lastmod>2012-11-29</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://animalangelsfoundation.com/angels-work/kshitij.php</loc>
+      <lastmod>2012-04-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://animalangelsfoundation.com/angels-work/tiss.php</loc>
       <lastmod>2013-08-30</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
@@ -357,6 +345,24 @@
    <url>
       <loc>http://animalangelsfoundation.com/angels-work/willington.php</loc>
       <lastmod>2011-04-23</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://animalangelsfoundation.com/angels-work/balmahotsav.php</loc>
+      <lastmod>2013-09-01</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://animalangelsfoundation.com/angels-work/hyderabad.php</loc>
+      <lastmod>2013-08-30</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://animalangelsfoundation.com/angels-work/nashik.php</loc>
+      <lastmod>2013-09-01</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>

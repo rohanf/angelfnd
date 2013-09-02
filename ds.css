@@ -229,6 +229,24 @@ a:hover.llt
 	text-decoration: none;
 }
 
+a.llt-heading
+{
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: normal;
+	color: rgb(255,255,51);
+	text-decoration: none;
+}
+
+a:hover.llt-heading
+{
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: normal;
+	color: rgb(255,255,51);
+	text-decoration: none;
+}
+
 a.unl
 {
 	font-family: Arial;
