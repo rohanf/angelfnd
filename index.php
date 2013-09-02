@@ -8,7 +8,7 @@
   <title>Home Page - Animal Angels Foundation is a Mumbai based Organization providing Animal Assisted Therapy</title>
   <link rel="stylesheet" type="text/css" href="/ds.css">
   <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
-  <script type="text/JavaScript" src="/common/javaScript/slideShow.js"></script>
+  <script type="text/JavaScript" src="/common/javaScript/slideShow.js?<?=time()?>"></script>
   <script type="text/JavaScript" src="/common/javaScript/rightClick.js"></script>
   <script type="text/Javascript" src="/common/javaScript/dimensions.js"></script>
 </head>
