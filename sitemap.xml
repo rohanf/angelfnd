@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
       <loc>http://www.animalangelsfoundation.com/</loc>
-      <lastmod>2013-08-30</lastmod>
+      <lastmod>2013-09-22</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
    </url>
@@ -380,7 +380,7 @@
    </url>
    <url>
       <loc>http://animalangelsfoundation.com/news/news.php</loc>
-      <lastmod>2013-07-15</lastmod>
+      <lastmod>2013-09-22</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
    </url>
@@ -476,13 +476,37 @@
    </url>
    <url>
       <loc>http://animalangelsfoundation.com/news/afternoon.php</loc>
-      <lastmod>2011-04-23</lastmod>
+      <lastmod>2013-09-22</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://animalangelsfoundation.com/news/afternoon-2010-11-24.php</loc>
+      <lastmod>2013-09-22</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://animalangelsfoundation.com/news/afternoon-2013-09-17.php</loc>
+      <lastmod>2013-09-22</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
       <loc>http://animalangelsfoundation.com/news/outlook-india.php</loc>
       <lastmod>2011-04-23</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://animalangelsfoundation.com/news/mycity4kids.php</loc>
+      <lastmod>2013-09-22</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://animalangelsfoundation.com/news/business-for-all.php</loc>
+      <lastmod>2013-09-22</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
@@ -745,20 +769,26 @@
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>http://animalangelsfoundation.com/news/creature-companions.php</loc>
-      <lastmod>2011-04-23</lastmod>
+      <loc>http://animalangelsfoundation.com/news/creature-companion.php</loc>
+      <lastmod>2013-09-22</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
    </url>
    <url>
-      <loc>http://animalangelsfoundation.com/news/creature-companions-2006-11-xx-pawsitive-therapy.php</loc>
-      <lastmod>2011-04-23</lastmod>
+      <loc>http://animalangelsfoundation.com/news/creature-companion-2013-09-animal-assisted-therapy-comes-to-india.php</loc>
+      <lastmod>2013-09-22</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>http://animalangelsfoundation.com/news/creature-companions-2006-11-xx-dog-companions.php</loc>
-      <lastmod>2011-04-23</lastmod>
+      <loc>http://animalangelsfoundation.com/news/creature-companion-2006-11-pawsitive-therapy.php</loc>
+      <lastmod>2013-09-22</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://animalangelsfoundation.com/news/creature-companion-2006-11-dog-companions-for-the-elderly.php</loc>
+      <lastmod>2013-09-22</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>

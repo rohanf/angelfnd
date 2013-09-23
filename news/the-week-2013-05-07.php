@@ -90,7 +90,6 @@
                         include($_SERVER['DOCUMENT_ROOT'] . "/common/top/news-the_week.php");
                       ?>
 
-
                       <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="90%" id="AutoNumber12">
                         <tr>
                           <td height="40px" valign="top" width="100%">&nbsp;

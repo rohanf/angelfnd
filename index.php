@@ -79,7 +79,8 @@
 	                <tr align="center">
 		      		  <td>
 
-<!-- Single News -->
+<!-- BEGIN Single News -->
+<!--
 		        		<div class="halfCurvy">
 		          		  <em id="ctl"><b>&bull;</b></em>
                           <em id="cbl"><b>&bull;</b></em>
@@ -100,6 +101,8 @@
 	          	  </table>
                 </td>
               </tr>
+-->
+<!-- END Single News -->
 
 <!--
               <tr>
@@ -116,8 +119,7 @@
                         <a href="/angels-work/canine-workshop.php"><img border="0" src="/images/Canine_First_Aid_Thumbnail.jpg" alt="Canine First Aid Workshop Thumbnail" width="108" height="140"></a>
 -->
 
-<!-- Double News -->
-<!--
+<!-- BEGIN Double News -->
                         <div class="halfCurvy">
                           <em id="ctl"><b>&bull;</b></em>
                           <em id="cbl"><b>&bull;</b></em>
@@ -125,8 +127,13 @@
                           <em id="cbr"><b>&bull;</b></em>
                         <p>
                           <center>
-						    <b><i><font color="red">New</font></i> Work locations</a></b><br />
-                            <a href="/angels-home/ace-labrador.php">Ace the Labrador</a><br />
+						    <!-- b><i><font color="red">New</font></i> Work locations</a></b><br / -->
+                            <center><b>Work Locations</b></center><br />
+			    			<a href="/angels-work/hyderabad.php">Hyderabad</a><br />
+			    			<a href="/angels-work/american-school-bombay.php">American School of Bombay</a><br />
+			    			<a href="/angels-work/little-haven.php">Little Haven Nursery, Chembur</a><br />
+			    			<a href="/angels-work/tiss.php">Tata Institute of Social Sciences</a><br />
+			    			<a href="/angels-work/treehouse.php">Treehouse Playgroup and Nursery</a><br />
                           </center>
                         </p>
                         </div>
@@ -140,6 +147,9 @@
                           <p><center><b>Animal Angels featured in</b></center>
                           <br>
                           <center>
+			                <a href="/news/creature-companion-2013-09-animal-assisted-therapy-comes-to-india.php">Creature Companion</a><br />
+			                <a href="/news/business-for-all.php">Business For All</a><br />
+			                <a href="/news/afternoon-2013-09-17.php">The Afternoon</a><br />
 			                <a href="/news/goa-streets.php">Goa Streets</a><br />
                           </center>
                           </p>
@@ -150,7 +160,7 @@
                   </div>
                 </td>
               </tr>
--->
+<!-- END Double News -->
 
               <tr>
                 <td width="100%" height="10">&nbsp;</td>

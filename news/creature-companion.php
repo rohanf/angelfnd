@@ -3,9 +3,9 @@
 
 <head>
   <meta http-equiv="Content-Language" content="en-us">
-  <meta name="keywords" content="animal angels foundation mumbai news, the afternoon dispatch and courier animal angels foundation, animal angels foundation afternoon, pets your best bet, naressa coutinho, pet project, priyanka singh">
-  <meta name="description" content="Animal Angels Foundation in the Hindustan Times">
-  <title>Animal Angels Foundation featured in The Afternoon Dispatch and Courier</title>
+  <meta name="keywords" content="animal angels foundation mumbai news, creature companion, paws-itive therapy, rohini fernandes, dog companions for the elderly, dr sheilu sreenivasan">
+  <meta name="description" content="Animal Angels Foundation in Creature Companion - Articles on Paws-itive therapy and Dog Companions for the Elderly, November 2006">
+  <title>Animal Angels Foundation featured in Creature Companion - Paws-itive therapy and Dog companions for the elderly</title>
   <link rel="stylesheet" type="text/css" href="/ds.css">
   <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
   <script type="text/JavaScript" src="/common/javaScript/refresh.js"></script>
@@ -47,7 +47,7 @@
               <td width="100%" valign="top">
                 <?
                   global $leftNav;
-                  $leftNav = "afternoon";
+                  $leftNav = "creature-companion";
                   include($_SERVER['DOCUMENT_ROOT'] . "/common/leftMenus/news.php");
                 ?>
               </td>
@@ -74,7 +74,7 @@
                       <td width="100%">
                       <h3>
                       <img border="0" src="/images/big-bullet.jpg" alt="Big bullet" align="absmiddle" width="20" height="18">&nbsp;&nbsp; 
-                      The Afternoon Dispatch & Courier</h3>
+                      Creature Companion</h3>
                       </td>
                     </tr>
                     <tr>
@@ -82,25 +82,46 @@
                     </tr>
                     <tr>
                       <td width="100%">
-                      <p align="left" class="hd">Articles in The Afternoon Dispatch & Courier</td>
+                      <p align="left" class="hd">Articles in Creature Companion magazine</td>
                     </tr>
                     <tr>
                       <td width="100%">&nbsp;</td>
                     </tr>
                   </table>
 
+
                   <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber11">
                     <tr>
-                      <td width="5%"><img border="0" src="/images/orange-paw.gif" alt="orange-paw bullet" align="middle" width="12" height="12"><br>&nbsp;</td>
-                      <td width="95%"><a href="/news/afternoon-2013-09-17.php">Pet Project</a><br><i>Priyanaka Singh - on September 17, 2013</i></td>
-                    </tr>
-                    <tr>
+					  <td width="5%">
+						<img border="0" src="/images/orange-paw.gif" alt="orange-paw bullet" align="middle" width="12" height="12"><br>&nbsp;
+                      </td>
+                      <td width="95%">
+						<a href="/news/creature-companion-2013-09-animal-assisted-therapy-comes-to-india.php">Animal Assisted Therapy comes to India</a><br><i>Rohini Fernandes and Radhika Nair - September 2013</i>
+					  </td>
+					</tr>
+					<tr>
                       <td width="5%">&nbsp;</td>
                       <td width="95%">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td valign="top" width="5%"><img border="0" src="/images/orange-paw.gif" alt="orange-paw bullet" align="middle" width="12" height="12"><br>&nbsp;</td>
-                      <td width="95%"><a href="/news/afternoon-2010-11-24.php">Pets, Your Best Bet!</a><br><i>Naressa Coutinho - on November 24, 2010</i></td>
+					  <td width="5%">
+						<img border="0" src="/images/orange-paw.gif" alt="orange-paw bullet" align="middle" width="12" height="12"><br>&nbsp;
+                      </td>
+                      <td width="95%">
+						<a href="/news/creature-companion-2006-11-pawsitive-therapy.php">Paws-itive Therapy</a><br><i>Rohini Fernandes - November 2006</i>
+					  </td>
+					</tr>
+					<tr>
+                      <td width="5%">&nbsp;</td>
+                      <td width="95%">&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td width="5%">
+						<img border="0" src="/images/orange-paw.gif" alt="orange-paw bullet" align="middle" width="12" height="12"><br>&nbsp;
+					  </td>
+                      <td width="95%">
+						<a href="/news/creature-companion-2006-11-dog-companions-for-the-elderly.php">Dog Companions for the Elderly</a><br><i>Dr Sheilu Sreenivasan - November 2006</i>
+					  </td>
                     </tr>
                   </table>
                 </td>
@@ -127,6 +148,7 @@
 
               </div>
             </table>
+
 
             </center>
           </div>

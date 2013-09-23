@@ -76,8 +76,8 @@
                   <a href="/news/afternoon.php">
                   <?
                     ($leftNav=='afternoon')?
-                    (print'<img class="selected" src="/images/news-afternoon.jpg" alt="The Afternoon Despatch and Courier logo" title="Article in The Afternoon Despatch and Courier" width="150" height="40"></a>'):
-                    (print'<center><img border="0" src="/images/news-afternoon.jpg" alt="The Afternoon Despatch and Courier logo" title="Article in The Afternoon Despatch and Courier" width="150" height="40"></center></a>')
+                    (print'<img class="selected" src="/images/logos/logo-the-afternoon.jpg" alt="The Afternoon Despatch and Courier logo" title="Article in The Afternoon Despatch and Courier" width="150" height="40"></a>'):
+                    (print'<center><img border="0" src="/images/logos/logo-the-afternoon.jpg" alt="The Afternoon Despatch and Courier logo" title="Article in The Afternoon Despatch and Courier" width="150" height="40"></center></a>')
                   ?>
                   </td>
                 </tr>
@@ -86,8 +86,8 @@
                   <a href="/news/goa-streets.php">
                   <?
                     ($leftNav=='goa-streets')?
-                    (print'<img class="selected" src="/images/goa-streets/goa-streets-logo.jpg" alt="Goa Streets logo" title="Article in Goa Streets" width="150" height="40"></a>'):
-                    (print'<center><img border="0" src="/images/goa-streets/goa-streets-logo.jpg" alt="The Afternoon Despatch and Courier logo" title="Article in The Afternoon Despatch and Courier" width="150" height="40"></center></a>')
+                    (print'<img class="selected" src="/images/logos/logo-goa-streets.jpg" alt="Goa Streets logo" title="Article in Goa Streets" width="150" height="40"></a>'):
+                    (print'<center><img border="0" src="/images/logos/logo-goa-streets.jpg" alt="Goa Streets logo" title="Article in Goa Streets" width="150" height="40"></center></a>')
                   ?>
                   </td>
                 </tr>
@@ -108,6 +108,16 @@
                     ($leftNav=='mycity4kids')?
                     (print'<img class="selected" src="/images/news-mycity4kids.gif" alt="My City For Kids logo" title="Article in My City For Kids" width="150" height="40"></a>'):
                     (print'<center><img border="0" src="/images/news-mycity4kids.gif" alt="My City For Kids logo" title="Article in My City For Kids" width="150" height="40"></center></a>')
+                  ?>
+                  </td>
+                </tr>
+                <tr>
+                  <td width="160">
+                  <a href="/news/business-for-all.php">
+                  <?
+                    ($leftNav=='business-for-all')?
+                    (print'<img class="selected" src="/images/logos/logo-business-for-all.jpg" alt="Business For All logo" title="Article in Business For All magazine" width="150" height="40"></a>'):
+                    (print'<center><img border="0" src="/images/logos/logo-business-for-all.jpg" alt="Business For All logo" title="Article in Business For All magazin" width="150" height="40"></center></a>')
                   ?>
                   </td>
                 </tr>
@@ -383,11 +393,11 @@
                 </tr>
                 <tr>
                   <td width="160">
-                  <a href="/news/creature-companions.php">
+                  <a href="/news/creature-companion.php">
                   <?
-                    ($leftNav=='creature-companions')?
-                    (print'<img class="selected" src="/images/news-creature-companions.jpg" alt="Creature Companions logo" title="Creature Companions articles" width="150" height="40"></a>'):
-                    (print'<center><img border="0" src="/images/news-creature-companions.jpg" alt="Creature Companions logo" title="Creature Companions articles" width="150" height="40"></center></a>')
+                    ($leftNav=='creature-companion')?
+                    (print'<img class="selected" src="/images/logos/logo-creature-companion.jpg" alt="Creature Companion logo" title="Creature Companion articles" width="150" height="40"></a>'):
+                    (print'<center><img border="0" src="/images/logos/logo-creature-companion.jpg" alt="Creature Companion logo" title="Creature Companion articles" width="150" height="40"></center></a>')
                   ?>
                   </td>
                 </tr>
