@@ -3,7 +3,7 @@
 
 <head>
   <meta http-equiv="Content-Language" content="en-us">
-  <meta name="keywords" content="animal angels foundation mumbai news, times wellness, times of india, times west supplement mumbai, heard of a therapet, animal aided therapy is a hit in india as well, malathy iyer, anuradha mane, touched by an angel, shail desai">
+  <meta name="keywords" content="animal angels foundation mumbai news, times wellness, times of india, times west supplement mumbai, bombay times, heard of a therapet, animal aided therapy is a hit in india as well, malathy iyer, anuradha mane, touched by an angel, shail desai, healing with animal-assisted therapy, reza noorani">
   <meta name="description" content="Read about Animal Angels Foundation in the Times of India newspaper and its supplements">
   <title>Animal Angels Foundation featured in the Times of India and its supplements</title>
   <link rel="stylesheet" type="text/css" href="/ds.css">
@@ -95,7 +95,23 @@
                         <img border="0" src="/images/orange-paw.gif" alt="orange-paw bullet" align="middle" width="12" height="12"><br/><br/>&nbsp;
 					  </td>
                       <td width="55%">
-		                <a href="/news/toi-2013-03-03.php">Dog's day out: Airline lets pet fly with autistic master</a><br><i>Manju V</i> - Times of India on<br>March 3, 2013
+		                <a href="/news/toi-bombay-times-2014-03-07.php">Healing with animal-assisted therapy</a><br><i>Reza Noorani</i> - Bombay Times<br>March 7, 2014
+				      </td>
+                      <td width="40%" align="right">
+                        <a href="/news/toi-bombay-times-2014-03-07.php"><img border="0" src="/images/logos/logo-bombay-times.jpg" alt="Bombay Times logo" align="middle" width="150" height="40"></a><br>&nbsp;
+				      </td>
+				    </tr>
+        		    <tr>
+                      <td width="5%">&nbsp;</td>
+                      <td width="55%">&nbsp;</td>
+		    		  <td width="40%">&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td width="5%">
+                        <img border="0" src="/images/orange-paw.gif" alt="orange-paw bullet" align="middle" width="12" height="12"><br/><br/>&nbsp;
+					  </td>
+                      <td width="55%">
+		                <a href="/news/toi-2013-03-03.php">Dog's day out: Airline lets pet fly with autistic master</a><br><i>Manju V</i> - Times of India<br>March 3, 2013
 				      </td>
                       <td width="40%" align="right">
                         <a href="/news/toi-2013-03-03.php"><img border="0" src="/images/news-toi.jpg" alt="Times of India logo" align="middle" width="150" height="40"></a><br>&nbsp;
@@ -111,7 +127,7 @@
                         <img border="0" src="/images/orange-paw.gif" alt="orange-paw bullet" align="middle" width="12" height="12"><br/><br/>&nbsp;
 					  </td>
                       <td width="55%">
-		                <a href="/news/toi-west-2009-02-10.php">Touched by an Angel</a><br><i>Shail Desai</i> - Times of India (West supplement) on February 10, 2009
+		                <a href="/news/toi-west-2009-02-10.php">Touched by an Angel</a><br><i>Shail Desai</i> - Times of India (West supplement)<br>February 10, 2009
 				      </td>
                       <td width="40%" align="right">
                         <a href="/news/toi-west-2009-02-10.php"><img border="0" src="/images/news-toi-west.gif" alt="Times of India (West supplement) logo" align="middle" width="150" height="72"></a><br>&nbsp;
@@ -127,7 +143,7 @@
 		        <img border="0" src="/images/orange-paw.gif" alt="orange-paw bullet" align="middle" width="12" height="12"><br/><br/>&nbsp;
 				      </td>
                       <td width="55%">
-		                <a href="/news/toi-2007-12-14.php">Animal-aided therapy is a hit in India as well</a><br><i>Malathy Iyer and Anuradha Mane</i> - Times of India on December 14, 2007
+		                <a href="/news/toi-2007-12-14.php">Animal-aided therapy is a hit in India as well</a><br><i>Malathy Iyer and Anuradha Mane</i> - Times of India<br>December 14, 2007
 				      </td>
                       <td width="40%" align="right">
                         <a href="/news/toi-2007-12-14.php"><img border="0" src="/images/news-toi.jpg" alt="Times of India logo" align="middle" width="150" height="40"></a><br>&nbsp;
@@ -143,7 +159,7 @@
 		        		<img border="0" src="/images/orange-paw.gif" alt="orange-paw bullet" align="middle" width="12" height="12"><br/><br/>&nbsp;
 				      </td>
                       <td width="55%">
-	                <a href="/news/toi-wellness-2006-05-28.php">Heard of a therapet?</a><br>Times of India (Wellness supplement) on May 28, 2006
+	                <a href="/news/toi-wellness-2006-05-28.php">Heard of a therapet?</a><br>Times of India (Wellness supplement)<br>May 28, 2006
 				      </td>
                       <td width="40%" align="right">
                         <a href="/news/toi-wellness-2006-05-28.php"><img border="0" src="/images/news-toi-wellness.jpg" alt="Times of India (Wellness supplement) logo" align="middle" width="150" height="40"></a><br>&nbsp;

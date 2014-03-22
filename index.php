@@ -147,10 +147,7 @@
                           <p><center><b>Animal Angels featured in</b></center>
                           <br>
                           <center>
-			                <a href="/news/creature-companion-2013-09-animal-assisted-therapy-comes-to-india.php">Creature Companion</a><br />
-			                <a href="/news/business-for-all.php">Business For All</a><br />
-			                <a href="/news/afternoon-2013-09-17.php">The Afternoon</a><br />
-			                <a href="/news/goa-streets.php">Goa Streets</a><br />
+			                <a href="/news/toi-bombay-times-2014-03-07.php">Bombay Times</a><br />
                           </center>
                           </p>
                         </div>
