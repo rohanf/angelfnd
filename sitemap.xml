@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
       <loc>http://www.animalangelsfoundation.com/</loc>
-      <lastmod>2013-03-21</lastmod>
+      <lastmod>2013-03-22</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
    </url>
@@ -31,8 +31,8 @@
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>http://animalangelsfoundation.com/meet-angels/vaidehi.php</loc>
-      <lastmod>2011-08-08</lastmod>
+      <loc>http://animalangelsfoundation.com/meet-angels/harini.php</loc>
+      <lastmod>2014-03-22</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
@@ -109,6 +109,12 @@
       <priority>0.7</priority>
    </url>
    <url>
+      <loc>http://animalangelsfoundation.com/meet-angels/happy.php</loc>
+      <lastmod>2014-03-22</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+   <url>
       <loc>http://animalangelsfoundation.com/meet-angels/joy.php</loc>
       <lastmod>2011-04-23</lastmod>
       <changefreq>monthly</changefreq>
@@ -165,6 +171,12 @@
    <url>
       <loc>http://animalangelsfoundation.com/meet-angels/tojo.php</loc>
       <lastmod>2012-08-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+   <url>
+      <loc>http://animalangelsfoundation.com/meet-angels/tuffy.php</loc>
+      <lastmod>2014-03-22</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
    </url>

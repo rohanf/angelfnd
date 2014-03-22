@@ -128,12 +128,10 @@
                         <p>
                           <center>
 						    <!-- b><i><font color="red">New</font></i> Work locations</a></b><br / -->
-                            <center><b>Work Locations</b></center><br />
-			    			<a href="/angels-work/hyderabad.php">Hyderabad</a><br />
-			    			<a href="/angels-work/american-school-bombay.php">American School of Bombay</a><br />
-			    			<a href="/angels-work/little-haven.php">Little Haven Nursery, Chembur</a><br />
-			    			<a href="/angels-work/tiss.php">Tata Institute of Social Sciences</a><br />
-			    			<a href="/angels-work/treehouse.php">Treehouse Playgroup and Nursery</a><br />
+                            <center><b>Angels!</b></center><br />
+			    			<a href="/meet-angels/harini.php">Harini Iyer</a><br />
+                            <a href="/meet-angels/happy.php">Happy</a><br />
+			    			<a href="/meet-angels/tuffy.php">Tuffy</a><br />
                           </center>
                         </p>
                         </div>

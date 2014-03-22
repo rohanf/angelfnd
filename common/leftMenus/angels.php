@@ -66,9 +66,9 @@
                   <td width="43">
                   <p align="center">
                   <?
-                    ($leftNav=='vaidehi')?
-                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="mo">Vaidehi</a></td>'):
-                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="llt" href="/meet-angels/vaidehi.php">Vaidehi</a></td>')
+                    ($leftNav=='harini')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="mo">Harini</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="llt" href="/meet-angels/harini.php">Harini</a></td>')
                   ?>
                 </tr>
                 <tr>
@@ -183,6 +183,15 @@
                   <td width="43">
                   <p align="center">
                   <?
+                    ($leftNav=='happy')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="mo">Happy</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="llt" href="/meet-angels/happy.php">Happy</a></td>')
+                  ?>
+                </tr>
+                <tr>
+                  <td width="43">
+                  <p align="center">
+                  <?
                     ($leftNav=='joy')?
                     (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="mo">Joy</a></td>'):
                     (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="llt" href="/meet-angels/joy.php">Joy</a></td>')
@@ -267,6 +276,15 @@
                     ($leftNav=='tojo')?
                     (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="mo">Tojo</a></td>'):
                     (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="llt" href="/meet-angels/tojo.php">Tojo</a></td>')
+                  ?>
+                </tr>
+                <tr>
+                  <td width="43">
+                  <p align="center">
+                  <?
+                    ($leftNav=='tuffy')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="mo">Tuffy</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="llt" href="/meet-angels/tuffy.php">Tuffy</a></td>')
                   ?>
                 </tr>
                 <tr>
