@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
       <loc>http://www.animalangelsfoundation.com/</loc>
-      <lastmod>2013-03-22</lastmod>
+      <lastmod>2014-06-24</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
    </url>
@@ -590,7 +590,13 @@
    </url>
    <url>
       <loc>http://animalangelsfoundation.com/news/mumbai-mirror.php</loc>
-      <lastmod>2013-06-26</lastmod>
+      <lastmod>2014-06-14</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://animalangelsfoundation.com/news/mumbai-mirror-2014-03-24.php</loc>
+      <lastmod>2014-06-14</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>

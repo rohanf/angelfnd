@@ -3,7 +3,7 @@
 
 <head>
   <meta http-equiv="Content-Language" content="en-us">
-  <meta name="keywords" content="animal angels foundation mumbai news, mumbai mirror, animal assisted therapy comforts mentally challenged patients, ashwini gangal, angel therapy, kenneth lobo, bombay buck, power to heal, vikas hotwani, power to heal, pawsitive action mumbai mirror, pawsitive action, ankit ajmera">
+  <meta name="keywords" content="animal angels foundation mumbai news, mumbai mirror, pet puja, a friend in deed, mitali parekh, animal assisted therapy comforts mentally challenged patients, ashwini gangal, angel therapy, kenneth lobo, bombay buck, power to heal, vikas hotwani, power to heal, pawsitive action mumbai mirror, pawsitive action, ankit ajmera">
   <meta name="description" content="Animal Angels Foundation featured in the Mumbai Mirror and its supplements - Power to heal, Animal assisted therapy comforts mentally challenged patients, angels therapy, pawsitive action">
   <title>Animal Angels Foundation featured in the Mumbai Mirror</title>
   <link rel="stylesheet" type="text/css" href="/ds.css">
@@ -90,6 +90,18 @@
                   </table>
 
                   <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber11">
+                    <tr>
+			 	      <td width="5%">
+					      <img border="0" src="/images/orange-paw.gif" alt="orange-paw bullet" align="middle" width="12" height="12"><br>&nbsp;
+				      </td>
+                      <td width="95%">
+	        		      <a href="/news/mumbai-mirror-2014-03-24.php">Pet Puja: A friend in deed</a><br><i>Mitali Parekh - on March 24, 2014</i>
+				      </td>
+				    </tr>
+        	    	<tr>
+                      <td width="5%">&nbsp;</td>
+                      <td width="95%">&nbsp;</td>
+                    </tr>
                     <tr>
 			 	      <td width="5%">
 					      <img border="0" src="/images/orange-paw.gif" alt="orange-paw bullet" align="middle" width="12" height="12"><br>&nbsp;
