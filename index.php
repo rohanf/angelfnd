@@ -147,6 +147,12 @@
                           <center>
 			                <a href="/news/mumbai-mirror-2014-03-24.php">Mumbai Mirror</a><br />
 			                <a href="/news/toi-bombay-times-2014-03-07.php">Bombay Times</a><br />
+                            <br /><br />
+                            <b>Animals at work</b></center>
+                          <br>
+                          <center>
+			                <a href="/angels-work/niraamayaa.php">Niraamayaa</a><br />
+			                <a href="/angels-work/mann-health-centre.php">Mann Health Centre</a><br />
                           </center>
                           </p>
                         </div>

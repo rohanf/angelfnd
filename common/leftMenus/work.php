@@ -137,6 +137,16 @@
                 </tr>
 
                 <tr>
+                  <td width="22">
+                  <p align="center">
+                  <?
+                    ($leftNav=='niraamayaa')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="mo">Niraamayaa</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="llt" href="/angels-work/niraamayaa.php">Niraamayaa</a></td>')
+                  ?>
+                </tr>
+
+                <tr>
                   <td width="22"><br>&nbsp;</td>
                   <td width="162"><a class="llt-heading"><u>Mental Health Centres</u></a></td>
                 </tr>
@@ -158,6 +168,16 @@
                     ($leftNav=='manav')?
                     (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="mo">Manav Foundation</a></td>'):
                     (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="llt" href="/angels-work/manav-foundation.php">Manav Foundation</a></td>')
+                  ?>
+                </tr>
+
+                <tr>
+                  <td width="22">
+                  <p align="center">
+                  <?
+                    ($leftNav=='mann-health-centre')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="mo">Mann Health Centre</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="llt" href="/angels-work/mann-health-centre.php">Mann Health Centre</a></td>')
                   ?>
                 </tr>
 
