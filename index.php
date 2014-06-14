@@ -162,8 +162,26 @@
                 <td width="100%" height="10">&nbsp;</td>
               </tr>
 
-              <tr>
-                <td width="520" height="330"><a href="/workshops/bow-wow.php"><img border="0" src="/images/workshop-banner.jpg" title="Inquire about our workshops" alt="Inquire about our workshops" align="left" width="520" height="330"></td>
+			  <tr>
+              	<td>
+                	<table cellpadding="10" cellspacing="0" style="border:3px ridge orange;">
+                    	<tr>
+                        	<td colspan="2" style="text-align: center">Watch our canine therapists work their magic!</td>
+                        </tr>
+                    	<tr>
+                        	<td>
+                            	<p align="center">with Children</p>
+                                <a target="_blank" href="https://www.youtube.com/watch?v=MHBg5nfAjU4"><img src="http://img.youtube.com/vi/MHBg5nfAjU4/0.jpg" width="200" height="'150" alt="Animal Assisted Therapy with Children on YouTube" title="Animal Assisted Therapy with Children on YouTube"></a>
+                            	<!-- iframe width="200" height="150" src="//www.youtube.com/embed/MHBg5nfAjU4" frameborder="0" allowfullscreen></iframe -->
+                            </td>
+                        	<td>
+                            	<p align="center">with Adults</p>
+                                <a target="_blank" href="https://www.youtube.com/watch?v=JKQgxOCnGRs"><img src="http://img.youtube.com/vi/JKQgxOCnGRs/0.jpg" alt="Animal Assisted Therapy with Adults on YouTube" title="Animal Assisted Therapy with Adults on YouTube" width="267" height="150" /></a>
+                            	<!-- iframe width="267" height="150" src="//www.youtube.com/embed/JKQgxOCnGRs" frameborder="0" allowfullscreen></iframe -->
+                            </td>
+                        </tr>
+                    </table>
+                </td>
               </tr>
               <tr>
                 <td width="100%" height="10">&nbsp;</td>
