@@ -46,7 +46,7 @@
                   <p align="center">
                   <?
                     ($leftNav=='american-school-bombay')?
-                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="mo">American School of Bombay</a></td>'):
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="mo">American School of<br>Bombay</a></td>'):
                     (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="llt" href="/angels-work/american-school-bombay.php">American School of<br>Bombay</a></td>')
                   ?>
                 </tr>
@@ -55,9 +55,19 @@
                   <td width="22">
                   <p align="center">
                   <?
-                    ($leftNav=='jbcn')?
-                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="mo">JBCN PAN Academy</a></td>'):
-                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="llt" href="/angels-work/jbcn.php">JBCN PAN Academy</a></td>')
+                    ($leftNav=='oberoi-international-school')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="mo">Oberoi International School</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="llt" href="/angels-work/oberoi-international-school.php">Oberoi International School</a></td>')
+                  ?>
+                </tr>
+
+                <tr>
+                  <td width="22">
+                  <p align="center">
+                  <?
+                    ($leftNav=='aditya-birla-integrated-school')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="mo">Aditya Birla Integrated School</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="llt" href="/angels-work/aditya-birla-integrated-school.php">Aditya Birla Integrated<br>School</a></td>')
                   ?>
                 </tr>
 
@@ -67,7 +77,7 @@
                   <?
                     ($leftNav=='saas')?
                     (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br />&nbsp;</td><td width="162"><a class="mo">Skills and Ability School (Nerul and Mulund)</a></td>'):
-                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br />&nbsp;</td><td width="162"><a class="llt" href="/angels-work/saas.php">Skills and Ability School (Nerul and Mulund)</a></td>')
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br />&nbsp;</td><td width="162"><a class="llt" href="/angels-work/saas.php">Skills and Ability School<br>(Nerul and Mulund)</a></td>')
                   ?>
                 </tr>
 
@@ -75,9 +85,9 @@
                   <td width="22">
                   <p align="center">
                   <?
-                    ($leftNav=='maasti-ki-paathshaala')?
-                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="mo">Maasti Ki Paathshaala, Goregaon</a></td>'):
-                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="llt" href="/angels-work/maasti-ki-paathshaala.php">Maasti Ki Paathshaala, Goregaon</a></td>')
+                    ($leftNav=='lakshdham-counselling-centre')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="mo">Lakshdham Counselling Centre, Goregaon</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="llt" href="/angels-work/lakshdham-counselling-centre.php">Lakshdham Counselling Centre, Goregaon</a></td>')
                   ?>
                 </tr>
 
@@ -86,7 +96,7 @@
                   <p align="center">
                   <?
                     ($leftNav=='seva-daan-chembur')?
-                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="mo">Seva Daan School (Chembur)</a></td>'):
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="mo">Seva Daan School<br>(Chembur)</a></td>'):
                     (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="llt" href="/angels-work/seva-daan.php">Seva Daan School<br>(Chembur)</a></td>')
                   ?>
                 </tr>
@@ -112,6 +122,36 @@
                 </tr>
 
                 <tr>
+                  <td width="22">
+                  <p align="center">
+                  <?
+                    ($leftNav=='jai-vakeel')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="mo">Jai Vakeel School, Parel</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="llt" href="/angels-work/jai-vakeel.php">Jai Vakeel School, Parel</a></td>')
+                  ?>
+                </tr>
+
+                <tr>
+                  <td width="22">
+                  <p align="center">
+                  <?
+                    ($leftNav=='apne-aap')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="mo">Apne Aap Women\'s Collective</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="llt" href="/angels-work/apne-aap-womens-collective.php">Apne Aap Women\'s<br>Collective</a></td>')
+                  ?>
+                </tr>
+
+                <tr>
+                  <td width="22">
+                  <p align="center">
+                  <?
+                    ($leftNav=='inodai-waldorf')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="mo">Inodai Waldorf School</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="llt" href="/angels-work/inodai-waldorf-school.php">Inodai Waldorf School</a></td>')
+                  ?>
+                </tr>
+
+                <tr>
                   <td width="22"><br>&nbsp;</td>
                   <td width="162"><a class="llt-heading"><u>Kindergartens</u></a></td>
                 </tr>
@@ -132,17 +172,7 @@
                   <?
                     ($leftNav=='little-haven')?
                     (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="mo">Little Haven Nursery, Chembur</a></td>'):
-                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="llt" href="/angels-work/little-haven.php">Little Haven Nursery, Chembur</a></td>')
-                  ?>
-                </tr>
-
-                <tr>
-                  <td width="22">
-                  <p align="center">
-                  <?
-                    ($leftNav=='niraamayaa')?
-                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="mo">Niraamayaa</a></td>'):
-                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="llt" href="/angels-work/niraamayaa.php">Niraamayaa</a></td>')
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="llt" href="/angels-work/little-haven.php">Little Haven Nursery,<br>Chembur</a></td>')
                   ?>
                 </tr>
 
@@ -200,6 +230,16 @@
                   <td width="22">
                   <p align="center">
                   <?
+                    ($leftNav=='xavier-and-sophia')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="mo">Xavier and Sophia College</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="llt" href="/angels-work/xavier-and-sophia.php">Xavier and Sophia College</a></td>')
+                  ?>
+                </tr>
+
+                <tr>
+                  <td width="22">
+                  <p align="center">
+                  <?
                     ($leftNav=='tiss')?
                     (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="mo">Tata Institute of Social Sciences</a></td>'):
                     (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"><br>&nbsp;</td><td width="162"><a class="llt" href="/angels-work/tiss.php">Tata Institute of Social Sciences</a></td>')
@@ -226,6 +266,7 @@
                   ?>
                 </tr>
 
+<!-- Other cities
                 <tr>
                   <td width="22"><br>&nbsp;</td>
                   <td width="162"><a class="llt-heading"><u>Other Cities</u></a></td>
@@ -250,6 +291,7 @@
                     (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="162"><a class="llt" href="/angels-work/nashik.php">Nashik</a></td>')
                   ?>
                 </tr>
+End other cities -->
 
               </table>
               </center>

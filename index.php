@@ -120,6 +120,7 @@
 -->
 
 <!-- BEGIN Double News -->
+<!--
                         <div class="halfCurvy">
                           <em id="ctl"><b>&bull;</b></em>
                           <em id="cbl"><b>&bull;</b></em>
@@ -127,7 +128,6 @@
                           <em id="cbr"><b>&bull;</b></em>
                         <p>
                           <center>
-						    <!-- b><i><font color="red">New</font></i> Work locations</a></b><br / -->
                             <center><b>Angels!</b></center><br />
 			    			<a href="/meet-angels/harini.php">Harini Iyer</a><br />
                             <a href="/meet-angels/happy.php">Happy</a><br />
@@ -162,10 +162,39 @@
                   </div>
                 </td>
               </tr>
+-->
 <!-- END Double News -->
+
+                      </td>
+                      <td>
+                      </td>
+                    </tr>
+                  </table>
+                  </div>
+                </td>
+              </tr>
 
               <tr>
                 <td width="100%" height="10">&nbsp;</td>
+              </tr>
+
+              <tr>
+                <td>
+                  <div align="center">
+                  <table border="3" cellpadding="5" cellspacing="1" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber9">
+                    <tr>
+                      <td width="100%" class="tch">
+                      	<p align="center"><u>Introducing a complete couse in Animal-Assisted Therapy</u></p>
+                        <p align="justify"><span style="font-weight: 400">
+		          		Animal Angels Foundation is now offering an <b>intensive course in animal-assisted therapy.</b> This will enable you to start a rewarding new career in animal-assisted therapy and includes theory and practical classes. Please email us at <a href="mailto:AnimalAngelsIndia@gmail.com">AnimalAngelsIndia@gmail.com</a> </td>
+                    </tr>
+                   </table>
+                   </div>
+                 </td>
+              </tr>
+
+              <tr>
+                <td width="100%" height="20">&nbsp;</td>
               </tr>
 
 			  <tr>
@@ -193,12 +222,34 @@
                 <td width="100%" height="10">&nbsp;</td>
               </tr>
 
+
               <tr>
                 <td width="100%">
-                  <p align="justify"><b>Animal Angels Foundation</b> is a Mumbai based organization founded by <b><a href="/meet-angels/rohini.php">Rohini Fernandes</a></b> and <b><a href="/meet-angels/radhika.php">Radhika Nair</a></b> who are clinical psychologists, certified practitioners of <a href="/about-aat/aat.php">animal-assisted therapy</a> and professional dog trainers.
-                  <br /><br />
+                  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="90%" id="AutoNumber8">
+	                <tr>
+		      		  <td valign="top" width="95">
+                        <a target="_blank" href="http://www.facebook.com/pages/Animal-Angels-Foundation/254481607911337"><img border="0" src="/images/f.png" title="Facebook" alt="Facebook" align="right" width="75" height="75"></a>
+                      </td>
+                      <td valign="middle">
+						<div id="fb-root"></div>
+						<script>(function(d, s, id) {
+						  var js, fjs = d.getElementsByTagName(s)[0];
+						  if (d.getElementById(id)) return;
+						  js = d.createElement(s); js.id = id;
+						  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+						  fjs.parentNode.insertBefore(js, fjs);
+						}(document, 'script', 'facebook-jssdk'));</script>
+						<div class="fb-like" data-href="http://www.facebook.com/pages/Animal-Angels-Foundation-India/254481607911337" data-send="false" data-layout="box_count" data-width="100" data-show-faces="true" data-font="arial"></div>
+                	  </td>
+                      <td colspan="2" style="text-align: center">
+                      	<a target="_blank" href="http://www.facebook.com/pages/Animal-Angels-Foundation/254481607911337">Animal Angels on Facebook!</a></td>
+                    </tr>
+                  </table>
                 </td>
               </tr>
+
+<!-- Facebook and Twitter -->
+<!--
               <tr>
                 <td width="100%">
                   <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="90%" id="AutoNumber8">
@@ -234,6 +285,9 @@
                   </table>
                 </td>
               </tr>
+-->
+<!-- End Facebook and Twitter -->
+
               <tr>
                 <td width="100%" height="5">&nbsp;</td>
               </tr>
@@ -244,7 +298,7 @@
                 	<table cellpadding="10" cellspacing="0" style="border:3px ridge orange;">
 		              <tr>
         		        <td width="100%">
-                		  <p align="justify">Recently, Animal Angels Foundation was featured in a short documentary directed by Pooja Iyengar and commissioned by the Public Service Broadcasting Trust (PSBT). <b>We won the award for the best documentary film at the SCRIPT international short film festival 2014, Kerala.</b> Check out the trailer!</p>
+                		  <p align="justify"><b>'Dr Paws, a short documentary about our Angels at work has won the 1st price at WeCare, a United Nations film festival. It has also been awarded the best film at the Script Film Festival in Cochin and at the International Film Festival in Kerala.</b></p>
                           <iframe width="500" height="281" src="//www.youtube.com/embed/exEtwg69H1w" frameborder="0" allowfullscreen></iframe>
 		                </td>
         		      </tr>
@@ -253,6 +307,35 @@
               </tr>
 
 
+              <tr>
+                <td width="100%" height="20">&nbsp;</td>
+              </tr>
+
+
+			  <tr>
+              	<td>
+                	<table cellpadding="10" cellspacing="0" style="border:3px ridge orange;">
+		              <tr>
+        		        <td width="100%">
+                  			<p align="justify">We were shortlisted by <a target="_blank" href="http://www.maricoinnovationfoundation.org/">Marico Innovation Foundation</a> as one of the top twenty-five innovations in India for the <a target="_blank" href="http://www.maricoinnovationfoundation.org/awards/pdfs/Social_Innovations.pdf">Innovation for India Awards 2007-2008</a>. Rohini and Radhika were also nominated as <a target="_blank" href="http://www.mtvyouthicon.in.com/nominee.php?id=46636">MTV Youth Icons of the year 2008</a> for their work at Animal Angels Foundation. We were nominated for the <a target="_blank" href="http://hotteststartups.in/viewandvote.do?method=fetch&businessFn=viewandvote&startupId=753">TATA NEN Startups Awards 2008</a>. Our organization was ranked <b>241 from 600</b> different startup companies in India!
+				  			<p align="justify">We were chosen for the <a target="_blank" href="http://www.paragon100.asia/index.php/component/content/article/51-india/162-rohini-fernandes-and-radhika-nair">Paragon 100 Fellowship (2009-2010)</a> organised by The Foundation for Youth Social Entrepreneurship (FYSE). Rohini and Radhika were part of 100 young outstanding social change makers and entrepreneurs chosen from the Asia Pacific region.				                		</td>
+        		      </tr>
+                    </table>
+                 </td>
+              </tr>                        
+
+                        
+              <tr>
+                <td width="100%" height="20">&nbsp;</td>
+              </tr>
+
+
+              <tr>
+                <td width="100%">
+                  <p align="justify"><b>Animal Angels Foundation</b> is a Mumbai based organization founded by <b><a href="/meet-angels/rohini.php">Rohini Fernandes</a></b> and <b><a href="/meet-angels/radhika.php">Radhika Nair</a></b> who are clinical psychologists, certified practitioners of <a href="/about-aat/aat.php">animal-assisted therapy</a> and professional dog trainers.
+                </td>
+              </tr>
+              
               <tr>
                 <td>
                   <p align="justify"><b>Animal Angels Foundation</b> is the <b><i>first</i></b> organization in India working in the field of animal-assisted therapy.
@@ -274,36 +357,15 @@
               <tr>
                 <td width="100%">
                   <p align="justify">We even work with kindergartens and schools where our therapy pets assist in educating children on how to interact with animals.
-                  <p align="justify">We also have a team of volunteers who along with their therapy dogs and cats do animal-assisted visits to places like orphanages and old age homes.
                 </td>
               </tr>
 
-              <tr>
-                <td>
-                  <div align="center">
-                  <table border="3" cellpadding="5" cellspacing="1" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber9">
-                    <tr>
-                      <td width="100%" class="tch">
-                      	<p align="center"><u>Introducing a complete couse in Animal-Assisted Therapy</u></p>
-                        <p align="justify"><span style="font-weight: 400">
-		          		Animal Angels Foundation is now offering an <b>intensive course in animal-assisted therapy.</b> This <b>3 month</b> course will enable you to start a rewarding new career in animal-assisted therapy and includes theory and practical classes. Please email us at <a href="mailto:AnimalAngelsIndia@gmail.com">AnimalAngelsIndia@gmail.com</a> with your details.</td>
-                    </tr>
-                   </table>
-                   </div>
-                 </td>
-              </tr>
-
-              <tr>
-                <td width="100%">
-                  <p align="justify">We were shortlisted by <a target="_blank" href="http://www.maricoinnovationfoundation.org/">Marico Innovation Foundation</a> as one of the top twenty-five innovations in India for the <a target="_blank" href="http://www.maricoinnovationfoundation.org/awards/pdfs/Social_Innovations.pdf">Innovation for India Awards 2007-2008</a>. Rohini and Radhika were also nominated as <a target="_blank" href="http://www.mtvyouthicon.in.com/nominee.php?id=46636">MTV Youth Icons of the year 2008</a> for their work at Animal Angels Foundation. We were nominated for the <a target="_blank" href="http://hotteststartups.in/viewandvote.do?method=fetch&businessFn=viewandvote&startupId=753">TATA NEN Startups Awards 2008</a>. Our organization was ranked <b>241 from 600</b> different startup companies in India!
-				  <p align="justify">We were chosen for the <a target="_blank" href="http://www.paragon100.asia/index.php/component/content/article/51-india/162-rohini-fernandes-and-radhika-nair">Paragon 100 Fellowship (2009-2010)</a> organised by The Foundation for Youth Social Entrepreneurship (FYSE). Rohini and Radhika were part of 100 young outstanding social change makers and entrepreneurs chosen from the Asia Pacific region.
-                </td>
-              </tr>
 
               <tr>
                 <td width="100%">&nbsp;</td>
               </tr>
               <tr>
+
 
               <tr>
                 <td>
@@ -323,12 +385,6 @@
                 <td width="100%">&nbsp;</td>
               </tr>
               <tr>
-
-              <tr>
-                <td width="100%">
-                  <p align="justify">Our therapy pets assist us in helping people cope with life's day-to-day challenges such as loss, stress, loneliness and illness, in learning new skills and in speeding up their recovery process.
-                </td>
-              </tr>
 
               <tr>
                 <td width="100%">&nbsp;</td>

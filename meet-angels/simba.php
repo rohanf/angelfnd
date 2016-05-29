@@ -80,9 +80,14 @@
                     <tr>
                       <td width="100%">
                       <p align="justify">
-                      <img border="0" src="/images/pic-simba.jpg" alt="Simba the therapy cat at Animal Angels Foundation" align="left" hspace="10" width="130" height="249"></p>
-                      The cool cat in this group of canines, I am a one and half year old, in-house resident of a rehabilitative centre that works with adults.
-                      <p align="justify">Besides playing with my toys and eating treats, I enjoy interacting with people. I sit on their laps and purrrrrr while they talk to my co-therapists, pet me, brush me and teach me fun tricks!</td>
+                      <img border="0" src="/images/about/simba.jpg" alt="Simba the therapy cat at Animal Angels Foundation" align="left" hspace="10" width="250" height="377">
+                      We lost darling Simba, our first feline therapist on July 12th, 2015.</p>
+                      <p align="justify">Simba found his way to <a href="http://animalangelsfoundation.com/angels-work/manav-foundation.php">Manav Foundation</a> (a day-care center for adults with emotional issues) as a lost little kitten and quickly settled into everyone's heart.</p>
+                      <p align="justify">Simba had 2 sides to his personality, he was a typical cat - lots of attitude and opinions! But the minute he entered the therapy room he transformed into a loving, affectionate and empathetic co-therapist.</p>
+                      <p align="justify">He would curl up into the client's laps and stare at them with those beautiful understanding eyes. He could reach into the depths of their soul and give them hope and courage to face another day.</p>
+                      <p align="justify">Simba's affectionate ways converted even sceptics into cat lovers. He had clients and staff scrambling to fulfil his every needs, which actually were very few - lots of food and even more love!</p>
+                      <p align="justify">It has been 10 years since he touched our lives. We miss you Simba. We know you are in a better place purring away and always watching over us.</p>
+                      </td>
                     </tr>
                   </table>
                 </td>

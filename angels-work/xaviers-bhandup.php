@@ -3,7 +3,7 @@
 
 <head>
   <meta http-equiv="Content-Language" content="en-us">
-  <meta name="keywords" content="animal angels foundation, animal assisted therapy, therapy animals, animal assisted activities, trained therapy animals, trained animals, therapy pets, animal assisted therapy services, animal angels foundation mumbai, st xavier's high school bhandup, xavieran gems, therapy dog oscar, improve social, cognitive and motor skills">
+  <meta name="keywords" content="animal angels foundation, animal assisted therapy, therapy animals, animal assisted activities, trained therapy animals, trained animals, therapy pets, animal assisted therapy services, animal angels foundation mumbai, st xavier's high school bhandup, xavieran gems, therapy dog oscar, therapy dog joey, improve social, cognitive and motor skills">
   <meta name="description" content="St. Xavier's High School in Bhandup helps mainstream children with developmental disabilities. The Xavieran Gems project helps integrate them into main school.">
   <title>St. Xavier's High School, Bhandup - Animal Angels Foundation</title>
   <link rel="stylesheet" type="text/css" href="/ds.css">
@@ -79,11 +79,10 @@
                     </tr>
                     <tr>
                       <td width="100%">
-                      <p align="center">
-                      <img border="0" src="/images/pic-xaviers-bhandup.jpg" alt="Therapy dog Oscar in the Xavieran Gems project" hspace="10" vspace="5" width="400" height="213"></p>
                       <p align="justify">
-                      This school mainstreams children with developmental disabilities. They have a 'Xavieran Gems' project where these children are given various therapies to help them get integrated into the main school.</p>
-                      <p align="justify">Therapy dog Oscar works with these special children to help improve their social, cognitive and motor skills so that they find it easier to cope in class with the other children.</p>
+                      <img border="0" src="/images/angels-work/xaviers-bhandup/xaviers-bhandup-1.jpg" alt="Therapy session at St Xavier's school, Bhandup" align="left" hspace="10" vspace="2" width="250" height="188">This school mainstreams children with developmental disabilities. They have a 'Xavieran Gems' project where these children are given various therapies to help them get integrated into the main school.</p>
+                      <p align="justify">Therapy dogs Oscar and Joey work with these special children to help improve their social, cognitive and motor skills so that they find it easier to cope in class with the other children.</p><br>
+                      <img border="0" src="/images/angels-work/xaviers-bhandup/xaviers-bhandup-2.jpg" alt="Therapy session at St Xavier's school, Bhandup" align="center" hspace="10" vspace="2" width="500" height="310">
                       </td>
                     </tr>
                   </table>

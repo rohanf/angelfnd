@@ -57,6 +57,15 @@
                   <td width="43">
                   <p align="center">
                   <?
+                    ($leftNav=='akiraa')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="mo">Akiraa</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="llt" href="/meet-angels/akiraa.php">Akiraa</a></td>')
+                  ?>
+                </tr>
+                <tr>
+                  <td width="43">
+                  <p align="center">
+                  <?
                     ($leftNav=='janvi')?
                     (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="mo">Janvi</a></td>'):
                     (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="llt" href="/meet-angels/janvi.php">Janvi</a></td>')
@@ -96,6 +105,15 @@
                     ($leftNav=='anna')?
                     (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="mo">Anna</a></td>'):
                     (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="llt" href="/meet-angels/anna.php">Anna</a></td>')
+                  ?>
+                </tr>
+                <tr>
+                  <td width="43">
+                  <p align="center">
+                  <?
+                    ($leftNav=='bobo')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="mo">Bobo</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="llt" href="/meet-angels/bobo.php">Bobo</a></td>')
                   ?>
                 </tr>
                 <tr>
@@ -147,6 +165,15 @@
                   <td width="43">
                   <p align="center">
                   <?
+                    ($leftNav=='coco')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="mo">Coco</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="llt" href="/meet-angels/coco.php">Coco</a></td>')
+                  ?>
+                </tr>
+                <tr>
+                  <td width="43">
+                  <p align="center">
+                  <?
                     ($leftNav=='dexter-beagle')?
                     (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="mo">Dexter the Beagle</a></td>'):
                     (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="llt" href="/meet-angels/dexter-beagle.php">Dexter the Beagle</a></td>')
@@ -186,6 +213,15 @@
                     ($leftNav=='happy')?
                     (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="mo">Happy</a></td>'):
                     (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="llt" href="/meet-angels/happy.php">Happy</a></td>')
+                  ?>
+                </tr>
+                <tr>
+                  <td width="43">
+                  <p align="center">
+                  <?
+                    ($leftNav=='joey')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="mo">Joey</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="llt" href="/meet-angels/joey.php">Joey</a></td>')
                   ?>
                 </tr>
                 <tr>
@@ -237,6 +273,24 @@
                   <td width="43">
                   <p align="center">
                   <?
+                    ($leftNav=='obi')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="mo">Obi</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="llt" href="/meet-angels/obi.php">Obi</a></td>')
+                  ?>
+                </tr>
+                <tr>
+                  <td width="43">
+                  <p align="center">
+                  <?
+                    ($leftNav=='oliver')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="mo">Oliver</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="llt" href="/meet-angels/oliver.php">Oliver</a></td>')
+                  ?>
+                </tr>
+                <tr>
+                  <td width="43">
+                  <p align="center">
+                  <?
                     ($leftNav=='oscar')?
                     (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="mo">Oscar</a></td>'):
                     (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="llt" href="/meet-angels/oscar.php">Oscar</a></td>')
@@ -273,6 +327,15 @@
                   <td width="43">
                   <p align="center">
                   <?
+                    ($leftNav=='spice')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="mo">Spice</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="llt" href="/meet-angels/spice.php">Spice</a></td>')
+                  ?>
+                </tr>
+                <tr>
+                  <td width="43">
+                  <p align="center">
+                  <?
                     ($leftNav=='tojo')?
                     (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="mo">Tojo</a></td>'):
                     (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="llt" href="/meet-angels/tojo.php">Tojo</a></td>')
@@ -294,6 +357,15 @@
                     ($leftNav=='zed')?
                     (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="mo">Zed</a></td>'):
                     (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="llt" href="/meet-angels/zed.php">Zed</a></td>')
+                  ?>
+                </tr>
+                <tr>
+                  <td width="43">
+                  <p align="center">
+                  <?
+                    ($leftNav=='zoe')?
+                    (print'<img border="0" src="/images/bullet-mo.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="mo">Zoe</a></td>'):
+                    (print'<img border="0" src="/images/bullet.gif" alt="rectangular bullet" width="4" height="7"></td><td width="141"><a class="llt" href="/meet-angels/zoe.php">Zoe</a></td>')
                   ?>
                 </tr>
               </table>

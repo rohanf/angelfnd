@@ -124,7 +124,7 @@
                         <table border="0" cellpadding="5" cellspacing="1" style="border-collapse: collapse" bordercolor="#111111" width="55%" id="AutoNumber11">
                           <tr>
                             <td width="100%" class="th">
-                            <p align="center">We provide consultation services at:</td>
+                            <p align="center">Office Address</td>
                           </tr>
                           <tr>
                             <td width="100%" class="tch">

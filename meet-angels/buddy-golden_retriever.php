@@ -80,9 +80,9 @@
                     <tr>
                       <td width="100%">
                       <p align="justify">
-                      <img border="0" src="/images/pic-buddy-golden_retriever.jpg" alt="Golden retriever Buddy the therapy dog at Animal Angels Foundation" align="left" hspace="10" width="214" height="210"></p>
-                      <p align="justify">I am a two-year-old Golden Retriever and live in Nasik. With a face like mine people fall in love with me in an instant! I love meeting new people especially children with whom I can run about and play.
-                      <p align="justify">The best trick that I can do is give people hugs and everybody can't seem to get enough of that. As my name suggests I am here to make a lot of buddies!</td>
+                      <img border="0" src="/images/about/buddy-golden-retriever.jpg" alt="Golden retriever Buddy the therapy dog with his sister Anandi" align="left" hspace="10" width="250" height="395"></p>
+                      <p align="justify">Our canine therapist buddy passed away on August 8th, 2015 at the age of 10. Buddy was our first therapy dog outside Mumbai who began working along with his mom Vinata Iyer at a special school in Nashik. The children would wait eagerly for their 'Buddy' who would visit them every week and help them improve their motor and social skills.</p>
+                      <p align="justify">Buddy retired a few years ago when he shifted with his family to the United States and he enjoyed his retirement with lots of playing in the snow and long runs in the parks. He is dearly missed by all our Angels -- human and canine alike.</td>
                     </tr>
                   </table>
                 </td>

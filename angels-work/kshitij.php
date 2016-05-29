@@ -3,7 +3,7 @@
 
 <head>
   <meta http-equiv="Content-Language" content="en-us">
-  <meta name="keywords" content="animal angels foundation, animal assisted therapy, therapy animals, animal assisted activities, trained therapy animals, therapy pets, animal assisted therapy services, animal angels foundation mumbai, therapy dog angel, kshitij mental health centre, family welfare agency, day care centre with rehabilitation facilities, occupational therapy, individual and group counseling, family support group, sheltered workshop, pharmacological treatment, recovering mentally ill, improve their social and verbal skills, unconditional love and affection">
+  <meta name="keywords" content="animal angels foundation, animal assisted therapy, therapy animals, animal assisted activities, trained therapy animals, therapy pets, animal assisted therapy services, animal angels foundation mumbai, kshitij mental health centre, family welfare agency, day care centre with rehabilitation facilities, occupational therapy, individual and group counseling, family support group, sheltered workshop, pharmacological treatment, recovering mentally ill, improve their social and verbal skills, unconditional love and affection">
   <meta name="description" content="Kshitij Mental Health Centre is a project of the Family Welfare Agency and works with recovering mentally ill clients. It has a day care centre with rehabilitation facilities through occupational therapy, individual and group counseling, family support group, sheltered workshop and pharmacological treatment.">
   <title>Kshitij Mental Health Centre - Animal Angels Foundation</title>
   <link rel="stylesheet" type="text/css" href="/ds.css">
@@ -82,7 +82,7 @@
                       <p align="center">
                       <img border="0" src="/images/pic-kshitij.jpg" alt="Therapy dog Angel in a group therapy session at Kshitij Mental Health centre" hspace="0" vspace="7" width="400" height="218"></p>
                       <p align="justify">Kshitij Mental Health Centre, a project of the Family Welfare Agency works with recovering mentally ill clients. Kshitij has a day care centre with rehabilitation facilities for the recovering mentally ill through occupational therapy, individual and group counseling, family support group, sheltered workshop and pharmacological treatment.</p>
-                      <p align="justify">Therapy dog Angel works at Kshitij in group sessions with the clients. She helps them improve their social and verbal skills. Through various group activities that involve Angel, the clients have also increased their self-confidence and self-esteem. Receiving unconditional love and affection from Angel enables the clients to be more at ease in expressing themselves, especially emotionally.</p>
+                      <p align="justify">Our therapy dogs work at Kshitij in group sessions with the clients. She helps them improve their social and verbal skills. Through various group activities that involve therapy dogs, the clients have also increased their self-confidence and self-esteem. Receiving unconditional love and affection from therapy pets enables the clients to be more at ease in expressing themselves, especially emotionally.</p>
                       </td>
                     </tr>
                   </table>

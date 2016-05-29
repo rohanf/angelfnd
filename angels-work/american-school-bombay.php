@@ -93,7 +93,7 @@
                     </tr>
                     <tr>
                       <td width="100%">
-                      <p align="justify" style="margin-left:20">Therapy dog Angel is a regular visitor at the American School of Bombay. She has worked with the Second and Fifth Graders as well as the early childhood class children to help them understand how animals can be used positively for human betterment. Her co therapists Rohini and Radhika also presented slide shows to the students about how animals enhance our lives and how to care for and take responsibility for them.</td>
+                      <p align="justify" style="margin-left:20">Our therapy dogs are regulars at the American School of Bombay. They work with the first to fifth Graders as well as the early childhood class children to help them understand how animals can be used positively for human betterment. Our therapy pets assist in educating the children on how to interact with animals.</td>
                     </tr>
                   </table>
                 </td>

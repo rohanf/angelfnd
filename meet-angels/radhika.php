@@ -80,12 +80,10 @@
                     <tr>
                       <td width="100%">
                       <p align="justify">
-                      <img border="0" src="/images/pic-radhika.jpg" alt="Radhika Nair with her therapet" align="left" hspace="10" width="180" height="245">Hi! I'm Radhika Nair, a Clinical Psychologist and a certified practitioner of Animal-Assisted Therapy from the University of North Texas and also from Delta Society, USA.</p>
-                      <p align="justify">I am an animal lover and always wanted to incorporate animals in my line of work. This is because I believe in the power of animals in healing people. They come with no assumptions, no preconceived notions, just unconditional love and overflowing with energy. </p>
-                      <p align="justify">They are not discriminating about caste, colour, creed, deformities or failures and somehow their sixth sense always reaches out to a soul in need. </p>
-                      <p align="justify">All these qualities that they exhibit I believe can be channelized by our therapy animals to alleviate the conditions of people in need of special care and attention.</p>
-                      <p align="justify">I had read up a lot about this therapy and was keen to start up this kind of work and was looking around for like-minded people. As luck would have it I heard about Rohini and her organization through a common client and we got in touch with each other.</p>
-                      <p align="justify">Our belief and firm faith in <b>Animal Angels Foundation</b> and animal-assisted therapy along with our professional qualifications as clinical psychologists provides us the platform to further use this methodology in India through <b>Animal Angels Foundation.</b></td>
+                      <img border="0" src="/images/pic-radhika.jpg" alt="Radhika Nair with her therapet" align="left" hspace="10" width="180" height="245">Radhika Nair is a Clinical Psychologist and a certified practitioner of Animal-Assisted Therapy from the University of North Texas and also from Delta Society (now Pet Partners), USA.</p>
+                      <p align="justify">As an animal lover she always wanted to incorporate animals in her line of work as she believes in the power of animals to heal people. Her philosphy is that animals come with no assumptions, no preconceived notions, just unconditional love and overflowing energy. Radhika wanted to channelize all these qualities of animals to help people in need of special care and attention.</p>
+                      <p align="justify">She researched this therapy and was keen to connect with like-minded people. As luck would have it, she heard about Rohini and her organization through a common client and got in touch wit her.</p>
+                      <p align="justify">Radhika's belief and firm faith in animal-assisted therapy along with our professional qualifications as a clinical psychologist provided her the platform to further this methodology in India through <b>Animal Angels Foundation.</b></td>
                     </tr>
                   </table>
                 </td>

@@ -80,18 +80,6 @@
                     </tr>
                     <tr>
                       <td width="100%">
-                      <img border="0" src="/images/orange-paw.gif" alt="orange-paw bullet" align="absmiddle" width="12" height="12">&nbsp;&nbsp;<b>BOW WOW Workshops</b></td>
-                    </tr>
-                    <tr>
-                      <td width="100%">
-                      <p align="justify" style="margin-left: 20">Please click <a href="/workshops/bow-wow.php">here</a> to register your child for fun and educative workshops with our therapy dogs.</p>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td width="100%" height="30"></td>
-                    </tr>
-                    <tr>
-                      <td width="100%">
                       <img border="0" src="/images/orange-paw.gif" alt="orange-paw bullet" align="absmiddle" width="12" height="12">&nbsp;&nbsp;<b>For Kindergartens and Schools</b></td>
                     </tr>
                     <tr>
@@ -147,6 +135,19 @@
                       <td width="100%">
                       <img border="0" src="/images/pic-emotional-behavioral-problems.jpg" alt="Playing with an animal in a supervised way reduces negative behaviours" align="right" vspace="18" hspace="10" width="250" height="188" />
                       <p align="justify" style="margin-left: 20">We use animal-assisted therapy to help children with emotional or behavioural problems. Playing with an animal in a supervised way reduces negative behaviours, creates a sense of responsibility and even improves a child's ability to participate in therapeutic treatment.</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td width="100%" height="30"></td>
+                    </tr>
+                    <tr>
+                      <td width="100%">
+                      <img border="0" src="/images/orange-paw.gif" alt="orange-paw bullet" align="absmiddle" width="12" height="12">&nbsp;&nbsp;<b>Private sessions</b></td>
+                    </tr>
+                    <tr>
+                      <td width="100%">
+                      <p align="justify" style="margin-left: 20">We offer private sessions to clients in the comfort of their homes so that they may avail of the benefits of animal-assisted therapy without travelling. This is for Mumbai based clients only.</p>
+                      <p align="justify"></p>
                       </td>
                     </tr>
                   </table>

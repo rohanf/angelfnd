@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Language" content="en-us">
   <meta name="keywords" content="animal angels foundation, animal assisted therapy mumbai, therapy animals mumbai, animal assisted activities mumbai, animal assisted programs schools mumbai, trained animals mumbai, animal assisted therapy services mumbai, animal angels foundation mumbai, little haven nursery chembur">
-  <meta name="description" content="Therapy dog Angel works at Little Haven to help in introducing animals to children.">
+  <meta name="description" content="Therapets at Little Haven help in introducing animals to children.">
   <title>Little Haven Nursery, Chembur - Animal Angels Foundation</title>
   <link rel="stylesheet" type="text/css" href="/ds.css">
   <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
@@ -89,7 +89,7 @@
                     </tr>
                     <tr>
                       <td>
-                      <p align="justify" style="margin-left:20">Therapy dog Angel works at Little Haven to help in introducing animals to children. Angel educates these tiny tots on how to interact with animals and play with them.
+                      <p align="justify" style="margin-left:20">Our therapy dogs work at Little Haven to help in introducing animals to children. They educate these tiny tots on how to interact with animals and play with them.
                       </p>
                       </td>
                     </tr>

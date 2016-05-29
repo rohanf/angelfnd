@@ -91,6 +91,14 @@
                       </ul>
                       </td>
                     </tr>
+                    <tr>
+                      <td width="100%" height="5"><img border="0" src="/images/spacer.gif" alt="" width="5" height="5"></td>
+                    </tr>
+                    <tr>
+                      <td width="100%">
+                      <p align="justify">For more details about dog training please visit <a target="_blank" href="http://rohinifernandes.com/">www.rohinifernandes.com</a></p>
+                      </td>
+                    </tr>
                   </table>
                 </td>
               </tr>

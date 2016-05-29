@@ -79,10 +79,10 @@
                     </tr>
                     <tr>
                       <td width="100%">
-                      <p align="justify">
-                      <img border="0" src="/images/pic-joy.jpg" alt="Labrador Joy the therapy dog at Animal Angels Foundation" align="left" hspace="10" width="170" height="195"></p>
-                      <p align="justify">Hello! I'm Joy, a fun loving seven-year-old Labrador. As my name suggests, I bring joy and cheer into the lives of people. I love the smile that comes up on the faces of children who play with me and pet me.
-                      <p align="justify">Actually, my favorite activities, if you really ask me, are nibbling on carrots and curling up on the sofa all day. When people stop by to shake paws with me, I wag and greet them. I am most well mannered and obedient, you see!</td>
+                      <p align="center"><img border="0" src="/images/about/joy.jpg" alt="Labrador Joy the therapy dog at Animal Angels Foundation" hspace="0" width="500" height="415"></p>
+                      <p align="justify">Joy passed away in 2014 at the age of 14. He was our first volunteer therapy dog and will always be remembered for the love and happiness that he gave to so many children and senior citizens at the orphanages and old age homes he worked at.</p>
+                      <p align="center">R.I.P darling Joy</p>
+                      </td>
                     </tr>
                   </table>
                 </td>

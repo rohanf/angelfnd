@@ -79,10 +79,14 @@
                     </tr>
                     <tr>
                       <td width="100%">
-                      <p align="justify">
-                      <img border="0" src="/images/pic-angel.jpg" alt="Golden retriever Angel the therapy dog at Animal Angels Foundation" align="left" hspace="10" width="150" height="218">
-                      Hi! I am a Golden Retriever who loves food and playing with my toys! I love making new friends especially when it involves lots of games and biscuits! I work with my co-therapists to help in putting a smile on people's faces and helping them feel loved. </p>
-                      <p align="justify">In my free time I like participating in dog shows and bringing home trophies from obedience and breed shows. It's a perfect combination of beauty with brains!</td>
+                      <p align="center"><img border="0" src="/images/about/angel.jpg" alt="Golden Retriever Angel surrounded by children" hspace="0" width="500" height="375"></p>
+                      <p align="justify">Our co-founder Angel passed away on December 8th , 2014 after working with us for 10 years. Animal Angels Foundation is named after her. In 2005, she inspired us to think beyond ourselves and reach out to children with special needs to try and make their lives a little easier and better.</p>
+                      <p align="justify">She didn't stop there. In her short but very eventful life, Angel brought joy and solace to adults and senior citizens alike.</p>
+                      <p align="justify">Angel always had a twinkle in her eye. She was naughty and playful, but understanding and thoughtful at the same time. She sensed a soul in need, reached out to them and helped ease their pain.
+                      <p align="justify">Angel loved the outdoors and was a water baby from the get go. She reminded us to appreciate and find happiness in the simple things in life.</p>
+                      <p align="justify">Angel was the boss, a perfect dog, a performer, a best friend, a shoulder to cry on, a soft pillow...all rolled into one!</p>
+                      <p align="justify">She has left behind a legacy. She has taken with her a piece of our hearts.</p>
+                      </td>
                     </tr>
                   </table>
                 </td>

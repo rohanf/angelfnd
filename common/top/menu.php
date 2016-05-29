@@ -6,8 +6,8 @@
                   <a href="/">
                   <?
                     ($topNav=='home')?
-                    (print'<img border="0" src="/images/bt-home-mo.gif" class="domroll /images/bt-home-mo.gif" alt="Home Page (selected)" width="43" height="22"></a></td><script type="text/javascript">var tableHeight = 940;</script>'):
-                    (print'<img border="0" src="/images/bt-home.gif" class="domroll /images/bt-home-mo.gif" alt="Home Page" width="43" height="22"></a></td>')
+                    (print'<img border="0" src="/images/menu/bt-home-mo.gif" class="domroll /images/menu/bt-home-mo.gif" alt="Home Page (selected)" width="43" height="22"></a></td><script type="text/javascript">var tableHeight = 940;</script>'):
+                    (print'<img border="0" src="/images/menu/bt-home.gif" class="domroll /images/menu/bt-home-mo.gif" alt="Home Page" width="43" height="22"></a></td>')
                   ?>
 
                 <td width="2"><img border="0" src="/images/dv-line.gif" alt="divider" width="2" height="22"></td>
@@ -15,17 +15,17 @@
                   <a href="/meet-angels/rohini.php">
                   <?
                     ($topNav=='angels')?
-                    (print'<img border="0" src="/images/bt-meettheangels-mo.gif" class="domroll /images/bt-meettheangels-mo.gif" alt="Meet The Angels at Animal Angels Foundation (selected)" width="97" height="22"></a></td><script type="text/javascript">var tableHeight = 475;</script>'):
-                    (print'<img border="0" src="/images/bt-meettheangels.gif" class="domroll /images/bt-meettheangels-mo.gif" alt="Meet The Angels at Animal Angels Foundation" width="97" height="22"></a></td>')
+                    (print'<img border="0" src="/images/menu/about-selected.gif" class="domroll /images/menu/about-selected.gif" alt="Read all about the Angels at Animal Angels Foundation (selected)" width="97" height="22"></a></td><script type="text/javascript">var tableHeight = 475;</script>'):
+                    (print'<img border="0" src="/images/menu/about.gif" class="domroll /images/menu/about-selected.gif" alt="Read all about the Angels at Animal Angels Foundation" width="97" height="22"></a></td>')
                   ?>
 
                 <td width="2"><img border="0" src="/images/dv-line.gif" alt="divider" width="2" height="22"></td>
                 <td width="96">
-                  <a href="/about-aat/aat.php">
+                  <a href="/learn/aat.php">
                   <?
-                    ($topNav=='aat')?
-                    (print'<img border="0" src="/images/bt-aboutaat-mo.gif" class="domroll /images/bt-aboutaat-mo.gif" alt="Learn about Animal Assisted Therapy (selected)" width="96" height="22"></a></td><script type="text/javascript">var tableHeight = 340;</script>'):
-                    (print'<img border="0" src="/images/bt-aboutaat.gif" class="domroll /images/bt-aboutaat-mo.gif" alt="Learn about Animal Assisted Therapy" width="96" height="22"></a></td>')
+                    ($topNav=='learn')?
+                    (print'<img border="0" src="/images/menu/learn-selected.gif" class="domroll /images/menu/learn-selected.gif" alt="Learn about Animal Assisted Therapy (selected)" width="96" height="22"></a></td><script type="text/javascript">var tableHeight = 340;</script>'):
+                    (print'<img border="0" src="/images/menu/learn.gif" class="domroll /images/menu/learn-selected.gif" alt="Learn about Animal Assisted Therapy" width="96" height="22"></a></td>')
                   ?>
 
                 <td width="2"><img border="0" src="/images/dv-line.gif" alt="divider" width="2" height="22"></td>
@@ -33,8 +33,17 @@
                   <a href="/angels-work/american-school-bombay.php">
                   <?
                     ($topNav=='work')?
-                    (print'<img border="0" src="/images/bt-angelswork-mo.gif" class="domroll /images/bt-angelswork-mo.gif" alt="Angels at Work (selected)" width="88" height="22"></a></td><script type="text/javascript">var tableHeight = 340;</script>'):
-                    (print'<img border="0" src="/images/bt-angelswork.gif" class="domroll /images/bt-angelswork-mo.gif" alt="Angels at Work" width="88" height="22"></a></td>')
+                    (print'<img border="0" src="/images/menu/our-work-selected.gif" class="domroll /images/menu/our-work-selected.gif" alt="Angels at Work (selected)" width="88" height="22"></a></td><script type="text/javascript">var tableHeight = 340;</script>'):
+                    (print'<img border="0" src="/images/menu/our-work.gif" class="domroll /images/menu/our-work-selected.gif" alt="Angels at Work" width="88" height="22"></a></td>')
+                  ?>
+
+                <td width="2"><img border="0" src="/images/dv-line.gif" alt="divider" width="2" height="22"></td>
+                <td width="50">
+                  <a href="/volunteer/join.php">
+                  <?
+                    ($topNav=='volunteer')?
+                    (print'<img border="0" src="/images/menu/volunteer-selected.gif" class="domroll /images/menu/volunteer-selected.gif" alt="Volunteer with Animal Angels Foundation (selected)" width="108" height="22"></a></td><script type="text/javascript">var tableHeight = 1410;</script>'):
+                    (print'<img border="0" src="/images/menu/volunteer.gif" class="domroll /images/menu/volunteer-selected.gif" alt="Volunteer with Animal Angels Foundation" width="108" height="22"></a></td>')
                   ?>
 
                 <td width="2"><img border="0" src="/images/dv-line.gif" alt="divider" width="2" height="22"></td>
@@ -42,17 +51,8 @@
                   <a href="/news/news.php">
                   <?
                     ($topNav=='news')?
-                    (print'<img border="0" src="/images/bt-news-mo.gif" class="domroll /images/bt-news-mo.gif" alt="Angels in the News (selected)" width="108" height="22"></a></td><script type="text/javascript">var tableHeight = 1410;</script>'):
-                    (print'<img border="0" src="/images/bt-news.gif" class="domroll /images/bt-news-mo.gif" alt="Angels in the News" width="108" height="22"></a></td>')
-                  ?>
-
-                <td width="2"><img border="0" src="/images/dv-line.gif" alt="divider" width="2" height="22"></td>
-                <td width="50">
-                  <a href="/join-us/join.php">
-                  <?
-                    ($topNav=='join')?
-                    (print'<img border="0" src="/images/bt-joinus-mo.gif" class="domroll /images/bt-joinus-mo.gif" alt="Join Animal Angels Foundation (selected)" width="50" height="22"></a></td><script type="text/javascript">var tableHeight = 340;</script>'):
-                    (print'<img border="0" src="/images/bt-joinus.gif" class="domroll /images/bt-joinus-mo.gif" alt="Join Animal Angels Foundation" width="50" height="22"></a></td>')
+                    (print'<img border="0" src="/images/menu/media-selected.gif" class="domroll /images/menu/media-selected.gif" alt="Media coverage for Animal Angels Foundation (selected)" width="50" height="22"></a></td><script type="text/javascript">var tableHeight = 340;</script>'):
+                    (print'<img border="0" src="/images/menu/media.gif" class="domroll /images/menu/media-selected.gif" alt="Media coverage for Animal Angels Foundation" width="50" height="22"></a></td>')
                   ?>
 
                 <td width="2"><img border="0" src="/images/dv-line.gif" alt="divider" width="2" height="22"></td>
@@ -60,8 +60,8 @@
                   <a href="/services/aat-children.php">
                   <?
                     ($topNav=='services')?
-                    (print'<img border="0" src="/images/bt-services-mo.gif" class="domroll /images/bt-services-mo.gif" alt="Services provided by Animal Angels Foundation (selected)" width="56" height="22"></a></td><script type="text/javascript">var tableHeight = 340;</script>'):
-                    (print'<img border="0" src="/images/bt-services.gif" class="domroll /images/bt-services-mo.gif" alt="Services provided by Animal Angels Foundation" width="56" height="22"></a></td>')
+                    (print'<img border="0" src="/images/menu/services-selected.gif" class="domroll /images/menu/services-selected.gif" alt="Services provided by Animal Angels Foundation (selected)" width="56" height="22"></a></td><script type="text/javascript">var tableHeight = 340;</script>'):
+                    (print'<img border="0" src="/images/menu/services.gif" class="domroll /images/menu/services-selected.gif" alt="Services provided by Animal Angels Foundation" width="56" height="22"></a></td>')
                   ?>
 
                 <td width="2"><img border="0" src="/images/dv-line.gif" alt="divider" width="2" height="22"></td>
@@ -69,8 +69,8 @@
                   <a href="/contact-us/contact.php">
                   <?
                     ($topNav=='contact')?
-                    (print'<img border="0" src="/images/bt-contactus-mo.gif" class="domroll /images/bt-contactus-mo.gif" alt="Contact Animal Angels Foundation (selected)" width="72" height="22"></a></td><script type="text/javascript">var tableHeight = 340;</script>'):
-                    (print'<img border="0" src="/images/bt-contactus.gif" class="domroll /images/bt-contactus-mo.gif" alt="Contact Animal Angels Foundation" width="72" height="22"></a></td>')
+                    (print'<img border="0" src="/images/menu/contact-us-selected.gif" class="domroll /images/menu/contact-us-selected.gif" alt="Contact Animal Angels Foundation (selected)" width="72" height="22"></a></td><script type="text/javascript">var tableHeight = 340;</script>'):
+                    (print'<img border="0" src="/images/menu/contact-us.gif" class="domroll /images/menu/contact-us-selected.gif" alt="Contact Animal Angels Foundation" width="72" height="22"></a></td>')
                   ?>
                   
               </tr>
@@ -81,49 +81,47 @@
 
 				<td width="2"><img border="0" src="/images/dv-line.gif" alt="divider" width="2" height="22"></td>
                 <td width="97">
-                  <a href="/workshops/bow-wow.php">
+                  <a href="/aat-courses/courses.php">
                   <?
-                    ($topNav=='workshop-registration')?
-                    (print'<img border="0" src="/images/bt-workshops-mo.gif" class="domroll /images/bt-workshops-mo.gif" alt="Workshop Registration at Animal Angels Foundation (selected)" width="97" height="22"></a></td><script type="text/javascript">var tableHeight = 475;</script>'):
-                    (print'<img border="0" src="/images/bt-workshops.gif" class="domroll /images/bt-workshops-mo.gif" alt="Workshop Registration at Animal Angels Foundation" width="97" height="22"></a></td>')
+                    ($topNav=='aat-courses')?
+                    (print'<img border="0" src="/images/menu/aat-courses-selected.gif" class="domroll /images/menu/aat-courses-selected.gif" alt="AAT courses at Animal Angels Foundation (selected)" width="97" height="22"></a></td><script type="text/javascript">var tableHeight = 475;</script>'):
+                    (print'<img border="0" src="/images/menu/aat-courses.gif" class="domroll /images/menu/aat-courses-selected.gif" alt="AAT courses at Animal Angels Foundation" width="97" height="22"></a></td>')
                   ?>
 
-                <td width="2"><img border="0" src="/images/dv-line.gif" alt="orange line" width="2" height="22"></td>
-                <td width="96">
-                  <a href="/volunteer-work/cheshire-home.php">
-                  <?
-                    ($topNav=='volunteer')?
-                    (print'<img border="0" src="/images/bt-volunteer-work-mo.gif" class="domroll /images/bt-volunteer-work-mo.gif" alt="Volunteer Work that Animal Angels Foundation performs (selected)" width="96" height="22"></a></td><script type="text/javascript">var tableHeight = 340;</script>'):
-                    (print'<img border="0" src="/images/bt-volunteer-work.gif" class="domroll /images/bt-volunteer-work-mo.gif" alt="Volunteer work that Animal Angels Foundation performs" width="96" height="22"></a></td>')
-                  ?>
+                <td width="2"><img border="0" src="/images/dv-line.gif" alt="divider" width="2" height="22"></td>
+                <td width="96"><img border="0" src="/images/orange-line.gif" alt="orange line" width="96" height="22"></td>
 
                 <td width="2"><img border="0" src="/images/dv-line.gif" alt="divide" width="2" height="22"></td>
                 <td width="88">
-                  <a href="/angels-home/ace-labrador.php">
+                  <a href="/testimonials/ace-labrador.php">
                   <?
-                    ($topNav=='angels-home')?
-                    (print'<img border="0" src="/images/bt-angels-home-mo.gif" class="domroll /images/bt-angels-home-mo.gif" alt="Home trained animals at Animal Angels Foundation (selected)" width="88" height="22"></a></td><script type="text/javascript">var tableHeight = 340;</script>'):
-                    (print'<img border="0" src="/images/bt-angels-home.gif" class="domroll /images/bt-angels-home-mo.gif" alt="Home trained animals at Animal Angels Foundation" width="88" height="22"></a></td>')
+                    ($topNav=='testimonials')?
+                    (print'<img border="0" src="/images/menu/testimonials-selected.gif" class="domroll /images/menu/testimonials-selected.gif" alt="Testimonials (selected)" width="88" height="22"></a></td><script type="text/javascript">var tableHeight = 340;</script>'):
+                    (print'<img border="0" src="/images/menu/testimonials.gif" class="domroll /images/menu/testimonials-selected.gif" alt="Testimonials" width="88" height="22"></a></td>')
                   ?>
+
                 <td width="2"><img border="0" src="/images/dv-line.gif" alt="divider" width="2" height="22"></td>
                 <td width="108"><img border="0" src="/images/orange-line.gif" alt="orange line" width="108" height="22"></td>
+
                 <td width="2"><img border="0" src="/images/dv-line.gif" alt="divider" width="2" height="22"></td>
                 <td width="50">
-                  <a href="/videos/vimeo.php">
+                  <a href="/videos/youtube.php">
                   <?
                     ($topNav=='videos')?
-                    (print'<img border="0" src="/images/bt-videos-mo.gif" class="domroll /images/bt-videos-mo.gif" alt="Watch videos of Animal Angels Foundation (selected)" width="50" height="22"></a></td><script type="text/javascript">var tableHeight = 340;</script>'):
-                    (print'<img border="0" src="/images/bt-videos.gif" class="domroll /images/bt-videos-mo.gif" alt="Watch videos of Animal Angels Foundation" width="50" height="22"></a></td>')
+                    (print'<img border="0" src="/images/menu/videos-selected.gif" class="domroll /images/menu/videos-selected.gif" alt="Watch videos of Animal Angels Foundation (selected)" width="50" height="22"></a></td><script type="text/javascript">var tableHeight = 340;</script>'):
+                    (print'<img border="0" src="/images/menu/videos.gif" class="domroll /images/menu/videos-selected.gif" alt="Watch videos of Animal Angels Foundation" width="50" height="22"></a></td>')
                   ?>
+
                 <td width="2"><img border="0" src="/images/dv-line.gif" alt="divider" width="2" height="22"></td>
                 <td width="56"><img border="0" src="/images/orange-line.gif" alt="orange line" width="56" height="22"></td>
+
                 <td width="2"><img border="0" src="/images/dv-line.gif" alt="divider" width="2" height="22"></td>
                 <td width="72">
-                  <a href="/support-us/support.php">
+                  <a href="/donate/donate.php">
                   <?
-                    ($topNav=='support')?
-                    (print'<img border="0" src="/images/bt-support-mo.gif" class="domroll /images/bt-support-mo.gif" alt="Make a donation towards Animal Angels Foundation (selected)" width="72" height="22"></a></td><script type="text/javascript">var tableHeight = 340;</script>'):
-                    (print'<img border="0" src="/images/bt-support.gif" class="domroll /images/bt-support-mo.gif" alt="Make a donation towards Animal Angels Foundation" width="72" height="22"></a></td>')
+                    ($topNav=='donate')?
+                    (print'<img border="0" src="/images/menu/donate-selected.gif" class="domroll /images/menu/donate-selected.gif" alt="Donate towards Animal Angels Foundation (selected)" width="72" height="22"></a></td><script type="text/javascript">var tableHeight = 340;</script>'):
+                    (print'<img border="0" src="/images/menu/donate.gif" class="domroll /images/menu/donate-selected.gif" alt="Donate towards Animal Angels Foundation" width="72" height="22"></a></td>')
                   ?>
               </tr>
             </table>

@@ -80,12 +80,12 @@
                     </tr>
                     <tr>
                       <td width="100%">
-                      <p align="justify">
-                      <img border="0" src="/images/pic-casper.jpg" alt="Labrador Casper the therapy dog at Animal Angels Foundation" align="left" hspace="10" width="130" height="230">After 7 years of serving as a therapy dog on our team, Casper decided to retire.  He was one of our first therapy dogs who started working at Skills and Ability School , Nerul when he was only 8 months old. He stole the hearts of everyone at the school, from the children, to the teachers, staff and even the gardener!</p>
-                      <p align="justify">For many children he was the first dog they had ever interacted with. He was ever willing to hand out licks and kisses, which made every child feel very special. Casper was their security blanket when the world around them didn't make sense.  Most importantly, he was their best friend, who never laughed at them or mocked them for their short comings. He would patiently wait for them to feed him his favourite treat, never snatching it from their fingers if they took too long to pick it up. He has assisted us in helping children to improve their speech, motor movements and academics. They loved 'teaching' Casper a-b-c and 1-2-3's.</p>
-                      <p align="justify">Casper, on his part, thoroughly enjoyed coming to school. He would wait for us by the window each morning and greet us with the same unbridled enthusiasm every time. In fact his owners Subroto and Vijji Saha would tell us that on school holidays he would sit by the window, looking out expectantly at every rickshaw that passed by.</p>
-                      <p align="justify">To sum it up, Casper is still missed by the children and staff who keep asking us to bring him to school to say hi. As one child very aptly put it, "it's ok if you (therapists) don't come to school; but please send Casper in a rickshaw".</p>
-                      <p align="center"><b><i>Thank you Casper, for being an 'Angel'</i></b></p>
+                      <p align="center"><img border="0" src="/images/about/casper.jpg" alt="Labrador Casper the therapy dog at Animal Angels Foundation" hspace="0" width="500" height="480"></p>
+                      <p align="justify">Casper passed away on May 15, 2015 leaving behind a gaping hole in our hearts and our lives. He had been battling cancer and finally, too tred to fight anymore, passed on peacefully surrounded by his family.</p>
+                      <p align="justify">We first met him in 2005 -- a naughty, lively little puppy! He helped us get our first contract for animal-assisted therapy with the <a href="http://animalangelsfoundation.com/angels-work/saas.php">Skills and Ability School</a> in Nerul.</p>
+                      <p align="justify">For 7 years he captured the hearts of students and teachers alike. He was an exemplary therapy dog. Thanks to him the children improved in leaps and bounds! A child who had not spoken in 3 years said his fist word -- "Casper". A child who was severely autistic and could not sit still for a minute, began sitting next to Casper and cuddling him for almost an hour!</p>
+                      <p align="justify">He worked his magic on the staff as well. Teachers got over their fear and started coming to him for their daily dose of love.</p>
+                      <p align="justify">We will miss you our handsome, gentle boy. Thank you for coming into our lives and changing it forever.</p>
                       </td>
                     </tr>
                   </table>

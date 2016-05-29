@@ -65,30 +65,138 @@
               <tr>
                 <td valign="top">
 
+		  <? include($_SERVER['DOCUMENT_ROOT'] . "/common/javaScript/toggle.js"); ?>
 
                   <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="90%" id="AutoNumber10">
                     <tr>
                       <td width="100%">&nbsp;</td>
                     </tr>
+
+
                     <tr>
                       <td width="100%">
-                      <h3>
-                      <img border="0" src="/images/big-bullet.jpg" alt="Big bullet" align="absmiddle" width="20" height="18">&nbsp;&nbsp; 
-                      Animal Angels Foundation on YouTube</h3>
+			<div id="headerDiv">
+			    <div id="titleText"><h3><img border="0" src="/images/big-bullet.jpg" alt="Big bullet" align="absmiddle" width="20" height="18">&nbsp;&nbsp;Animal Assisted Therapy with Children</h3>
+			    </div>
+
+			    <script type="text/javascript"> 
+				//var anchor = location.hash.substr(1,(location.hash.indexOf("?"))-1);
+				var anchor = location.hash.substr(1);
+				//alert (anchor);
+				if(anchor == "aat_with_children" || anchor == "")
+				{
+					document.write("<a id=\"aat_with_children_Header\" href=\"javascript:toggle('aat_with_children_Content','aat_with_children_Header');\"><img src=\"/images/minus.png\"></a>");
+					document.write("</div>");
+					document.write("<div style=\"clear:both;\"></div>");
+					document.write("<div id=\"aat_with_children_Content\" style=\"display: block;\">");
+			  	}
+				else
+				{
+					document.write("<a id=\"aat_with_children_Header\" href=\"javascript:toggle('aat_with_children_Content','aat_with_children_Header');\"><img src=\"/images/plus.png\"></a>");
+					document.write("</div>");
+					document.write("<div style=\"clear:both;\"></div>");
+					document.write("<div id=\"aat_with_children_Content\" style=\"display: none;\">");
+				}
+			    </script>
+
+			    <center>View directly on <a href="https://www.youtube.com/watch?v=MHBg5nfAjU4" target="_blank">YouTube</a><br />&nbsp;<br />
+			    <iframe width="420" height="315" src="https://www.youtube.com/embed/MHBg5nfAjU4" frameborder="0" allowfullscreen></iframe>
+                      	    </center>
+			</div>
                       </td>
+                    </tr>
+
+
+                    <tr>
+                      <td width="100%" height="10px">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td align="center" width="100%">
-                      <br><center>View directly on <a href="http://www.youtube.com/watch?v=Qzfyw67WHZM" target="_blank">YouTube</a><br>&nbsp;</center>
-                      </td>
+                      <td width="100%"><hr/></td>
                     </tr>
+                    <tr>
+                      <td width="100%" height="10px">&nbsp;</td>
+                    </tr>
+
+
                     <tr>
                       <td width="100%">
-                      <center>
-                      <iframe title="YouTube video player" class="youtube-player" type="text/html" width="425" height="349" src="http://www.youtube.com/embed/Qzfyw67WHZM?rel=0" frameborder="0" allowFullScreen></iframe>
-                      </center>
-		      </td>
+			<div id="headerDiv">
+			    <div id="titleText"><h3><img border="0" src="/images/big-bullet.jpg" alt="Big bullet" align="absmiddle" width="20" height="18">&nbsp;&nbsp;Animal Assisted Therapy with Adults</h3>
+			    </div>
+
+			    <script type="text/javascript"> 
+				//var anchor = location.hash.substr(1,(location.hash.indexOf("?"))-1);
+				var anchor = location.hash.substr(1);
+				//alert (anchor);
+				if(anchor == "aat_with_adults" || anchor == "")
+				{
+					document.write("<a id=\"aat_with_adults_Header\" href=\"javascript:toggle('aat_with_adults_Content','aat_with_adults_Header');\"><img src=\"/images/minus.png\"></a>");
+					document.write("</div>");
+					document.write("<div style=\"clear:both;\"></div>");
+					document.write("<div id=\"aat_with_adults_Content\" style=\"display: block;\">");
+			  	}
+				else
+				{
+					document.write("<a id=\"aat_with_adults_Header\" href=\"javascript:toggle('aat_with_adults_Content','aat_with_adults_Header');\"><img src=\"/images/plus.png\"></a>");
+					document.write("</div>");
+					document.write("<div style=\"clear:both;\"></div>");
+					document.write("<div id=\"aat_with_adults_Content\" style=\"display: none;\">");
+				}
+			    </script>
+
+			    <center>View directly on <a href="https://www.youtube.com/watch?v=JKQgxOCnGRs" target="_blank">YouTube</a><br />&nbsp;<br />
+			    <iframe width="560" height="315" src="https://www.youtube.com/embed/JKQgxOCnGRs" frameborder="0" allowfullscreen></iframe>
+                      	    </center>
+			</div>
+                      </td>
                     </tr>
+
+
+                    <tr>
+                      <td width="100%" height="10px">&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td width="100%"><hr/></td>
+                    </tr>
+                    <tr>
+                      <td width="100%" height="10px">&nbsp;</td>
+                    </tr>
+
+
+                    <tr>
+                      <td width="100%">
+			<div id="headerDiv">
+			    <div id="titleText"><h3><img border="0" src="/images/big-bullet.jpg" alt="Big bullet" align="absmiddle" width="20" height="18">&nbsp;&nbsp;Animal Angels Foundation on YouTube</h3>
+			    </div>
+
+			    <script type="text/javascript"> 
+				//var anchor = location.hash.substr(1,(location.hash.indexOf("?"))-1);
+				var anchor = location.hash.substr(1);
+				//alert (anchor);
+				if(anchor == "animal_angels_youtube" || anchor == "")
+				{
+					document.write("<a id=\"animal_angels_youtube_Header\" href=\"javascript:toggle('animal_angels_youtube_Content','animal_angels_youtube_Header');\"><img src=\"/images/minus.png\"></a>");
+					document.write("</div>");
+					document.write("<div style=\"clear:both;\"></div>");
+					document.write("<div id=\"animal_angels_youtube_Content\" style=\"display: block;\">");
+			  	}
+				else
+				{
+					document.write("<a id=\"animal_angels_youtube_Header\" href=\"javascript:toggle('animal_angels_youtube_Content','animal_angels_youtube_Header');\"><img src=\"/images/plus.png\"></a>");
+					document.write("</div>");
+					document.write("<div style=\"clear:both;\"></div>");
+					document.write("<div id=\"animal_angels_youtube_Content\" style=\"display: none;\">");
+				}
+			    </script>
+
+			    <center>View directly on <a href="http://www.youtube.com/watch?v=Qzfyw67WHZM" target="_blank">YouTube</a><br />&nbsp;<br />
+			    <iframe title="YouTube video player" class="youtube-player" type="text/html" width="425" height="349" src="http://www.youtube.com/embed/Qzfyw67WHZM?rel=0" frameborder="0" allowFullScreen></iframe>
+                      	    </center>
+			</div>
+                      </td>
+                    </tr>
+
+
                   </table>
                 </td>
               </tr>
