@@ -80,7 +80,7 @@
                     <tr>
                       <td width="100%">
                       <p align="justify">
-                      <img border="0" src="/images/pic-simbaa-in-house.jpg" alt="In-home therapy dog Simbaa" align="left" hspace="10" width="150" height="217">Hi! I am an in-house Angel...this means I get to be with my buddy <a href="/angels-home/simbaa-jiyon.php">Jiyon</a> all day long! From jumping on his bed and waking him up with licks every morning (I cannot let him be late for school!), to cuddling up for a bedtime story at night.</p>
+                      <img border="0" src="/images/pic-simbaa-in-house.jpg" alt="In-home therapy dog Simbaa" align="left" hspace="10" width="150" height="217">Hi! I am an in-house Angel...this means I get to be with my buddy <a href="/testimonials/simbaa-jiyon.php">Jiyon</a> all day long! From jumping on his bed and waking him up with licks every morning (I cannot let him be late for school!), to cuddling up for a bedtime story at night.</p>
 	                  <p align="justify">We do everything together - run, play ball, homework. When I am at his side, my buddy stays calm and relaxed. That's why i am even allowed to travel with him in the cabin when he <a href="/news/toi-2013-03-03.php">flies to Kolkata for holidays</a>!</p>
 					  </td>
                     </tr>

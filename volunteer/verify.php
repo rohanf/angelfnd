@@ -62,7 +62,7 @@
 
 
             <script type="text/javascript">
-              document.write("<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse: collapse\" bordercolor=\"#111111\" width=\"90%\" id=\"AutoNumber19\" height=" + tableHeight + ">");
+              document.write("<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse: collapse\" bordercolor=\"#111111\" width=\"90%\" id=\"AutoNumber19\" height=\"800\">");
             </script>
               <tr>
                 <td valign="top">
@@ -81,17 +81,36 @@
                       <td width="100%" height="5"></td>
                     </tr>
                     <tr>
-                    	<td>
+                    	<td valign='top'>
                         	<?php
-								$privatekey = "6LfsHOESAAAAAMLHrBKW2G528lEJML5nU0PUd3v7";
-								$resp = recaptcha_check_answer ($privatekey, $_SERVER["REMOTE_ADDR"], $_POST["recaptcha_challenge_field"], $_POST["recaptcha_response_field"]);
-								if (!$resp->is_valid) {
-									// What happens when the CAPTCHA was entered incorrectly
+
+
+                                                               $captcha;
+                                                               //if(isset($_POST['email'])){
+                                                               //  $email=$_POST['email'];
+                                                               //}if(isset($_POST['comment'])){
+                                                               //  $email=$_POST['comment'];
+                                                               //}
+                                                               if(isset($_POST['g-recaptcha-response'])){
+                                                                 $captcha=$_POST['g-recaptcha-response'];
+                                                               }
+                                                               if(!$captcha){
 									echo "<p align='center'>
 									<img border='0' src='/images/sad_dog.jpg' alt='Awwww' width='506' height='337' /><br><br><br>
-									Sorry, we weren't able to verify that you were human. Please <a href='/join-us/join.php'>try again</a></p>";
+									Sorry, we weren't able to verify that you were human. Please make sure to check the box and <a href='/volunteer/join.php'>try again</a></p>";
 									die();
-								} else {
+                                                                 exit;
+                                                               }
+                                                               $secretKey = "6LfsHOESAAAAAMLHrBKW2G528lEJML5nU0PUd3v7";
+                                                               $ip = $_SERVER['REMOTE_ADDR'];
+                                                               $response=file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret=".$secretKey."&response=".$captcha."&remoteip=".$ip);
+                                                               $responseKeys = json_decode($response,true);
+                                                               if(intval($responseKeys["success"]) !== 1) {
+									echo "<p align='center'>
+									<img border='0' src='/images/sad_dog.jpg' alt='Awwww' width='506' height='337' /><br><br><br>
+									Sorry, we weren't able to verify that you were human. Please  make sure to check the box and <a href='/volunteer/join.php'>try again</a></p>";
+									die();
+                                                               } else {
 									$name = $_REQUEST['name'];
 									$email = $_REQUEST['email'];
 									$phone = $_REQUEST['phone'];
@@ -109,7 +128,7 @@
 									$message = "Name: ".$name."\n"."Phone number: ".$phone."\n"."Pet's name: ".$pet_name."\n"."Pet's species: ".$pet_species."\n"."Pet's breed: ".$pet_breed."\n"."Pet's sex: ".$pet_sex."\n"."Pet's birthday: ".$pet_bday."\n"."Address: ".$address_line1."\n"."Street: ".$address_street."\n"."Landmark: ".$address_landmark."\n"."Area: ".$address_area."\n"."Nearest railway station: ".$address_station."\n"."Coments: ".$comments;
 									mail("animalangelsindia@gmail.com", "Pet Therapy Registration", $message, "From:" . $email);
 									echo "Thank you $name. We will get in touch with you as soon as we have our next round of temperament testing for pets, or, if we are on the look out for a therapy pet at a specific location in Bombay.</p>";
-								}
+                                                               }
 							?>
                         </td>
                     </tr>

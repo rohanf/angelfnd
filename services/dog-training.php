@@ -85,7 +85,7 @@
                     <tr>
                       <td width="100%" height="185">
                       <ul>
-                        <li><img border="0" src="/images/pic-dog-training.jpg" alt="Therapy dog Angel" align="right" hspace="5" width="150" height="226">We specialize in training dogs and cats to be <a href="/angels-home/simbaa-jiyon.php">therapy pets.</a></li>
+                        <li><img border="0" src="/images/pic-dog-training.jpg" alt="Therapy dog Angel" align="right" hspace="5" width="150" height="226">We specialize in training dogs and cats to be <a href="/testimonials/simbaa-jiyon.php">therapy pets.</a></li>
 			<br />
                         <li>We offer dog-training services to teach people how to train and handle their dogs. This includes training in obedience and handling dog behaviour problems.</li>
                       </ul>

@@ -102,7 +102,6 @@
                         	<?php
 									echo "<form method='post' action='verify.php'>";
 $publickey = "6LfsHOESAAAAAOmRF7QoHtDKtEMqdBsZU1w52e-8";
-echo recaptcha_get_html($publickey);
 echo "<pre>Your name: <input type='text' name='name'><br />
 Email address: <input type='text' name='email'><br />
 Contact number: <input type='text' name='phone'><br />
