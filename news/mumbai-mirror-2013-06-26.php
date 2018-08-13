@@ -136,9 +136,8 @@
                             <p align="justify"><b>Change is good</b><br /><br />In the last year that Simbaa has become part of the Bhattacharya family, Jiyon has begun to understand that he must speak in complete sentences, and that people get hurt when they are hit. While earlier, he would not sit still in a car, he has now begun to understand the importance of a seat belt, and buckle it on his own. He even requests his mom to play a favourite song on the stereo.</p>
                             <p align="justify">"If, earlier, there would be five bad days a month, now there are only two. I have heard of kids with autism who grow up to be engineers and doctors. But there are others who never learn to communicate. I am open to the possibility that Jiyon will not reach the former level. But the fact that he has started communicating is a huge relief," says Bhattacharya.</p>
                             <p align="justify">Down in the building compound, Jiyon waits for his turn at the swing. "If a child tells him, 'do minute ruk jaa', Jiyon waits. I am no longer worried about my son, only concerned", she adds.</p>
-                            <p align="justify"><b>CONTACT THEM</b></p>
-                            <p align="justify"><b>ROHINI FERNANDES </b>+91-9820788703</p>
-                            <p align="justify"><b>RADHIKA NAIR </b>+91-9820144621</p>
+                            <p align="justify"><b>CONTACT</b></p>
+                            <p align="justify"><b>RADHIKA NAIR </b><a href="tel:+919820144621">9820144621</a></p>
 						  </td>
 						</tr>
 					  </table>
