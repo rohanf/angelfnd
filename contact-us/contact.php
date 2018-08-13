@@ -3,7 +3,7 @@
 
 <head>
   <meta http-equiv="Content-Language" content="en-us">
-  <meta name="keywords" content="animal angels foundation, animal assisted therapy, therapy animals, animal assisted activities, trained therapy animals, trained animals, therapy pets, animal assisted therapy services, dog training services, contact animal angels foundation mumbai, rohini fernands, radhika nair, 9820788703, 9820144621, Military Road, Marol, Andheri East, animalangels@rediffmail.com">
+  <meta name="keywords" content="animal angels foundation, animal assisted therapy, therapy animals, animal assisted activities, trained therapy animals, trained animals, therapy pets, animal assisted therapy services, dog training services, contact animal angels foundation mumbai, radhika nair, 9820144621, 601 Oceanus">
   <meta name="description" content="If you would like to learn more about Animal Angels Foundation and our programs you can contact Rohini Fernandes or Radhika Nair at Military Road, Marol, Andheri East, Mumbai">
   <title>Contact Animal Angels Foundation</title>
   <link rel="stylesheet" type="text/css" href="/ds.css">
@@ -93,15 +93,7 @@
                     </tr>
                     <tr>
                       <td width="100%">
-                      <b>Rohini Fernandes:</b> +91 98207 88703</td>
-                    </tr>
-                    <tr>
-                      <td width="100%">&nbsp;
-                      </td>
-                    </tr>
-                    <tr>
-                      <td width="100%">
-                      <b>Radhika Nair:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +91 98201 &nbsp;44621</td>
+                      <b>Radhika Nair:</b> <a href="tel:+919820144621">9820144621</a></td>
                     </tr>
                     <tr>
                       <td width="100%">&nbsp;
@@ -129,10 +121,10 @@
                           <tr>
                             <td width="100%" class="tch">
                             <p align="center"><span style="font-weight: 400">
-                            Prerna, Flat 11<br>
-                            Military Road<br>
-                            Marol, Andheri (E)<br>
-		                Mumbai - 400059<br>
+                            601 Oceanus<br>
+                            Green Fields Society<br>
+                            A.B. Nair Road, Juhu<br>
+		                    Mumbai - 400049<br>
                             INDIA</span></td>
                           </tr>
                         </table>
